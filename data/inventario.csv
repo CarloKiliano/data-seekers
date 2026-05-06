@@ -1,0 +1,2001 @@
+almacen,modelo,talla,fecha,stock,capacidad_max,movimiento,punto_reorden
+Coahuila,Urbano,22,2025-09-26,215,1500,salida,100
+Chihuahua,SuperFaro,16,2025-05-17,185,1500,salida,75
+Chihuahua,084,23,2024-11-21,24,750,salida,150
+Quintana,Flip,28,2023-08-21,29,750,salida,50
+Coahuila,084 Diamante,15,2023-04-16,166,750,devolución,50
+Quintana,084 Campeón,26,2023-07-31,38,1000,salida,100
+Hidalgo,Caimán,28,2025-05-11,256,750,entrada,75
+Morelos,Urbano,20,2023-12-05,317,750,entrada,75
+Coahuila,Barracuda,28,2024-07-01,367,750,entrada,75
+Puebla,084 Clásico,28,2022-07-30,444,1000,entrada,50
+Michoacan,Barracuda,18,2023-12-13,160,500,salida,100
+Puebla,Barracuda,26,2024-03-08,244,750,entrada,100
+Quintana,Urbano,18,2024-05-09,107,750,entrada,75
+Quintana,Perestroika,26,2024-01-11,289,500,salida,75
+Chihuahua,084,18,2025-03-03,203,500,entrada,150
+EdoMex,Flip,28,2023-12-19,89,750,salida,75
+Nuevo,Caimán,26,2024-12-17,112,1000,salida,100
+Coahuila,Perestroika,16,2026-02-19,324,1000,entrada,150
+Puebla,084 Diamante,26,2024-09-10,258,1000,entrada,150
+Morelos,Caimán,26,2024-11-22,299,500,entrada,100
+Quintana,Panam Alfa,24,2021-05-23,211,1000,entrada,75
+Chihuahua,Gran Prix,23,2024-10-12,171,500,entrada,50
+EdoMex,084 Campeón,19,2021-10-25,213,1500,entrada,75
+Quintana,Flip,24,2024-10-27,276,750,salida,100
+Quintana,084 Clásico,24,2024-05-08,110,750,salida,50
+Quintana,084 Diamante,17,2022-07-15,226,750,devolución,150
+Michoacan,Flip,25,2025-03-25,456,1500,entrada,50
+Chihuahua,Caimán,27,2023-09-05,43,750,salida,75
+Michoacan,084 Clásico,19,2021-07-05,150,500,devolución,50
+Morelos,Ultra,24,2023-01-24,97,750,salida,150
+Quintana,Caimán,20,2023-02-13,182,500,entrada,100
+CDMX,Perestroika,19,2023-07-10,3,750,salida,75
+Puebla,Vital,27,2023-11-08,151,1000,devolución,75
+Puebla,Perestroika,27,2024-07-09,421,1000,entrada,150
+EdoMex,Gran Prix,16,2021-07-18,111,750,salida,50
+Morelos,Urbano,16,2024-01-31,30,750,salida,100
+Nuevo,Flip,24,2024-12-24,243,1000,salida,150
+Coahuila,Barracuda,27,2024-08-06,245,1500,salida,50
+EdoMex,Vital,15,2024-02-12,315,750,entrada,100
+Morelos,Barracuda,23,2026-02-03,489,500,entrada,100
+Michoacan,084 Diamante,14,2026-02-09,102,1500,salida,100
+Chihuahua,Gran Prix,23,2023-01-15,487,500,entrada,150
+Quintana,Gran Prix,24,2023-03-05,183,1500,salida,100
+EdoMex,Vital,25,2025-08-15,427,1500,entrada,100
+Hidalgo,Ultra,15,2025-02-01,202,750,salida,50
+Michoacan,084 Clásico,19,2023-09-04,165,1000,entrada,100
+Michoacan,Urbano,25,2022-04-03,212,1500,devolución,75
+Hidalgo,084 Clásico,13,2021-12-23,123,1000,entrada,75
+Coahuila,SuperFaro,25,2023-05-31,129,500,entrada,50
+Quintana,Panam Alfa,18,2022-09-16,91,500,salida,50
+Coahuila,Barracuda,28,2024-02-11,426,750,entrada,75
+Chihuahua,Barracuda,18,2025-06-04,16,1500,salida,75
+Quintana,Flip,22,2025-05-05,321,750,entrada,50
+Hidalgo,SuperFaro,25,2021-09-26,108,1500,salida,150
+Puebla,Panam Alfa,25,2024-08-30,324,1000,entrada,100
+Quintana,Barracuda,26,2025-06-27,146,750,devolución,150
+Hidalgo,Urbano,30,2023-06-21,289,1500,salida,75
+Puebla,Flip,24,2023-09-23,8,1000,salida,75
+Quintana,SuperFaro,24,2026-05-01,84,750,salida,150
+EdoMex,Panam Alfa,26,2024-07-14,74,1000,salida,150
+Hidalgo,Caimán,28,2021-11-06,225,750,entrada,150
+Nuevo,Vaivén,26,2022-03-17,138,750,salida,75
+Morelos,RL15,17,2021-10-27,320,500,entrada,50
+Quintana,RL15,27,2024-04-05,126,500,devolución,50
+Coahuila,RL15,28,2023-09-10,202,1500,salida,75
+CDMX,Vital,16,2025-12-02,230,1000,entrada,50
+Morelos,084 Clásico,23,2024-06-27,165,750,salida,100
+EdoMex,Vital,18,2025-01-26,276,500,salida,75
+EdoMex,Ultra,26,2023-10-06,396,1500,entrada,150
+Nuevo,SuperFaro,27,2022-04-16,104,750,salida,50
+Coahuila,084,17,2025-05-11,80,500,salida,150
+Coahuila,084,18,2022-06-27,187,500,salida,75
+EdoMex,084 Clásico,21,2021-12-22,177,750,entrada,75
+EdoMex,084 Clásico,25,2024-02-08,489,1000,entrada,50
+Nuevo,084 Campeón,24,2024-11-11,185,750,entrada,75
+Nuevo,Vaivén,19,2022-08-20,218,500,salida,50
+EdoMex,084 Diamante,17,2022-08-16,109,1500,entrada,150
+CDMX,084,26,2023-11-20,394,500,entrada,50
+Nuevo,RL15,25,2026-03-24,40,1000,salida,75
+Hidalgo,Vital,25,2023-01-17,250,1000,entrada,75
+Chihuahua,Gran Prix,24,2026-02-14,246,500,salida,100
+Quintana,084 Diamante,16,2022-02-03,222,500,salida,150
+Puebla,Perestroika,27,2025-01-26,466,500,entrada,75
+CDMX,Ultra,25,2023-06-07,95,500,salida,50
+CDMX,Urbano,27,2024-02-18,266,1000,salida,50
+Morelos,084,13,2026-03-20,157,500,entrada,100
+Coahuila,Ultra,24,2025-12-29,109,500,salida,75
+Coahuila,Perestroika,16,2023-07-25,179,1500,salida,75
+Coahuila,084 Clásico,25,2026-01-29,21,750,salida,50
+Hidalgo,Vaivén,15,2025-11-11,177,750,salida,75
+Chihuahua,084 Clásico,22,2023-10-28,13,1500,salida,150
+Nuevo,Caimán,26,2021-07-13,321,750,entrada,50
+Puebla,RL15,16,2022-07-16,196,1000,entrada,75
+Coahuila,Vaivén,26,2021-12-03,108,500,entrada,100
+EdoMex,084,15,2024-01-06,173,1000,salida,50
+Puebla,Ultra,22,2024-06-01,411,500,entrada,50
+Michoacan,084,25,2025-02-19,265,1000,entrada,100
+Nuevo,084 Campeón,19,2023-03-04,350,750,entrada,150
+CDMX,084,24,2022-11-29,251,750,salida,50
+Hidalgo,084 Campeón,23,2024-01-29,437,1000,entrada,75
+Chihuahua,SuperFaro,27,2025-04-30,3,750,salida,150
+EdoMex,Panam Alfa,17,2023-04-13,226,750,salida,50
+Coahuila,084,16,2025-04-06,120,1000,salida,50
+Hidalgo,084,15,2024-06-04,198,1500,entrada,75
+Quintana,084 Campeón,24,2024-03-05,37,1000,salida,50
+Chihuahua,084 Clásico,17,2023-01-14,261,1500,entrada,100
+Chihuahua,Perestroika,26,2023-07-20,39,500,salida,150
+Quintana,Caimán,17,2023-07-08,325,1500,entrada,75
+CDMX,Perestroika,25,2021-07-17,230,500,entrada,100
+EdoMex,084 Diamante,23,2022-07-16,41,500,salida,50
+Michoacan,Caimán,20,2022-05-11,140,1500,salida,150
+Quintana,Flip,27,2024-11-02,36,750,salida,100
+Nuevo,084 Campeón,27,2024-12-23,49,750,salida,50
+Nuevo,Perestroika,25,2024-09-18,138,500,entrada,75
+CDMX,Ultra,26,2025-06-25,284,1000,salida,75
+Nuevo,Perestroika,22,2021-10-02,83,750,salida,100
+Quintana,Gran Prix,25,2025-11-02,30,750,salida,100
+Michoacan,SuperFaro,28,2021-11-09,120,750,salida,150
+EdoMex,Flip,24,2025-09-13,97,1500,salida,50
+Quintana,Vital,16,2024-07-09,57,1500,devolución,150
+Hidalgo,RL15,17,2021-06-25,270,1000,salida,100
+Quintana,Vital,16,2026-02-26,127,1000,salida,150
+EdoMex,084 Clásico,23,2025-01-23,463,1500,entrada,150
+Nuevo,Vital,25,2021-08-13,79,1000,salida,75
+Morelos,Vaivén,26,2025-08-19,1,500,salida,50
+CDMX,084 Diamante,25,2024-02-16,238,1000,entrada,75
+Hidalgo,Flip,15,2025-12-05,200,750,entrada,150
+Puebla,Caimán,16,2025-07-12,370,750,entrada,75
+Hidalgo,Ultra,18,2023-10-01,145,1000,salida,100
+Hidalgo,Urbano,26,2026-03-27,434,1000,entrada,100
+Nuevo,Flip,25,2024-03-08,153,1000,entrada,100
+Hidalgo,Vaivén,16,2021-11-30,244,500,salida,100
+Morelos,Vital,19,2021-12-27,153,500,salida,100
+Morelos,Ultra,21,2026-02-25,62,1500,salida,75
+Coahuila,Perestroika,27,2022-02-16,147,750,salida,100
+Quintana,SuperFaro,29,2026-02-03,209,1000,entrada,50
+Nuevo,Flip,24,2022-04-20,31,500,salida,100
+Puebla,Vital,27,2025-11-13,69,1000,devolución,150
+EdoMex,084 Campeón,27,2022-09-09,451,1000,entrada,150
+Michoacan,Urbano,24,2025-09-17,133,500,salida,50
+Morelos,Barracuda,24,2022-02-02,228,750,entrada,150
+Coahuila,Barracuda,23,2026-03-24,196,750,salida,50
+Morelos,084,25,2025-04-30,137,1500,salida,150
+CDMX,RL15,22,2022-12-20,58,1500,salida,75
+Chihuahua,Panam Alfa,28,2021-12-19,205,500,devolución,150
+Morelos,Flip,23,2025-01-04,18,500,salida,150
+Chihuahua,Gran Prix,18,2023-09-13,224,500,salida,50
+Coahuila,Urbano,13,2025-04-22,101,500,entrada,150
+CDMX,Vaivén,21,2025-03-08,244,1500,devolución,75
+Morelos,Vital,27,2022-08-22,277,750,salida,50
+Chihuahua,Ultra,22,2024-02-26,300,1000,entrada,75
+Morelos,Perestroika,26,2021-12-19,202,1000,salida,75
+Hidalgo,084 Clásico,17,2022-11-21,134,1000,entrada,100
+Nuevo,Vital,18,2026-03-28,428,1500,entrada,75
+Chihuahua,Gran Prix,19,2024-03-27,216,1000,salida,75
+Quintana,Ultra,24,2025-03-16,132,1500,devolución,100
+Nuevo,Vaivén,25,2025-10-31,109,750,salida,50
+Nuevo,Urbano,22,2025-01-08,294,1500,salida,150
+CDMX,Gran Prix,25,2021-07-12,51,750,salida,100
+CDMX,Ultra,22,2024-10-04,162,750,salida,50
+CDMX,Panam Alfa,27,2026-03-26,322,1000,entrada,150
+CDMX,Caimán,22,2023-11-05,158,750,devolución,100
+CDMX,SuperFaro,26,2021-05-26,201,1000,salida,50
+Puebla,Barracuda,26,2024-08-29,145,750,entrada,150
+Hidalgo,084 Diamante,21,2021-07-03,259,500,entrada,75
+CDMX,Gran Prix,28,2021-06-01,250,750,entrada,100
+Hidalgo,Vital,28,2023-04-06,180,1500,entrada,150
+CDMX,Perestroika,25,2024-02-01,134,1500,devolución,100
+Nuevo,Ultra,27,2024-12-23,214,1000,entrada,75
+Puebla,Barracuda,25,2022-08-16,269,1500,entrada,150
+Chihuahua,SuperFaro,26,2023-07-19,26,1000,salida,75
+Quintana,Ultra,24,2023-03-29,89,1500,salida,100
+Morelos,SuperFaro,28,2026-04-25,419,1000,entrada,50
+Michoacan,Ultra,16,2024-02-15,264,500,salida,150
+Michoacan,084 Clásico,15,2025-11-15,45,750,salida,100
+Nuevo,Flip,18,2025-03-28,163,750,salida,100
+Quintana,SuperFaro,14,2023-01-18,222,1500,devolución,75
+Chihuahua,Barracuda,25,2026-03-26,213,750,salida,150
+Puebla,Gran Prix,28,2024-05-12,130,750,entrada,50
+Morelos,084 Clásico,26,2026-04-02,234,500,entrada,150
+Puebla,Vaivén,25,2022-08-23,173,1500,entrada,100
+EdoMex,084 Campeón,23,2022-12-14,96,1000,salida,50
+Chihuahua,RL15,22,2022-08-10,246,500,salida,75
+CDMX,Gran Prix,19,2023-02-05,118,1000,salida,100
+Morelos,Caimán,18,2023-12-20,127,500,salida,75
+Chihuahua,Vital,26,2022-11-21,101,1500,salida,50
+CDMX,Vital,22,2022-03-15,34,1500,salida,150
+Nuevo,Perestroika,26,2021-07-26,211,1500,salida,150
+Morelos,Barracuda,21,2025-11-18,233,1000,salida,100
+EdoMex,Ultra,20,2021-09-05,29,500,salida,100
+Michoacan,084 Diamante,26,2022-06-05,103,500,salida,50
+Michoacan,Gran Prix,15,2025-12-09,293,750,salida,75
+EdoMex,Vital,25,2024-04-23,69,750,salida,50
+Hidalgo,Flip,18,2021-12-07,35,1000,salida,50
+CDMX,Caimán,24,2024-02-17,228,750,entrada,150
+Michoacan,084 Diamante,17,2024-01-11,54,1000,salida,100
+Chihuahua,Caimán,29,2023-04-21,80,1000,salida,75
+Nuevo,Perestroika,23,2023-02-14,169,750,entrada,50
+Quintana,Flip,17,2023-01-22,323,1500,entrada,75
+EdoMex,Gran Prix,26,2023-12-03,80,750,salida,150
+Puebla,Vaivén,29,2022-09-25,291,1000,entrada,50
+Quintana,Gran Prix,24,2024-12-14,153,500,salida,150
+Chihuahua,Ultra,22,2023-08-26,398,1000,entrada,150
+Morelos,Ultra,22,2023-04-30,252,1000,entrada,75
+Hidalgo,084 Clásico,21,2023-03-12,15,1000,salida,75
+Puebla,RL15,22,2024-05-14,477,1500,entrada,100
+Chihuahua,SuperFaro,25,2021-07-30,4,1500,salida,100
+Hidalgo,RL15,22,2022-07-06,450,1500,entrada,50
+Morelos,SuperFaro,24,2025-01-31,116,750,salida,100
+CDMX,084 Campeón,24,2022-05-23,257,1000,salida,50
+Nuevo,Vital,22,2024-07-14,58,1000,devolución,150
+Chihuahua,Vital,20,2021-07-24,311,1000,entrada,50
+Chihuahua,RL15,26,2025-02-13,65,1000,salida,100
+Michoacan,Barracuda,24,2023-02-13,249,750,salida,75
+Nuevo,Flip,24,2024-07-31,204,500,salida,100
+Puebla,084 Clásico,27,2021-10-06,200,1000,salida,100
+Michoacan,Caimán,25,2025-02-22,266,1500,entrada,50
+Hidalgo,084 Campeón,29,2025-01-27,298,750,salida,150
+Morelos,084,24,2024-09-27,228,1000,entrada,100
+Chihuahua,Vital,26,2023-01-13,59,750,salida,100
+Hidalgo,Gran Prix,23,2023-02-04,167,500,entrada,75
+Quintana,Panam Alfa,24,2024-07-31,34,500,salida,75
+Nuevo,Barracuda,27,2022-05-28,290,1500,salida,150
+Puebla,Caimán,27,2022-02-18,292,750,salida,50
+Michoacan,Vaivén,28,2022-11-01,64,1500,devolución,50
+Coahuila,Vaivén,18,2025-08-27,392,1000,entrada,50
+Chihuahua,Panam Alfa,27,2026-04-07,102,1500,entrada,100
+CDMX,084 Diamante,26,2025-09-27,246,1500,devolución,150
+Chihuahua,Caimán,17,2022-05-19,410,750,entrada,150
+Michoacan,Gran Prix,22,2022-09-24,268,750,salida,150
+EdoMex,084,17,2023-02-16,88,1500,salida,75
+Nuevo,Perestroika,23,2022-05-15,180,1000,salida,150
+Quintana,Barracuda,27,2025-07-03,492,500,entrada,50
+EdoMex,Vaivén,27,2024-05-23,18,1500,salida,75
+Puebla,Vaivén,15,2024-01-15,157,1500,salida,100
+Michoacan,Panam Alfa,27,2024-11-16,102,750,devolución,100
+Puebla,Panam Alfa,23,2022-12-20,385,500,entrada,75
+Quintana,Flip,28,2023-02-18,219,1500,salida,75
+Chihuahua,084 Diamante,25,2022-02-12,102,500,salida,75
+Quintana,084,26,2025-08-28,348,750,entrada,150
+Quintana,Barracuda,28,2024-05-28,300,1500,entrada,75
+Morelos,Flip,26,2025-05-30,81,1000,salida,100
+Nuevo,084 Campeón,17,2023-07-08,450,750,entrada,100
+Nuevo,Gran Prix,27,2025-09-02,215,750,entrada,100
+Chihuahua,Urbano,23,2022-04-19,480,750,entrada,100
+Nuevo,Flip,22,2025-03-26,452,1500,entrada,150
+CDMX,Vital,27,2021-06-25,175,500,salida,100
+Nuevo,084 Clásico,23,2021-05-28,31,750,salida,150
+Hidalgo,084 Clásico,27,2024-07-30,418,1000,entrada,75
+EdoMex,Vaivén,25,2024-12-01,258,500,salida,50
+Nuevo,SuperFaro,25,2024-10-01,339,1500,entrada,100
+Chihuahua,Caimán,23,2022-03-13,471,1000,entrada,150
+Coahuila,Panam Alfa,24,2024-05-12,360,1500,entrada,50
+Quintana,084,25,2024-05-30,137,750,salida,100
+Hidalgo,Urbano,25,2023-12-25,498,1000,entrada,100
+Morelos,084 Clásico,23,2021-11-25,209,750,salida,150
+CDMX,084 Clásico,26,2025-01-14,497,1000,entrada,100
+EdoMex,Panam Alfa,26,2023-11-26,263,750,salida,100
+Morelos,084,26,2023-04-18,96,500,salida,100
+Morelos,RL15,17,2022-01-23,15,500,salida,100
+Nuevo,084 Campeón,27,2024-08-29,271,1500,salida,75
+EdoMex,084 Diamante,19,2025-05-09,214,500,entrada,75
+Morelos,RL15,14,2021-06-24,208,1500,devolución,150
+EdoMex,Perestroika,25,2023-09-06,8,750,salida,100
+Michoacan,Caimán,28,2024-02-04,192,1500,salida,50
+CDMX,Gran Prix,27,2021-09-24,422,1500,entrada,100
+Quintana,Caimán,27,2022-07-17,199,1500,entrada,150
+EdoMex,Vital,16,2023-06-18,330,500,entrada,150
+Hidalgo,Caimán,18,2022-11-08,174,1500,salida,75
+Puebla,Caimán,25,2026-02-23,281,500,entrada,50
+Coahuila,Vaivén,25,2021-06-04,148,1500,entrada,150
+Puebla,084 Campeón,16,2022-06-07,353,500,entrada,100
+Hidalgo,RL15,23,2025-10-03,146,500,entrada,100
+CDMX,084,25,2022-09-02,6,500,salida,50
+EdoMex,Flip,24,2022-07-15,165,1000,devolución,150
+Hidalgo,SuperFaro,26,2025-05-04,118,1000,salida,75
+Quintana,084 Campeón,25,2021-09-04,118,1000,salida,50
+Quintana,RL15,14,2021-11-12,162,1500,salida,50
+CDMX,Gran Prix,27,2023-02-17,202,1000,entrada,75
+Coahuila,Gran Prix,26,2023-11-02,129,500,salida,50
+CDMX,Urbano,17,2024-07-04,217,1000,devolución,100
+Coahuila,Barracuda,24,2024-11-15,250,500,entrada,75
+EdoMex,Panam Alfa,23,2022-09-07,18,750,salida,150
+Morelos,084 Campeón,25,2024-11-28,149,1500,devolución,75
+Chihuahua,Urbano,26,2022-10-24,163,1000,salida,50
+Puebla,Urbano,28,2022-10-30,240,1500,salida,100
+CDMX,084 Diamante,17,2025-10-03,99,750,salida,150
+EdoMex,Perestroika,18,2022-08-19,291,500,salida,75
+Coahuila,084,27,2022-11-21,361,1500,entrada,50
+Puebla,Flip,23,2024-06-13,140,500,entrada,75
+Nuevo,Caimán,18,2022-04-11,39,500,salida,100
+Nuevo,084 Clásico,24,2022-09-22,231,750,salida,75
+Coahuila,Perestroika,25,2021-08-07,30,1000,salida,150
+Coahuila,Vital,19,2025-07-30,419,500,entrada,75
+Puebla,SuperFaro,22,2023-01-30,350,500,entrada,75
+Morelos,Flip,20,2023-12-13,89,1000,salida,150
+Quintana,Caimán,18,2024-10-11,122,1500,devolución,100
+Hidalgo,Flip,25,2024-07-08,481,750,entrada,150
+Hidalgo,Barracuda,27,2023-08-08,327,750,entrada,100
+CDMX,084 Diamante,16,2024-01-28,293,1000,salida,50
+Michoacan,Caimán,23,2021-08-02,157,1500,entrada,75
+Chihuahua,Flip,23,2021-07-25,176,1500,salida,150
+Michoacan,084 Campeón,19,2024-03-01,18,1500,salida,50
+EdoMex,084 Clásico,24,2021-08-02,258,750,salida,100
+Nuevo,Flip,23,2025-05-07,90,1500,salida,50
+Morelos,Urbano,16,2021-08-20,176,750,salida,75
+Hidalgo,Gran Prix,25,2022-07-28,125,750,salida,100
+Chihuahua,Flip,25,2024-10-23,173,1000,salida,150
+Coahuila,RL15,22,2021-09-27,213,750,devolución,50
+Hidalgo,Panam Alfa,23,2025-12-07,185,1500,entrada,50
+Coahuila,RL15,24,2024-07-20,199,1500,salida,100
+EdoMex,SuperFaro,27,2025-10-24,92,500,salida,75
+Nuevo,Perestroika,24,2022-10-15,242,750,entrada,150
+Chihuahua,Panam Alfa,22,2022-09-09,96,750,salida,100
+EdoMex,Panam Alfa,17,2022-03-13,89,500,salida,150
+Hidalgo,084 Diamante,18,2021-06-21,396,1000,entrada,100
+Quintana,Vaivén,22,2024-04-23,376,1000,entrada,75
+EdoMex,Gran Prix,15,2023-03-29,26,1500,salida,75
+Puebla,Panam Alfa,19,2022-02-16,90,1500,devolución,150
+Hidalgo,Perestroika,15,2024-11-30,4,1500,salida,100
+Quintana,Caimán,26,2021-11-28,257,750,salida,50
+CDMX,Caimán,14,2022-04-20,187,750,salida,150
+EdoMex,Barracuda,22,2025-05-23,249,1500,entrada,150
+Coahuila,Urbano,18,2025-04-18,275,500,salida,75
+Puebla,Barracuda,24,2024-11-15,90,1500,salida,150
+EdoMex,084 Clásico,24,2025-11-28,201,1500,salida,75
+Morelos,084 Campeón,18,2025-02-02,150,500,salida,150
+Puebla,084,16,2022-06-27,177,750,entrada,75
+Puebla,Barracuda,23,2021-05-08,25,1500,salida,100
+EdoMex,Ultra,26,2023-12-29,221,750,salida,50
+Chihuahua,RL15,18,2025-05-24,465,1500,entrada,75
+Puebla,Ultra,25,2025-05-03,73,1000,salida,100
+Puebla,Flip,25,2023-07-13,101,1500,entrada,150
+Chihuahua,084 Diamante,16,2022-06-08,180,500,salida,100
+Morelos,084 Campeón,23,2024-02-03,295,500,entrada,75
+Morelos,084,24,2025-12-08,151,500,salida,150
+Puebla,084 Diamante,16,2024-06-15,102,1500,salida,75
+Morelos,RL15,25,2022-03-01,112,1500,entrada,100
+Coahuila,084 Clásico,24,2025-05-29,113,1500,salida,100
+Hidalgo,Panam Alfa,18,2025-07-15,449,750,entrada,75
+Nuevo,084 Clásico,25,2026-03-16,7,500,salida,50
+Michoacan,084,28,2023-01-06,264,750,salida,75
+CDMX,Caimán,23,2022-06-01,277,1500,entrada,150
+EdoMex,Urbano,17,2023-03-18,119,500,salida,150
+Michoacan,Gran Prix,23,2025-09-21,394,1000,entrada,50
+Coahuila,Barracuda,17,2022-06-13,191,750,devolución,75
+Puebla,084 Clásico,16,2022-07-23,259,1000,salida,75
+Coahuila,084 Diamante,19,2023-04-07,181,1500,salida,150
+Morelos,Caimán,22,2022-01-16,180,750,entrada,100
+Nuevo,Vital,26,2022-02-24,29,750,salida,100
+Quintana,Barracuda,26,2024-10-11,118,750,salida,50
+Coahuila,Gran Prix,21,2023-09-30,242,500,devolución,75
+EdoMex,Vital,28,2022-03-29,77,1000,salida,100
+EdoMex,SuperFaro,16,2023-06-21,223,1500,devolución,100
+Coahuila,Gran Prix,20,2023-04-09,136,500,salida,75
+Hidalgo,084 Diamante,17,2023-06-24,310,1000,entrada,150
+Puebla,Flip,26,2022-11-30,23,500,salida,100
+Puebla,SuperFaro,28,2023-11-27,139,500,salida,100
+Puebla,Panam Alfa,24,2024-02-21,60,750,salida,150
+CDMX,SuperFaro,25,2025-04-11,414,1000,entrada,100
+Quintana,084 Diamante,14,2025-10-07,118,500,salida,150
+CDMX,084,19,2025-09-28,232,750,devolución,100
+Hidalgo,RL15,29,2026-04-03,258,1000,salida,150
+Quintana,RL15,26,2023-08-13,142,1500,salida,150
+Morelos,RL15,27,2022-06-19,112,500,salida,100
+Chihuahua,Panam Alfa,27,2024-02-19,134,500,salida,50
+Quintana,Urbano,24,2024-12-07,364,750,entrada,100
+Quintana,Barracuda,26,2024-07-13,373,500,entrada,100
+Chihuahua,RL15,18,2022-07-31,286,500,entrada,75
+Nuevo,Perestroika,23,2026-04-10,168,1000,salida,75
+Hidalgo,084 Campeón,28,2021-08-20,287,750,salida,50
+Chihuahua,Perestroika,24,2024-08-14,267,1000,salida,75
+EdoMex,Flip,17,2021-10-02,34,750,salida,150
+Puebla,Vital,25,2023-01-11,412,750,entrada,50
+EdoMex,Gran Prix,18,2022-11-23,183,750,salida,150
+EdoMex,Vaivén,21,2021-06-19,177,1500,salida,75
+Chihuahua,Ultra,16,2022-07-24,47,1500,salida,100
+Nuevo,Urbano,22,2021-08-20,472,1500,entrada,150
+Quintana,Caimán,18,2023-05-15,20,1500,salida,50
+Michoacan,SuperFaro,23,2022-09-21,299,1500,entrada,75
+EdoMex,Ultra,24,2024-09-20,116,500,entrada,100
+Puebla,084 Diamante,26,2024-02-02,152,500,devolución,50
+Nuevo,Flip,15,2021-06-11,445,1500,entrada,100
+Coahuila,084 Diamante,24,2026-03-18,465,1500,entrada,150
+Quintana,084 Diamante,26,2025-06-08,217,1500,salida,100
+EdoMex,Barracuda,24,2025-06-17,310,500,entrada,50
+Nuevo,Caimán,17,2024-04-08,169,1500,salida,50
+Coahuila,084 Clásico,26,2022-12-10,344,750,entrada,50
+Quintana,Gran Prix,17,2026-04-03,287,750,salida,100
+Quintana,RL15,25,2024-10-17,32,500,salida,100
+Michoacan,Gran Prix,18,2025-03-10,286,750,salida,150
+EdoMex,Perestroika,24,2023-03-04,242,1500,entrada,75
+Morelos,SuperFaro,15,2025-03-14,389,500,entrada,150
+Hidalgo,084 Diamante,23,2023-07-31,130,1000,salida,100
+Hidalgo,084 Campeón,15,2025-12-27,475,1500,entrada,100
+Chihuahua,084 Campeón,27,2025-01-31,496,1500,entrada,100
+Quintana,SuperFaro,22,2022-05-07,493,750,entrada,150
+Puebla,Flip,26,2023-09-21,475,1000,entrada,75
+Hidalgo,SuperFaro,24,2025-09-20,236,750,entrada,100
+EdoMex,Caimán,20,2024-03-19,245,1500,salida,100
+Puebla,Perestroika,24,2024-03-19,187,750,salida,150
+Michoacan,Urbano,25,2022-12-06,229,750,devolución,100
+Nuevo,Perestroika,26,2023-07-08,220,500,salida,100
+Nuevo,Barracuda,20,2024-03-30,54,750,salida,50
+Michoacan,RL15,16,2025-06-28,90,500,devolución,50
+Morelos,RL15,16,2026-01-05,150,1500,entrada,150
+Nuevo,084 Diamante,26,2025-03-24,0,750,salida,150
+Chihuahua,Perestroika,22,2022-03-02,239,1500,salida,75
+Hidalgo,Vaivén,22,2024-04-04,310,1500,entrada,75
+Hidalgo,Urbano,26,2025-10-05,12,500,salida,150
+Coahuila,Vaivén,26,2023-08-01,203,1500,salida,50
+Chihuahua,RL15,18,2021-11-18,226,750,entrada,50
+Hidalgo,SuperFaro,25,2024-06-14,315,750,entrada,100
+Nuevo,Vaivén,24,2024-12-21,196,500,salida,75
+Chihuahua,Flip,28,2021-07-24,455,1000,entrada,50
+EdoMex,Ultra,28,2025-12-19,133,500,entrada,150
+CDMX,Caimán,18,2022-06-02,79,1500,salida,150
+CDMX,Flip,24,2022-02-24,123,750,devolución,75
+Morelos,Ultra,15,2023-04-11,58,750,salida,100
+Morelos,084 Clásico,18,2025-03-27,356,1500,entrada,50
+Puebla,084 Campeón,23,2022-04-16,122,1000,salida,150
+Nuevo,RL15,15,2022-05-15,293,1000,entrada,100
+Chihuahua,Flip,24,2026-01-10,309,500,entrada,50
+Michoacan,SuperFaro,26,2023-11-11,139,500,devolución,100
+CDMX,RL15,28,2022-06-02,291,1500,entrada,100
+Michoacan,Caimán,18,2024-04-20,197,750,entrada,100
+EdoMex,Flip,26,2023-12-16,204,1500,salida,50
+Michoacan,084 Clásico,19,2025-03-12,171,1000,salida,50
+Nuevo,Gran Prix,27,2025-01-20,300,500,salida,75
+EdoMex,084 Clásico,24,2026-01-19,171,750,salida,150
+Michoacan,084,27,2022-01-19,228,500,entrada,150
+Hidalgo,Caimán,27,2025-08-21,201,500,entrada,150
+Coahuila,Caimán,18,2022-11-24,263,1000,entrada,75
+Hidalgo,Perestroika,18,2024-09-22,445,500,entrada,50
+Puebla,084 Diamante,26,2025-09-09,238,750,entrada,150
+CDMX,Ultra,18,2023-01-01,139,750,salida,150
+Chihuahua,Panam Alfa,22,2022-07-20,191,1500,devolución,50
+CDMX,084,26,2023-03-26,113,500,devolución,100
+Michoacan,084 Campeón,27,2021-06-27,6,500,salida,100
+CDMX,Flip,19,2023-01-13,464,500,entrada,50
+Morelos,Vital,26,2024-05-09,173,1000,salida,150
+Coahuila,084 Diamante,25,2025-10-25,19,750,salida,50
+Hidalgo,Caimán,17,2022-08-20,291,500,salida,75
+Morelos,Perestroika,25,2026-02-18,248,1500,entrada,100
+Michoacan,Urbano,19,2025-11-09,461,1500,entrada,75
+Quintana,Ultra,18,2025-10-23,136,1000,salida,50
+Coahuila,084,27,2021-09-29,396,750,entrada,75
+Michoacan,Caimán,16,2025-11-17,221,1000,salida,150
+Morelos,Gran Prix,27,2024-06-06,214,1500,salida,50
+Quintana,Gran Prix,16,2025-12-07,394,500,entrada,100
+Hidalgo,084 Diamante,18,2023-04-22,202,1500,salida,100
+Quintana,Flip,24,2025-11-10,73,750,salida,75
+Nuevo,Panam Alfa,25,2022-10-06,11,1000,salida,150
+Morelos,084 Diamante,29,2024-07-12,195,750,entrada,100
+Nuevo,Ultra,26,2022-09-11,142,1000,devolución,150
+Puebla,Urbano,18,2022-03-13,165,750,salida,100
+Michoacan,Ultra,28,2022-10-02,212,1000,entrada,75
+Michoacan,084 Diamante,22,2023-04-09,271,750,salida,50
+Quintana,Urbano,25,2022-08-21,295,750,entrada,100
+Nuevo,Caimán,24,2025-12-11,72,750,salida,75
+Coahuila,SuperFaro,16,2024-12-13,42,1000,salida,75
+Quintana,Gran Prix,22,2023-01-24,205,1000,entrada,150
+Coahuila,Panam Alfa,25,2023-09-18,16,500,salida,50
+Morelos,Panam Alfa,26,2021-10-05,13,1000,salida,100
+Morelos,Barracuda,25,2024-10-02,483,1000,entrada,150
+Hidalgo,084 Diamante,19,2023-11-13,209,1000,entrada,75
+Coahuila,Vital,25,2024-08-29,211,500,entrada,150
+Quintana,084 Campeón,27,2025-10-13,239,1500,salida,150
+Nuevo,SuperFaro,24,2024-12-05,115,750,devolución,50
+CDMX,Barracuda,22,2025-05-25,438,500,entrada,75
+Puebla,Vaivén,22,2025-04-29,339,1500,entrada,50
+Nuevo,SuperFaro,24,2024-01-31,228,1000,salida,75
+Coahuila,Panam Alfa,16,2022-07-03,122,1000,devolución,75
+Coahuila,Ultra,24,2023-11-24,83,750,devolución,100
+Coahuila,Perestroika,27,2021-05-07,230,1500,salida,100
+Coahuila,084 Diamante,22,2021-12-24,24,1000,salida,75
+Puebla,Barracuda,21,2023-06-26,122,1500,devolución,50
+EdoMex,RL15,16,2026-01-26,371,1500,entrada,100
+Nuevo,Flip,15,2023-12-30,146,750,salida,100
+Nuevo,SuperFaro,25,2023-02-13,159,500,salida,150
+Quintana,Vaivén,28,2021-11-29,112,1000,devolución,75
+Michoacan,Barracuda,16,2021-11-06,76,1500,salida,50
+Quintana,Barracuda,24,2024-11-01,242,1500,salida,150
+Puebla,Caimán,24,2022-07-16,34,750,salida,150
+Quintana,Flip,27,2022-07-27,215,1000,entrada,100
+Chihuahua,Flip,24,2025-06-08,33,1500,salida,75
+Chihuahua,Ultra,18,2022-09-16,26,1500,salida,75
+Morelos,Urbano,25,2023-05-29,70,1500,salida,100
+Nuevo,Perestroika,17,2024-09-02,209,500,devolución,150
+CDMX,084 Campeón,24,2022-09-13,69,500,salida,50
+Coahuila,Caimán,29,2024-11-28,230,1500,entrada,50
+Nuevo,Flip,30,2024-09-02,264,1000,entrada,50
+Quintana,RL15,16,2022-12-28,21,1500,salida,50
+Puebla,084,23,2023-06-17,7,500,salida,100
+Nuevo,Vaivén,25,2024-04-28,455,1000,entrada,75
+Quintana,RL15,22,2021-12-11,150,1500,salida,100
+Puebla,Urbano,25,2023-04-09,252,500,entrada,100
+Coahuila,Flip,21,2023-09-11,337,500,entrada,75
+EdoMex,Vital,24,2022-07-16,131,1000,salida,75
+Nuevo,SuperFaro,27,2024-10-04,229,1500,salida,75
+Morelos,Flip,20,2022-05-24,66,1500,salida,100
+Hidalgo,Perestroika,16,2026-04-30,4,500,salida,100
+Coahuila,084,18,2022-08-21,69,1500,devolución,50
+CDMX,SuperFaro,26,2023-02-04,202,1000,devolución,150
+Quintana,SuperFaro,26,2025-02-11,211,1000,salida,150
+Nuevo,084 Diamante,19,2022-07-22,46,750,salida,100
+Puebla,Vital,27,2023-09-09,316,500,entrada,75
+Quintana,Gran Prix,16,2024-02-17,198,750,salida,100
+Nuevo,Urbano,25,2021-06-08,194,1000,salida,50
+CDMX,SuperFaro,28,2022-05-05,47,750,salida,75
+Morelos,Ultra,28,2025-10-09,336,1500,entrada,50
+Quintana,Urbano,18,2023-12-29,233,1500,entrada,75
+Nuevo,Flip,16,2025-10-21,90,1500,salida,100
+Quintana,Flip,20,2022-03-21,19,500,salida,100
+CDMX,084 Campeón,26,2025-05-08,105,1500,devolución,75
+CDMX,Gran Prix,26,2023-04-27,60,500,salida,150
+CDMX,Barracuda,19,2025-01-26,236,500,salida,50
+Nuevo,Vital,16,2023-11-20,100,1500,salida,100
+Quintana,Flip,27,2022-05-29,83,1500,salida,150
+Michoacan,Barracuda,25,2025-12-12,171,500,salida,150
+Quintana,RL15,20,2025-03-17,400,500,entrada,100
+CDMX,084 Campeón,18,2022-08-26,244,750,salida,75
+EdoMex,Panam Alfa,19,2021-12-11,53,1500,salida,75
+Coahuila,084 Clásico,26,2024-03-31,110,750,entrada,150
+Chihuahua,Gran Prix,24,2023-08-29,147,1500,salida,150
+Chihuahua,Ultra,16,2021-09-10,411,750,entrada,100
+Chihuahua,SuperFaro,19,2024-08-03,211,1500,salida,100
+EdoMex,Gran Prix,23,2023-07-08,79,1000,salida,75
+CDMX,Caimán,24,2022-04-21,351,750,entrada,50
+Puebla,Vaivén,24,2025-04-24,175,750,entrada,75
+Puebla,SuperFaro,26,2024-12-19,324,500,entrada,100
+Morelos,Barracuda,26,2026-04-27,406,1500,entrada,75
+Hidalgo,Caimán,22,2022-10-11,255,1000,salida,100
+Puebla,Vital,24,2025-06-28,77,500,salida,50
+Michoacan,084 Campeón,24,2023-10-27,381,500,entrada,150
+CDMX,Flip,25,2023-04-04,179,500,salida,50
+Puebla,Caimán,22,2025-10-16,100,1500,entrada,150
+Morelos,084 Clásico,27,2022-03-22,355,750,entrada,150
+Morelos,RL15,25,2022-02-05,280,750,salida,150
+Michoacan,Vital,25,2024-06-05,490,750,entrada,75
+Quintana,Caimán,26,2023-05-25,141,750,salida,75
+Coahuila,Caimán,26,2025-07-20,75,750,salida,50
+Coahuila,Urbano,26,2025-01-08,100,1500,entrada,100
+EdoMex,Barracuda,17,2024-12-06,255,1000,salida,50
+Hidalgo,084,25,2021-10-29,407,1000,entrada,50
+CDMX,SuperFaro,19,2022-03-29,313,1500,entrada,75
+Nuevo,Perestroika,26,2023-09-23,400,750,entrada,150
+Quintana,084 Diamante,28,2023-09-10,162,500,salida,150
+Morelos,Caimán,25,2023-06-27,118,1000,salida,75
+Michoacan,Perestroika,26,2025-08-31,269,1000,salida,100
+Chihuahua,Vital,25,2024-02-21,231,500,salida,100
+Quintana,RL15,26,2024-11-30,470,500,entrada,150
+Michoacan,SuperFaro,18,2023-06-25,92,1000,salida,150
+Coahuila,084 Clásico,24,2024-05-18,324,750,entrada,75
+Michoacan,RL15,24,2022-01-19,227,500,salida,50
+Nuevo,Flip,26,2021-06-15,265,1000,salida,150
+Coahuila,Vaivén,26,2022-03-16,113,500,salida,50
+Michoacan,Barracuda,28,2025-06-22,106,1000,entrada,50
+Michoacan,Barracuda,25,2023-05-30,381,500,entrada,100
+Hidalgo,Barracuda,23,2026-04-30,214,750,entrada,100
+Chihuahua,Panam Alfa,25,2025-07-22,240,750,salida,75
+Morelos,Flip,19,2023-03-25,28,750,salida,75
+Quintana,SuperFaro,22,2025-01-12,188,1000,salida,50
+Puebla,Vaivén,25,2023-08-09,90,500,devolución,150
+Nuevo,Flip,26,2022-03-25,286,1500,salida,75
+Nuevo,Caimán,25,2025-06-30,97,750,salida,50
+Quintana,Vital,24,2026-02-11,112,1500,salida,150
+Nuevo,Flip,23,2026-02-26,291,1000,salida,50
+Hidalgo,Gran Prix,25,2024-07-16,149,500,salida,150
+Quintana,084,23,2025-10-04,80,500,salida,50
+Coahuila,RL15,26,2024-08-06,93,1000,salida,75
+Morelos,Vital,25,2021-09-14,248,500,entrada,100
+Morelos,SuperFaro,28,2022-04-06,179,500,salida,50
+Puebla,Perestroika,22,2022-03-08,399,750,entrada,100
+Quintana,Perestroika,24,2026-03-29,146,500,entrada,100
+EdoMex,084,19,2022-02-25,261,1000,entrada,75
+Nuevo,Panam Alfa,27,2022-05-06,420,1500,entrada,75
+Nuevo,084,26,2023-05-17,58,1000,devolución,50
+Quintana,Caimán,23,2024-05-30,209,1500,salida,75
+Michoacan,RL15,17,2026-04-12,154,750,entrada,150
+Nuevo,Flip,22,2024-12-06,93,750,salida,150
+Chihuahua,Barracuda,25,2024-09-10,79,750,salida,100
+EdoMex,084,20,2021-09-07,245,1500,salida,75
+Michoacan,Urbano,25,2024-04-19,270,500,salida,150
+EdoMex,Caimán,26,2025-02-02,256,500,salida,150
+Morelos,Flip,26,2025-04-06,302,1500,entrada,50
+Michoacan,Gran Prix,24,2026-03-22,190,1500,salida,75
+Hidalgo,084 Diamante,22,2025-10-16,167,500,salida,100
+Nuevo,Panam Alfa,27,2021-08-30,226,1000,salida,50
+Puebla,084 Clásico,18,2024-09-26,452,500,entrada,100
+EdoMex,Flip,23,2025-01-06,77,1500,salida,100
+CDMX,084,26,2021-07-24,76,750,salida,100
+Chihuahua,Gran Prix,25,2023-03-08,246,500,entrada,150
+Quintana,Vital,27,2026-03-02,127,500,devolución,150
+Morelos,084 Diamante,26,2022-11-18,60,500,salida,100
+Chihuahua,Vital,26,2021-07-20,223,1000,salida,50
+CDMX,084 Campeón,25,2024-02-22,182,500,salida,100
+Puebla,Panam Alfa,24,2022-03-09,428,750,entrada,150
+Quintana,084 Campeón,19,2023-10-31,292,1500,salida,100
+Michoacan,Caimán,25,2024-11-06,223,1000,entrada,50
+Morelos,Urbano,23,2021-08-02,435,750,entrada,150
+Hidalgo,Gran Prix,16,2025-03-24,184,1000,entrada,50
+EdoMex,Gran Prix,23,2023-07-02,113,500,salida,100
+Hidalgo,Caimán,27,2024-05-24,133,1500,salida,75
+CDMX,Ultra,29,2024-04-09,120,1000,entrada,75
+CDMX,Ultra,27,2024-05-05,190,1500,devolución,150
+Hidalgo,084,26,2023-06-18,53,1500,salida,50
+Puebla,Perestroika,25,2023-09-12,396,750,entrada,50
+Puebla,084 Diamante,24,2025-02-20,402,1500,entrada,150
+EdoMex,084,23,2021-10-01,76,750,devolución,100
+Puebla,084 Diamante,29,2024-02-08,192,1000,entrada,50
+Morelos,RL15,15,2025-03-29,233,750,entrada,100
+EdoMex,Caimán,23,2023-08-01,278,500,entrada,75
+Morelos,Vaivén,25,2022-09-17,231,750,salida,100
+Hidalgo,SuperFaro,25,2023-02-15,299,1000,salida,100
+Puebla,Perestroika,19,2026-02-04,388,500,entrada,150
+Michoacan,SuperFaro,24,2025-12-31,45,500,salida,150
+Chihuahua,Ultra,14,2024-01-31,295,1000,entrada,150
+Hidalgo,Ultra,17,2024-10-04,18,500,salida,100
+Puebla,Panam Alfa,17,2024-04-23,276,1500,entrada,100
+Quintana,084 Diamante,25,2022-10-22,144,750,entrada,150
+Nuevo,Caimán,25,2025-08-06,359,750,entrada,50
+Nuevo,Vital,24,2022-02-06,98,1500,salida,100
+Nuevo,Caimán,23,2024-03-08,188,500,entrada,150
+Morelos,Ultra,20,2024-05-03,159,1000,salida,50
+EdoMex,Gran Prix,28,2025-12-03,63,750,salida,100
+Chihuahua,Urbano,20,2023-04-13,297,750,entrada,150
+Puebla,Ultra,23,2024-01-14,106,500,salida,100
+Michoacan,Ultra,26,2023-12-12,294,750,salida,100
+CDMX,Gran Prix,24,2022-03-17,173,1500,salida,50
+Coahuila,084,24,2022-02-11,369,1500,entrada,75
+EdoMex,Barracuda,23,2024-10-18,196,500,entrada,75
+Chihuahua,Vital,30,2024-01-03,371,750,entrada,150
+Coahuila,Caimán,25,2025-07-29,124,750,salida,150
+Hidalgo,Caimán,23,2022-12-05,224,1000,salida,50
+Puebla,Perestroika,25,2024-08-07,197,1500,salida,100
+Hidalgo,Ultra,26,2023-01-24,394,750,entrada,50
+Coahuila,RL15,17,2023-08-06,253,1500,salida,100
+Michoacan,Vital,25,2025-06-22,2,1500,salida,150
+Coahuila,084 Campeón,27,2024-04-29,107,750,salida,50
+EdoMex,084 Diamante,23,2024-03-18,232,1500,devolución,150
+CDMX,Urbano,25,2025-01-25,254,750,entrada,75
+Puebla,084,16,2024-06-02,49,500,salida,150
+Coahuila,Vital,24,2022-09-12,5,1500,salida,75
+Puebla,Gran Prix,28,2022-10-11,113,750,salida,50
+EdoMex,SuperFaro,17,2024-02-03,442,500,entrada,100
+Michoacan,084 Clásico,23,2021-06-24,144,500,entrada,150
+Coahuila,Vital,25,2022-04-17,315,1500,entrada,100
+Morelos,Vaivén,15,2022-12-16,172,750,entrada,100
+Coahuila,Flip,25,2026-04-18,67,500,salida,75
+EdoMex,Flip,24,2023-12-27,50,500,salida,150
+CDMX,084 Clásico,19,2025-08-25,248,1000,entrada,150
+CDMX,RL15,28,2026-02-10,254,750,salida,50
+Michoacan,Vaivén,17,2023-11-12,172,1500,devolución,150
+EdoMex,Caimán,24,2026-02-08,373,500,entrada,150
+Chihuahua,Barracuda,25,2025-12-03,83,500,salida,150
+CDMX,Perestroika,28,2022-11-10,100,500,salida,100
+Quintana,084,26,2024-09-23,99,750,salida,50
+Morelos,Vaivén,25,2021-12-28,478,1500,entrada,50
+Nuevo,Barracuda,22,2023-01-13,145,1000,salida,150
+Quintana,Vaivén,25,2022-02-20,271,500,salida,75
+Michoacan,Vaivén,19,2022-02-11,160,750,entrada,75
+Michoacan,Ultra,19,2024-10-14,89,500,salida,50
+Puebla,Barracuda,20,2023-08-02,127,1500,salida,100
+Puebla,RL15,16,2022-08-02,259,1000,salida,100
+CDMX,SuperFaro,24,2024-03-28,26,750,salida,100
+Quintana,Vital,25,2025-11-16,310,1500,entrada,100
+CDMX,Ultra,26,2024-05-09,187,1000,salida,75
+Nuevo,Perestroika,25,2024-09-19,106,500,entrada,50
+Chihuahua,084 Clásico,26,2022-06-23,174,750,entrada,100
+Hidalgo,Urbano,24,2024-08-15,1,750,salida,75
+Quintana,Caimán,16,2022-03-24,215,1000,salida,50
+CDMX,084 Clásico,20,2023-11-05,307,750,entrada,75
+Coahuila,Vaivén,26,2026-03-12,322,1500,entrada,50
+Hidalgo,Panam Alfa,26,2022-01-16,298,1500,entrada,150
+Morelos,084 Diamante,25,2024-02-06,159,1000,entrada,50
+Chihuahua,084,26,2023-04-04,98,500,devolución,150
+Hidalgo,Flip,15,2025-02-09,298,1500,salida,100
+Michoacan,084,16,2021-09-09,293,500,salida,50
+Morelos,Perestroika,19,2023-06-09,170,750,salida,100
+Michoacan,Gran Prix,17,2026-01-02,115,500,salida,150
+Hidalgo,084 Diamante,25,2022-08-30,193,750,entrada,50
+Morelos,SuperFaro,16,2023-09-03,369,500,entrada,50
+CDMX,Vaivén,26,2021-07-27,316,1000,entrada,75
+Nuevo,Perestroika,28,2025-07-20,328,1000,entrada,50
+Nuevo,084 Clásico,26,2023-04-03,188,1500,salida,100
+Quintana,SuperFaro,17,2023-03-17,353,1000,entrada,75
+Nuevo,084 Diamante,27,2023-06-07,369,1500,entrada,75
+Chihuahua,084 Clásico,18,2023-04-07,131,500,devolución,100
+Hidalgo,Barracuda,17,2025-02-02,180,1000,entrada,100
+EdoMex,Perestroika,27,2023-03-08,38,500,salida,150
+Chihuahua,084,25,2022-07-31,135,1500,salida,150
+CDMX,Gran Prix,22,2021-06-13,262,1500,entrada,50
+Chihuahua,SuperFaro,17,2023-11-14,162,1500,entrada,50
+CDMX,084 Diamante,26,2023-06-02,205,500,entrada,75
+Puebla,084 Clásico,24,2021-07-09,46,1500,salida,75
+Nuevo,RL15,14,2025-06-15,262,1000,entrada,150
+Chihuahua,Flip,20,2025-01-29,391,1000,entrada,75
+Puebla,Panam Alfa,30,2024-11-14,224,1000,salida,50
+Hidalgo,Vaivén,17,2026-01-28,105,1000,salida,50
+Michoacan,Barracuda,24,2026-01-12,342,1500,entrada,150
+Coahuila,Panam Alfa,15,2026-03-06,185,750,devolución,50
+Coahuila,084 Clásico,24,2022-12-24,150,500,salida,150
+EdoMex,Gran Prix,22,2024-11-07,128,500,entrada,100
+Morelos,RL15,23,2022-12-05,452,1000,entrada,75
+Morelos,Ultra,18,2025-10-03,146,1000,salida,75
+Hidalgo,Flip,22,2026-04-15,321,500,entrada,150
+Chihuahua,084 Diamante,15,2024-09-28,247,750,entrada,150
+EdoMex,Barracuda,25,2026-03-29,76,1500,devolución,75
+Nuevo,084 Campeón,24,2024-08-21,6,1500,salida,150
+Nuevo,RL15,26,2023-07-27,164,500,salida,50
+CDMX,Ultra,24,2024-06-10,116,500,salida,100
+Hidalgo,SuperFaro,25,2023-08-03,213,1000,devolución,150
+Michoacan,SuperFaro,19,2025-01-05,214,750,entrada,150
+Morelos,Gran Prix,24,2024-06-29,48,750,salida,100
+Nuevo,Flip,26,2024-06-11,459,500,entrada,100
+Nuevo,084,24,2023-05-05,109,500,salida,50
+Quintana,Perestroika,24,2024-01-25,285,1000,salida,50
+CDMX,Flip,23,2025-12-10,389,1000,entrada,50
+Coahuila,084 Clásico,22,2024-05-19,292,1000,salida,150
+CDMX,RL15,23,2021-12-31,358,750,entrada,75
+Chihuahua,Gran Prix,14,2022-06-28,48,1000,salida,50
+Coahuila,SuperFaro,23,2024-01-30,195,500,salida,50
+Chihuahua,Panam Alfa,26,2023-06-12,45,500,salida,150
+Puebla,Panam Alfa,25,2025-12-03,171,750,entrada,75
+Morelos,SuperFaro,17,2026-04-09,268,1500,entrada,75
+Puebla,Gran Prix,24,2022-06-10,109,1500,salida,50
+Hidalgo,084 Clásico,25,2022-03-02,59,750,salida,100
+EdoMex,Panam Alfa,25,2025-08-29,253,750,salida,100
+Hidalgo,Vaivén,23,2025-05-23,350,500,entrada,100
+Coahuila,084 Campeón,26,2025-11-24,229,1500,entrada,75
+Puebla,Perestroika,24,2024-01-05,289,500,entrada,100
+Michoacan,Panam Alfa,18,2022-03-27,439,1000,entrada,75
+Quintana,Gran Prix,25,2023-04-14,50,1000,devolución,150
+Morelos,Barracuda,22,2024-04-22,114,750,salida,150
+Coahuila,Vital,20,2026-01-21,232,500,salida,150
+Coahuila,Panam Alfa,25,2023-04-02,36,500,salida,75
+Chihuahua,Vital,24,2025-04-20,425,750,entrada,50
+Michoacan,084 Campeón,19,2023-08-20,96,750,salida,100
+Hidalgo,084 Diamante,23,2026-03-25,268,750,salida,75
+EdoMex,Vaivén,14,2021-10-18,92,500,salida,150
+Nuevo,084 Campeón,26,2025-04-05,164,1000,salida,75
+Nuevo,084,27,2025-01-25,127,1000,salida,150
+Coahuila,084 Diamante,26,2025-07-28,416,750,entrada,50
+Coahuila,Panam Alfa,26,2025-01-20,191,1500,devolución,50
+Nuevo,084 Clásico,23,2021-11-23,107,1000,salida,50
+Puebla,Barracuda,24,2022-10-20,329,1000,entrada,75
+Hidalgo,Perestroika,24,2021-07-14,426,750,entrada,50
+CDMX,Ultra,20,2026-02-09,228,1000,salida,150
+Hidalgo,084,18,2025-02-27,160,1500,salida,150
+EdoMex,Gran Prix,27,2026-02-06,264,1000,entrada,75
+Chihuahua,084 Diamante,24,2021-11-01,191,500,devolución,75
+Michoacan,084 Campeón,23,2024-04-20,264,750,salida,100
+Coahuila,Flip,27,2025-05-26,283,1500,salida,100
+Morelos,Barracuda,18,2022-08-08,290,500,entrada,100
+EdoMex,084 Campeón,27,2021-11-20,120,1500,salida,50
+CDMX,RL15,25,2024-05-11,252,750,salida,75
+Morelos,084 Clásico,21,2021-11-25,35,500,salida,100
+EdoMex,SuperFaro,27,2023-09-11,404,750,entrada,50
+EdoMex,SuperFaro,25,2026-03-11,129,1500,entrada,50
+Nuevo,Urbano,25,2023-06-28,210,500,entrada,150
+CDMX,084,18,2021-07-30,70,1000,salida,100
+Chihuahua,RL15,23,2025-07-09,173,750,entrada,100
+Hidalgo,Caimán,24,2025-01-03,65,1000,salida,150
+CDMX,Caimán,16,2022-06-24,264,1000,entrada,75
+EdoMex,RL15,25,2024-09-18,171,1500,salida,50
+CDMX,Gran Prix,16,2023-03-05,81,1500,salida,50
+Michoacan,084,25,2025-03-10,459,500,entrada,150
+Hidalgo,Flip,24,2023-12-24,134,1500,salida,100
+Chihuahua,Perestroika,25,2025-12-04,275,1000,salida,100
+Hidalgo,084 Campeón,28,2023-12-08,261,1000,entrada,50
+Michoacan,Caimán,27,2024-02-27,226,1500,devolución,100
+Chihuahua,RL15,15,2023-04-28,24,1500,salida,100
+CDMX,084,25,2026-03-11,124,500,salida,75
+Hidalgo,084 Campeón,24,2025-08-31,40,1000,salida,50
+Chihuahua,Ultra,24,2024-10-22,292,1000,salida,150
+CDMX,084,29,2022-07-28,2,500,salida,100
+Hidalgo,Gran Prix,16,2025-12-07,311,1000,entrada,150
+Puebla,Perestroika,24,2026-05-03,151,1000,salida,75
+Quintana,Panam Alfa,28,2024-01-08,382,1000,entrada,150
+CDMX,084 Clásico,27,2021-05-27,316,750,entrada,50
+Chihuahua,084 Diamante,24,2021-10-17,40,750,salida,50
+Michoacan,084 Campeón,26,2024-05-23,190,500,entrada,100
+EdoMex,084 Diamante,25,2026-05-05,157,1000,salida,50
+Nuevo,Ultra,25,2022-05-13,36,500,salida,150
+Morelos,Urbano,24,2021-12-12,247,500,salida,50
+EdoMex,084 Diamante,22,2021-11-20,80,1500,salida,150
+Morelos,084 Diamante,22,2025-11-07,257,1500,entrada,100
+Morelos,Barracuda,23,2024-11-11,403,1000,entrada,75
+Puebla,Vital,18,2022-09-19,440,750,entrada,50
+Nuevo,Panam Alfa,25,2022-12-31,123,1000,salida,100
+Coahuila,Perestroika,27,2023-06-18,202,1000,devolución,50
+Puebla,Barracuda,23,2022-11-14,253,500,entrada,50
+Puebla,Ultra,28,2022-11-20,273,1500,entrada,75
+Hidalgo,SuperFaro,28,2021-08-05,79,500,salida,150
+Morelos,Ultra,25,2025-07-22,244,1500,salida,75
+Hidalgo,Panam Alfa,24,2022-05-12,227,1000,entrada,50
+Chihuahua,Caimán,24,2024-03-02,232,750,salida,150
+Morelos,Caimán,25,2022-02-07,234,1500,salida,50
+Quintana,Urbano,28,2022-02-22,161,1000,entrada,75
+Quintana,Urbano,25,2024-10-11,275,500,entrada,150
+Puebla,Gran Prix,22,2026-03-24,7,1500,salida,150
+Michoacan,Caimán,28,2024-08-22,421,750,entrada,150
+Nuevo,SuperFaro,24,2024-10-23,142,1500,salida,50
+Nuevo,084 Campeón,20,2024-08-02,330,750,entrada,100
+Michoacan,Gran Prix,26,2025-05-19,43,1000,salida,100
+Quintana,Flip,25,2022-07-10,417,1500,entrada,100
+EdoMex,SuperFaro,19,2024-04-06,422,1000,entrada,100
+Michoacan,Flip,24,2022-11-25,182,1500,salida,150
+Morelos,Urbano,24,2022-02-28,222,750,devolución,100
+Michoacan,084,24,2023-12-29,50,1000,devolución,75
+Nuevo,SuperFaro,25,2024-05-13,82,750,salida,75
+Puebla,SuperFaro,26,2022-11-08,259,500,salida,100
+Morelos,084,26,2025-01-02,218,750,salida,150
+CDMX,Vaivén,22,2023-06-28,276,1500,salida,150
+Coahuila,Barracuda,24,2025-08-05,376,750,entrada,100
+Morelos,084 Diamante,17,2022-02-12,204,1500,devolución,100
+Puebla,Ultra,19,2022-11-30,239,750,salida,100
+Quintana,084 Clásico,22,2023-07-24,147,500,salida,150
+Michoacan,084,19,2024-10-04,297,1500,salida,75
+Chihuahua,RL15,23,2023-01-19,118,500,entrada,100
+Nuevo,Panam Alfa,25,2023-04-10,31,750,salida,50
+Chihuahua,Urbano,27,2024-05-01,368,750,entrada,100
+EdoMex,SuperFaro,23,2022-01-14,72,1000,salida,75
+Coahuila,Ultra,18,2024-03-26,196,1000,devolución,50
+Quintana,Gran Prix,25,2025-03-09,294,500,entrada,50
+Morelos,Ultra,23,2022-02-22,253,500,entrada,75
+Puebla,Perestroika,15,2025-10-19,179,500,entrada,100
+Chihuahua,084 Clásico,24,2023-07-16,278,750,entrada,50
+CDMX,Gran Prix,24,2021-07-08,288,1500,salida,150
+Coahuila,Urbano,25,2021-11-11,129,1000,salida,75
+Michoacan,Barracuda,24,2026-01-31,346,750,entrada,100
+EdoMex,Barracuda,26,2021-11-06,245,1000,salida,50
+Coahuila,Perestroika,26,2024-07-08,474,1500,entrada,75
+Quintana,Urbano,22,2022-02-26,332,500,entrada,150
+Michoacan,Urbano,17,2022-10-11,268,750,entrada,150
+Hidalgo,Vital,23,2021-05-11,142,1500,salida,75
+Nuevo,Vital,23,2025-11-05,236,1000,salida,50
+Nuevo,Vaivén,22,2021-06-14,223,1500,salida,150
+Quintana,084 Clásico,14,2021-05-20,196,500,salida,100
+Quintana,RL15,16,2024-02-15,184,1500,entrada,100
+Michoacan,SuperFaro,18,2024-08-13,51,750,salida,50
+Hidalgo,084,26,2023-12-13,109,1000,entrada,50
+Quintana,084 Clásico,23,2021-07-31,152,750,entrada,100
+CDMX,Vaivén,15,2026-03-06,233,1500,salida,100
+Quintana,RL15,25,2026-02-19,124,750,devolución,100
+Michoacan,Urbano,24,2024-07-13,207,500,entrada,50
+Puebla,Barracuda,19,2021-12-07,265,1000,entrada,150
+EdoMex,SuperFaro,23,2022-10-23,146,500,entrada,50
+Hidalgo,Urbano,22,2022-12-12,236,500,salida,150
+EdoMex,084,26,2025-08-01,177,750,devolución,50
+EdoMex,Perestroika,22,2022-11-22,227,750,salida,75
+Chihuahua,084,22,2025-11-24,22,500,salida,100
+Puebla,Vaivén,24,2023-03-15,39,750,salida,100
+EdoMex,RL15,17,2024-04-12,139,1000,entrada,100
+CDMX,Vaivén,26,2022-03-03,206,1000,salida,50
+Puebla,084 Campeón,23,2022-08-29,274,1000,entrada,150
+CDMX,Barracuda,20,2024-07-11,15,1000,salida,50
+Chihuahua,084 Diamante,14,2026-03-24,224,1000,entrada,150
+Morelos,Urbano,17,2022-11-07,173,1000,devolución,150
+CDMX,Flip,26,2025-02-03,213,1000,salida,100
+CDMX,Ultra,27,2022-11-08,279,750,entrada,75
+Morelos,Ultra,22,2025-08-29,29,1500,salida,50
+Hidalgo,084 Diamante,30,2022-08-11,172,750,salida,150
+Hidalgo,084 Diamante,24,2025-02-17,159,1500,entrada,50
+Quintana,SuperFaro,26,2021-08-08,38,1000,salida,100
+Morelos,SuperFaro,24,2021-09-03,187,1500,entrada,100
+Hidalgo,084 Clásico,29,2025-12-01,475,1000,entrada,100
+Coahuila,RL15,27,2022-05-15,133,1500,salida,50
+CDMX,084 Clásico,29,2023-12-30,277,1000,entrada,50
+Coahuila,Caimán,18,2023-10-28,212,1000,salida,150
+Morelos,084 Diamante,19,2022-04-06,132,1000,entrada,75
+Morelos,084 Clásico,23,2024-04-24,163,1500,devolución,50
+EdoMex,Caimán,17,2022-11-17,135,1000,salida,150
+Nuevo,RL15,19,2025-10-03,202,1500,devolución,50
+Nuevo,084 Clásico,26,2022-10-08,162,1000,entrada,50
+Chihuahua,Perestroika,18,2022-03-12,7,1000,salida,50
+CDMX,Perestroika,24,2025-07-30,3,1500,salida,100
+Michoacan,Perestroika,20,2022-12-27,288,1500,entrada,50
+Nuevo,084 Campeón,27,2022-08-31,247,1500,salida,150
+Coahuila,Vital,27,2024-03-19,81,1000,salida,50
+Quintana,Panam Alfa,18,2025-03-18,425,500,entrada,100
+Michoacan,SuperFaro,18,2026-01-02,240,750,devolución,75
+CDMX,084 Diamante,27,2024-08-26,143,750,salida,50
+Hidalgo,Perestroika,27,2025-02-26,137,1500,salida,50
+Michoacan,RL15,16,2022-05-02,84,750,salida,50
+Puebla,084 Campeón,26,2026-01-22,7,750,salida,100
+Morelos,Vaivén,26,2021-11-25,35,500,salida,150
+Michoacan,Flip,24,2024-03-22,115,1000,salida,50
+Chihuahua,Caimán,27,2023-06-10,293,1500,entrada,75
+Puebla,RL15,26,2024-06-15,177,750,salida,150
+Michoacan,Vital,24,2022-07-19,499,1500,entrada,150
+Quintana,Panam Alfa,15,2023-05-20,131,750,entrada,100
+CDMX,RL15,26,2025-07-09,381,1000,entrada,50
+EdoMex,SuperFaro,29,2022-12-12,237,500,salida,75
+CDMX,084 Campeón,25,2024-10-13,160,500,entrada,150
+Hidalgo,Vital,26,2021-09-12,263,750,salida,50
+EdoMex,Flip,23,2024-05-23,131,1500,entrada,50
+CDMX,RL15,25,2021-11-04,254,1000,salida,75
+Hidalgo,Barracuda,25,2025-06-06,2,1500,salida,50
+Puebla,Vital,23,2022-03-09,241,500,devolución,100
+Puebla,084,26,2025-10-07,435,750,entrada,150
+CDMX,084 Campeón,26,2022-02-12,196,1000,entrada,50
+Puebla,Flip,24,2024-01-27,419,1500,entrada,100
+Puebla,084,17,2025-10-30,377,1000,entrada,75
+Puebla,Vaivén,29,2026-02-18,181,1000,entrada,50
+Coahuila,084,24,2026-03-28,214,1000,entrada,75
+Michoacan,084 Campeón,23,2025-11-13,263,500,entrada,75
+Chihuahua,Perestroika,23,2025-10-13,141,1500,entrada,100
+Quintana,084 Diamante,18,2024-09-12,206,1000,entrada,50
+Hidalgo,084 Diamante,22,2025-12-28,147,750,entrada,50
+Nuevo,Ultra,24,2023-01-20,50,500,devolución,100
+Morelos,Urbano,23,2023-10-01,269,750,entrada,75
+Morelos,Ultra,25,2024-01-26,74,1500,salida,75
+CDMX,Panam Alfa,25,2022-07-01,103,1000,salida,75
+CDMX,Gran Prix,26,2025-02-25,192,1500,salida,75
+Coahuila,Barracuda,26,2023-01-11,141,500,entrada,75
+Quintana,084 Clásico,27,2023-11-02,152,750,salida,100
+EdoMex,Caimán,24,2024-12-20,290,1500,salida,100
+Morelos,Gran Prix,24,2024-10-13,106,750,salida,50
+Quintana,Ultra,27,2025-01-17,130,1000,devolución,150
+Puebla,Flip,22,2024-07-20,116,500,entrada,100
+Chihuahua,Perestroika,26,2022-01-17,434,1500,entrada,150
+CDMX,Panam Alfa,25,2025-07-08,444,750,entrada,50
+EdoMex,Vital,18,2021-07-19,107,750,salida,50
+Coahuila,Flip,26,2025-07-10,493,500,entrada,75
+Hidalgo,Vital,25,2022-03-26,112,1500,entrada,150
+Nuevo,Panam Alfa,25,2024-01-30,120,1500,entrada,50
+Puebla,Caimán,23,2026-02-13,244,1500,salida,75
+Nuevo,Urbano,24,2025-06-18,205,500,entrada,75
+Quintana,Perestroika,21,2024-08-26,22,500,salida,50
+Coahuila,Barracuda,26,2023-12-12,188,1500,devolución,150
+Chihuahua,RL15,20,2025-07-30,185,750,salida,50
+EdoMex,RL15,17,2023-10-15,211,1500,salida,75
+Puebla,RL15,25,2021-10-24,216,500,salida,50
+Puebla,084 Clásico,26,2025-10-31,204,750,salida,150
+Michoacan,Vaivén,27,2021-09-12,183,1000,entrada,150
+Puebla,084 Clásico,25,2022-12-11,158,1500,devolución,75
+Quintana,Perestroika,18,2022-02-07,440,1500,entrada,50
+Puebla,Urbano,19,2023-12-16,131,1000,entrada,50
+Hidalgo,Ultra,27,2026-05-05,138,1500,devolución,50
+Puebla,Vital,25,2026-03-16,139,750,salida,100
+Morelos,Perestroika,27,2025-12-17,276,750,salida,150
+Puebla,084,15,2022-10-26,135,1500,entrada,150
+Michoacan,SuperFaro,23,2024-01-05,28,1000,salida,75
+CDMX,Urbano,26,2021-10-02,284,1500,salida,75
+EdoMex,Perestroika,26,2025-11-21,171,500,salida,75
+Puebla,SuperFaro,25,2021-08-01,269,500,salida,100
+Nuevo,084 Diamante,24,2021-09-29,263,750,entrada,150
+Chihuahua,SuperFaro,17,2023-12-03,185,1000,entrada,150
+Quintana,Ultra,23,2024-08-14,404,1000,entrada,75
+Coahuila,Perestroika,17,2022-12-12,378,750,entrada,50
+Morelos,Caimán,22,2024-05-03,244,750,salida,50
+Puebla,Ultra,27,2025-12-02,225,1500,salida,100
+Nuevo,Perestroika,26,2021-10-16,170,1000,salida,150
+Quintana,SuperFaro,27,2025-01-13,407,1000,entrada,150
+Hidalgo,Panam Alfa,25,2025-09-01,275,1000,entrada,100
+Coahuila,Vaivén,25,2025-10-20,232,500,salida,150
+Nuevo,Ultra,18,2022-11-11,157,500,devolución,150
+Hidalgo,084 Diamante,24,2025-09-02,496,750,entrada,75
+Puebla,Caimán,23,2024-07-01,109,750,devolución,75
+Quintana,RL15,23,2021-09-22,274,750,salida,75
+Puebla,Caimán,24,2023-03-03,216,750,salida,150
+EdoMex,Gran Prix,23,2022-03-08,65,1500,devolución,100
+Puebla,Barracuda,27,2025-03-26,26,750,salida,150
+Quintana,Vaivén,24,2022-12-04,256,1500,entrada,75
+Morelos,084 Campeón,26,2023-03-25,2,500,salida,50
+Morelos,084 Campeón,19,2024-01-26,146,1500,salida,50
+Chihuahua,084,20,2021-12-19,290,500,salida,50
+Quintana,Flip,26,2023-01-28,440,1000,entrada,100
+CDMX,084 Campeón,25,2025-07-23,113,500,devolución,150
+Coahuila,SuperFaro,28,2023-02-07,204,1000,salida,75
+Michoacan,Vaivén,23,2026-03-15,431,750,entrada,100
+Nuevo,Urbano,23,2021-06-23,259,500,salida,150
+Morelos,RL15,25,2021-09-23,155,1000,entrada,150
+Nuevo,084 Campeón,25,2024-08-03,483,1500,entrada,50
+EdoMex,Ultra,26,2023-02-05,47,500,salida,75
+Hidalgo,Vaivén,25,2022-05-02,154,750,devolución,150
+EdoMex,Barracuda,26,2023-10-25,115,1000,devolución,150
+Michoacan,084 Campeón,27,2021-05-21,222,1000,devolución,75
+Chihuahua,084 Clásico,18,2023-05-23,134,1500,salida,50
+Michoacan,Urbano,19,2024-02-27,393,1500,entrada,100
+Nuevo,Flip,24,2022-11-07,287,750,salida,50
+Michoacan,Vaivén,16,2024-08-29,276,750,entrada,75
+Hidalgo,Vital,19,2023-04-15,204,500,salida,75
+Nuevo,Perestroika,25,2024-07-04,204,1000,devolución,100
+Coahuila,Barracuda,25,2024-10-06,216,1000,entrada,150
+Hidalgo,084 Campeón,24,2021-09-22,177,1000,devolución,150
+Morelos,Ultra,24,2022-09-02,425,1500,entrada,75
+EdoMex,Barracuda,26,2022-07-20,261,500,salida,50
+CDMX,084 Campeón,24,2023-06-10,38,1500,salida,100
+Coahuila,Vital,16,2023-07-17,360,500,entrada,150
+Puebla,Panam Alfa,23,2024-12-10,165,1500,entrada,100
+CDMX,Vaivén,24,2026-03-13,170,1000,devolución,50
+Quintana,084 Clásico,17,2023-12-24,240,1000,salida,100
+Morelos,Gran Prix,17,2023-02-01,179,500,salida,75
+Hidalgo,Ultra,28,2023-08-31,204,500,entrada,150
+Morelos,Urbano,27,2024-10-28,10,500,salida,75
+EdoMex,Flip,26,2021-06-07,149,1500,salida,100
+EdoMex,084 Diamante,28,2024-11-18,241,750,salida,75
+Coahuila,RL15,17,2024-11-11,136,1000,entrada,75
+Michoacan,Ultra,18,2024-07-21,40,1000,salida,150
+Nuevo,Perestroika,26,2023-09-17,111,500,salida,150
+CDMX,Gran Prix,18,2022-12-16,227,500,salida,150
+Coahuila,Perestroika,24,2025-07-01,211,1500,entrada,75
+Coahuila,Caimán,24,2023-07-02,103,1000,salida,150
+Quintana,084 Campeón,16,2021-06-07,176,1000,devolución,150
+Nuevo,SuperFaro,18,2024-09-15,123,1500,salida,100
+Quintana,Caimán,18,2021-09-13,98,750,devolución,150
+Hidalgo,Gran Prix,22,2025-03-01,365,1000,entrada,100
+Puebla,Vital,19,2022-06-10,300,1000,salida,150
+Puebla,Vaivén,25,2023-03-30,78,1500,salida,75
+Michoacan,084 Diamante,28,2021-12-11,314,1000,entrada,100
+Puebla,SuperFaro,19,2022-04-26,164,500,devolución,100
+EdoMex,084 Clásico,27,2022-04-29,98,1500,salida,75
+Nuevo,Flip,15,2022-09-12,152,1500,salida,50
+Nuevo,RL15,27,2025-07-02,48,1000,salida,50
+CDMX,Vaivén,17,2021-11-28,10,1500,salida,150
+Michoacan,Perestroika,24,2022-11-26,288,500,salida,50
+EdoMex,084 Campeón,22,2025-11-29,166,1500,salida,75
+EdoMex,SuperFaro,20,2024-02-17,169,1500,salida,75
+Coahuila,SuperFaro,17,2022-10-08,294,1000,salida,150
+Quintana,SuperFaro,25,2023-07-12,363,1000,entrada,75
+Coahuila,Ultra,18,2024-09-24,178,750,salida,150
+Michoacan,Perestroika,21,2023-10-08,227,750,salida,50
+Quintana,Ultra,25,2025-11-27,128,500,salida,150
+Quintana,RL15,25,2023-10-13,447,750,entrada,100
+Quintana,Panam Alfa,27,2023-10-07,3,1500,salida,150
+Nuevo,Vital,24,2026-03-12,281,1500,entrada,100
+Chihuahua,Panam Alfa,16,2023-07-27,164,1000,salida,50
+EdoMex,084 Clásico,22,2022-04-08,115,1500,entrada,150
+Quintana,084 Diamante,20,2022-05-12,281,1000,entrada,100
+Chihuahua,Caimán,25,2024-09-14,319,1500,entrada,150
+Michoacan,084 Campeón,26,2023-01-24,47,1000,salida,75
+CDMX,Vaivén,17,2022-01-30,141,1500,entrada,100
+Nuevo,Gran Prix,26,2026-01-23,255,1500,entrada,150
+Coahuila,SuperFaro,24,2025-07-31,98,1500,salida,100
+Morelos,Flip,18,2023-01-20,101,500,entrada,75
+Morelos,Vaivén,18,2022-06-05,252,500,entrada,100
+Chihuahua,RL15,27,2025-10-02,214,1000,salida,75
+CDMX,Flip,26,2021-08-25,112,750,salida,100
+Puebla,084 Clásico,16,2025-05-02,251,1500,salida,75
+Morelos,084 Diamante,26,2025-06-01,394,1000,entrada,50
+Morelos,RL15,24,2022-04-11,25,500,salida,150
+CDMX,Flip,24,2022-04-17,335,500,entrada,100
+Nuevo,Perestroika,19,2023-04-16,293,1500,salida,75
+Morelos,Perestroika,18,2021-09-01,145,500,salida,150
+Quintana,Caimán,23,2024-08-23,138,500,salida,75
+EdoMex,084,16,2022-11-30,261,1500,salida,100
+Puebla,Panam Alfa,26,2022-01-21,288,1000,salida,75
+Morelos,Caimán,26,2021-12-01,271,750,salida,150
+EdoMex,084,26,2023-05-27,97,500,devolución,150
+Michoacan,Gran Prix,21,2025-01-19,349,500,entrada,50
+EdoMex,RL15,27,2024-07-01,489,1500,entrada,75
+Morelos,Perestroika,25,2025-01-26,267,500,entrada,100
+Coahuila,Barracuda,17,2022-07-23,373,1500,entrada,100
+EdoMex,Perestroika,24,2025-02-07,60,500,salida,150
+Coahuila,Urbano,24,2021-09-10,242,500,entrada,100
+Nuevo,084 Clásico,22,2025-08-18,120,750,salida,50
+Michoacan,084 Diamante,23,2022-12-14,32,500,salida,75
+CDMX,Ultra,26,2023-02-19,11,1500,salida,50
+Quintana,Ultra,28,2024-01-19,144,500,salida,100
+Chihuahua,Vital,25,2021-09-19,168,1000,salida,75
+Chihuahua,Vaivén,24,2026-03-08,47,1500,salida,50
+CDMX,Caimán,12,2021-06-19,218,500,salida,100
+Morelos,RL15,28,2022-08-23,427,500,entrada,50
+Quintana,Ultra,23,2024-03-31,77,750,salida,50
+Puebla,084,22,2023-06-24,25,1000,salida,100
+CDMX,Ultra,24,2022-11-02,447,1500,entrada,150
+Nuevo,Vaivén,25,2024-04-28,165,1000,salida,50
+Michoacan,084 Clásico,18,2025-04-10,142,1500,entrada,50
+Coahuila,Panam Alfa,23,2023-01-19,222,1000,salida,100
+Chihuahua,Ultra,26,2021-10-28,135,1000,salida,75
+Quintana,084 Campeón,16,2024-09-03,406,500,entrada,50
+EdoMex,Urbano,17,2024-07-30,206,1000,salida,75
+Nuevo,084 Campeón,24,2022-08-24,248,1000,salida,100
+Coahuila,Vital,24,2023-10-29,359,1000,entrada,100
+Puebla,Vaivén,15,2025-08-24,131,500,salida,75
+Michoacan,Flip,23,2021-11-20,161,1500,entrada,150
+Chihuahua,Urbano,23,2023-04-06,189,1000,salida,100
+Nuevo,Gran Prix,26,2022-11-28,204,500,entrada,75
+Michoacan,Vaivén,26,2022-12-31,336,1000,entrada,75
+Hidalgo,Vital,25,2024-03-14,75,1000,salida,75
+Nuevo,Caimán,17,2025-01-28,278,1000,entrada,150
+EdoMex,Gran Prix,20,2021-07-23,201,500,entrada,50
+Michoacan,Flip,26,2025-02-02,453,500,entrada,100
+CDMX,SuperFaro,28,2021-12-07,249,750,entrada,150
+Nuevo,Vaivén,16,2023-06-08,267,750,salida,150
+Michoacan,Perestroika,15,2025-11-03,80,750,salida,150
+Puebla,Panam Alfa,19,2023-10-17,280,750,entrada,150
+Chihuahua,Caimán,17,2026-01-30,461,1500,entrada,100
+EdoMex,Panam Alfa,24,2022-09-18,289,1500,entrada,50
+Chihuahua,Barracuda,26,2022-07-25,253,1500,entrada,150
+Puebla,Caimán,24,2025-12-31,278,750,salida,150
+Quintana,SuperFaro,19,2024-01-17,201,500,devolución,50
+EdoMex,Vaivén,26,2021-10-29,170,500,salida,75
+Quintana,RL15,25,2022-04-17,114,1000,salida,150
+Nuevo,RL15,22,2021-11-24,199,1000,entrada,100
+Morelos,Panam Alfa,23,2024-10-30,267,750,entrada,75
+EdoMex,Ultra,21,2025-10-01,218,1500,devolución,100
+Quintana,RL15,28,2025-11-21,67,500,salida,75
+Morelos,084 Campeón,30,2021-06-29,286,1500,salida,75
+CDMX,RL15,26,2022-10-16,138,750,entrada,75
+Quintana,RL15,23,2024-01-30,174,500,entrada,100
+Nuevo,084 Diamante,27,2024-06-30,191,500,salida,75
+Michoacan,RL15,25,2021-09-02,106,1000,entrada,150
+Quintana,RL15,24,2022-07-26,117,1000,entrada,50
+Puebla,084,18,2022-03-24,380,1500,entrada,50
+Nuevo,084 Diamante,28,2023-05-02,101,1000,entrada,75
+CDMX,Vital,25,2021-05-24,304,1500,entrada,50
+Puebla,Barracuda,25,2024-08-02,385,1000,entrada,100
+Chihuahua,Urbano,14,2021-05-16,68,750,salida,150
+Nuevo,Caimán,25,2026-02-17,253,750,salida,75
+Chihuahua,084 Campeón,26,2021-11-03,400,1000,entrada,75
+CDMX,SuperFaro,25,2024-08-22,223,1500,entrada,100
+Hidalgo,Vaivén,25,2026-03-02,466,500,entrada,50
+Puebla,SuperFaro,25,2022-05-13,66,1000,devolución,150
+EdoMex,084 Diamante,15,2023-04-03,454,500,entrada,75
+Nuevo,Barracuda,22,2021-08-23,454,1500,entrada,50
+Chihuahua,Panam Alfa,17,2026-02-20,208,500,entrada,150
+Hidalgo,Vaivén,25,2025-12-26,8,750,salida,75
+Puebla,084 Clásico,26,2021-12-21,378,500,entrada,100
+EdoMex,084,29,2021-07-06,312,1000,entrada,50
+Coahuila,RL15,27,2025-05-25,332,500,entrada,50
+CDMX,084,13,2026-03-16,149,500,entrada,150
+Chihuahua,Vital,30,2024-08-17,165,1500,salida,75
+Chihuahua,Urbano,19,2023-09-30,9,1500,salida,50
+Chihuahua,Barracuda,17,2024-08-19,286,500,salida,50
+Quintana,RL15,28,2025-03-03,198,500,salida,75
+Nuevo,Panam Alfa,22,2023-05-14,338,1500,entrada,75
+CDMX,084,16,2025-07-08,186,1500,salida,75
+EdoMex,Vital,25,2023-06-22,179,750,salida,100
+Coahuila,Caimán,18,2024-04-12,231,750,devolución,100
+Hidalgo,RL15,28,2025-03-19,395,500,entrada,150
+Chihuahua,Flip,20,2025-06-02,185,500,salida,75
+Morelos,Perestroika,19,2022-08-25,402,750,entrada,50
+Hidalgo,084,25,2025-03-17,88,1500,devolución,100
+Quintana,Caimán,19,2025-11-28,173,1500,salida,100
+Morelos,Vital,16,2024-05-29,113,1000,salida,150
+Quintana,Flip,19,2023-04-01,151,500,entrada,50
+Morelos,Panam Alfa,16,2022-07-28,52,1500,salida,150
+Morelos,Vital,26,2023-10-14,258,500,entrada,100
+CDMX,Vital,22,2022-10-30,500,1000,entrada,100
+Hidalgo,RL15,27,2024-08-25,466,1000,entrada,75
+Coahuila,Urbano,17,2023-07-14,10,750,salida,50
+Quintana,084,15,2022-09-16,76,1500,devolución,50
+Michoacan,084 Campeón,23,2024-06-22,349,1500,entrada,100
+Coahuila,RL15,17,2021-07-10,198,1500,devolución,150
+Morelos,084 Diamante,23,2025-01-06,143,1500,salida,75
+Hidalgo,Urbano,26,2023-11-23,263,1500,salida,100
+Nuevo,Vaivén,25,2022-07-27,285,500,salida,75
+Nuevo,084 Clásico,27,2021-09-15,384,500,entrada,75
+Hidalgo,SuperFaro,24,2025-04-04,116,1500,salida,100
+Nuevo,084 Diamante,19,2024-11-01,173,1500,entrada,100
+Michoacan,Gran Prix,25,2025-12-13,251,1000,entrada,50
+Coahuila,084,25,2023-04-11,62,1500,devolución,100
+Morelos,Ultra,23,2024-10-07,261,750,entrada,150
+Morelos,084 Clásico,25,2022-05-29,104,500,salida,50
+Michoacan,084 Campeón,26,2024-05-06,116,500,devolución,100
+CDMX,Panam Alfa,24,2023-02-11,226,750,salida,150
+CDMX,Caimán,17,2024-10-18,351,500,entrada,75
+EdoMex,084 Clásico,16,2024-12-04,265,750,entrada,100
+Coahuila,084,28,2024-11-24,95,1000,salida,100
+CDMX,084 Diamante,26,2025-04-06,136,1500,salida,75
+Michoacan,Ultra,25,2025-03-11,18,750,salida,50
+Quintana,RL15,24,2025-02-13,108,500,salida,50
+Coahuila,Caimán,27,2024-08-25,189,1000,devolución,150
+Morelos,Barracuda,25,2025-04-15,131,1500,entrada,100
+Morelos,Ultra,25,2024-06-08,245,1500,salida,100
+Puebla,Ultra,25,2024-03-20,124,1000,entrada,50
+EdoMex,Panam Alfa,23,2024-02-13,256,1000,entrada,150
+Coahuila,Caimán,28,2024-09-26,296,500,salida,50
+Chihuahua,Ultra,19,2022-06-23,271,750,entrada,75
+EdoMex,Vaivén,25,2025-11-07,105,1500,entrada,100
+Chihuahua,084 Campeón,25,2023-02-05,490,1000,entrada,75
+CDMX,Flip,23,2023-06-09,409,750,entrada,50
+Puebla,Vital,22,2023-03-11,7,500,salida,75
+Chihuahua,Caimán,23,2022-12-20,9,1500,salida,150
+Quintana,084 Diamante,27,2026-03-07,33,500,salida,100
+Quintana,Perestroika,17,2022-12-31,51,500,salida,100
+Hidalgo,Gran Prix,27,2024-06-08,488,1000,entrada,50
+Hidalgo,Vital,25,2025-04-14,59,1500,salida,150
+EdoMex,084 Diamante,23,2026-01-03,156,1000,salida,100
+Quintana,Perestroika,24,2024-10-25,161,750,salida,150
+Nuevo,Urbano,18,2024-07-13,84,750,salida,100
+EdoMex,084 Clásico,22,2023-12-15,21,500,salida,100
+Hidalgo,084 Clásico,24,2023-02-28,55,750,salida,100
+Puebla,Vital,17,2024-09-07,203,750,salida,150
+Morelos,084 Campeón,26,2022-07-19,43,1000,salida,50
+Coahuila,Ultra,26,2025-05-06,3,750,salida,75
+EdoMex,Perestroika,25,2022-04-08,228,750,entrada,50
+Hidalgo,Urbano,18,2025-12-17,184,1000,devolución,50
+Chihuahua,Caimán,20,2025-03-11,246,750,salida,150
+Nuevo,RL15,18,2023-11-25,246,750,entrada,50
+Nuevo,Vital,23,2024-11-06,375,1000,entrada,100
+Michoacan,Caimán,18,2021-10-11,165,1000,salida,150
+Chihuahua,RL15,23,2023-01-15,66,1000,devolución,75
+CDMX,084,22,2023-03-12,426,1000,entrada,75
+Puebla,Gran Prix,25,2024-03-20,252,1500,entrada,50
+Puebla,084 Campeón,26,2026-01-14,52,1000,devolución,50
+Hidalgo,Barracuda,26,2022-09-05,66,1500,salida,75
+Chihuahua,Perestroika,26,2024-08-12,221,750,salida,100
+Nuevo,Urbano,27,2025-09-30,379,1500,entrada,75
+Puebla,084 Clásico,16,2025-01-06,47,750,salida,150
+Puebla,084,24,2022-11-17,103,1000,salida,100
+Puebla,Vital,15,2025-02-10,497,1000,entrada,50
+Morelos,Ultra,26,2021-07-19,250,750,salida,150
+Puebla,084 Diamante,20,2023-02-06,208,750,salida,75
+Coahuila,SuperFaro,24,2024-08-17,67,500,salida,50
+Coahuila,Gran Prix,26,2026-03-04,296,750,salida,50
+Nuevo,084 Clásico,24,2022-10-23,303,1500,entrada,50
+Chihuahua,SuperFaro,26,2023-09-02,259,1500,entrada,150
+Quintana,084,13,2026-02-19,158,1500,salida,75
+Puebla,084 Clásico,28,2022-09-02,128,500,salida,100
+Morelos,SuperFaro,23,2024-10-05,145,500,entrada,75
+Quintana,Vital,25,2026-03-27,227,1000,salida,75
+Puebla,Panam Alfa,28,2023-01-10,248,750,devolución,150
+Morelos,Gran Prix,23,2022-08-17,140,750,salida,100
+Coahuila,Vital,21,2024-11-04,264,750,salida,50
+Morelos,084 Diamante,29,2024-01-14,261,500,salida,100
+EdoMex,084 Campeón,26,2025-05-01,81,1500,salida,150
+Hidalgo,RL15,25,2023-06-08,394,1500,entrada,50
+Coahuila,084,25,2022-06-15,139,1000,entrada,100
+CDMX,Urbano,26,2025-06-26,90,1500,devolución,75
+Michoacan,RL15,19,2024-01-13,257,750,salida,75
+Morelos,084 Clásico,22,2025-11-09,284,1500,salida,75
+Nuevo,Caimán,24,2021-08-23,331,500,entrada,150
+Michoacan,084 Clásico,24,2022-03-03,432,750,entrada,150
+Morelos,Gran Prix,24,2021-11-25,25,1500,salida,100
+Hidalgo,Vital,16,2022-01-27,280,1500,salida,150
+Nuevo,Gran Prix,23,2021-07-12,226,1500,entrada,50
+EdoMex,Flip,28,2021-06-02,181,1500,salida,150
+Michoacan,Panam Alfa,24,2021-10-17,268,1000,salida,100
+Puebla,Urbano,25,2024-03-01,274,1500,salida,100
+EdoMex,RL15,24,2022-02-09,85,500,salida,100
+Coahuila,Gran Prix,16,2024-01-04,102,1500,entrada,150
+Puebla,Vaivén,26,2024-05-18,345,1000,entrada,50
+EdoMex,Perestroika,24,2023-01-27,1,1500,salida,75
+EdoMex,084,26,2022-08-17,1,1000,salida,75
+Morelos,084,28,2023-02-27,180,1500,entrada,100
+Morelos,084 Diamante,23,2023-12-17,368,1500,entrada,50
+EdoMex,Urbano,26,2021-11-27,257,500,salida,75
+Nuevo,Gran Prix,18,2024-06-06,185,1000,entrada,75
+Michoacan,Perestroika,23,2024-01-11,306,1000,entrada,100
+EdoMex,Panam Alfa,26,2026-04-23,293,500,entrada,50
+Michoacan,RL15,25,2025-02-21,1,500,salida,100
+Hidalgo,084 Diamante,28,2025-05-21,267,500,salida,150
+Morelos,084 Diamante,19,2024-03-23,320,1500,entrada,50
+Nuevo,RL15,25,2022-11-01,140,1500,entrada,50
+Michoacan,RL15,25,2023-10-23,249,1500,entrada,50
+Morelos,Perestroika,28,2023-12-04,217,1000,entrada,150
+Morelos,084,24,2022-03-17,134,1500,salida,75
+CDMX,Gran Prix,18,2026-02-15,156,750,devolución,75
+Quintana,Caimán,25,2022-09-14,158,1500,salida,150
+Puebla,Perestroika,27,2022-08-21,59,1000,salida,50
+EdoMex,Caimán,20,2022-09-25,110,750,entrada,100
+Coahuila,RL15,26,2024-11-16,153,500,entrada,75
+Coahuila,Urbano,24,2022-05-09,84,500,salida,100
+Coahuila,084 Clásico,17,2025-11-15,67,750,devolución,100
+Nuevo,084,23,2024-10-30,169,500,salida,150
+Nuevo,Panam Alfa,18,2022-09-10,285,750,salida,50
+Michoacan,Perestroika,24,2026-02-14,314,750,entrada,150
+Chihuahua,084 Campeón,29,2026-01-16,189,1000,salida,50
+Morelos,SuperFaro,16,2025-05-04,247,1000,salida,75
+Hidalgo,RL15,27,2023-09-27,67,1500,salida,75
+Michoacan,Flip,28,2023-06-20,241,1500,salida,50
+Hidalgo,Flip,26,2022-04-23,409,1000,entrada,50
+Hidalgo,Urbano,24,2022-08-04,142,750,salida,150
+Hidalgo,084 Diamante,24,2025-02-16,292,750,salida,150
+Puebla,Caimán,30,2022-03-03,379,1500,entrada,50
+EdoMex,084 Clásico,29,2021-09-05,217,1000,salida,50
+CDMX,Barracuda,26,2022-07-01,399,500,entrada,100
+Coahuila,Perestroika,24,2024-08-01,242,500,entrada,150
+Coahuila,SuperFaro,16,2025-05-14,275,1500,entrada,50
+Coahuila,SuperFaro,16,2024-07-27,335,1000,entrada,50
+EdoMex,084 Diamante,26,2025-05-26,207,1000,devolución,150
+Coahuila,084,29,2022-10-17,379,750,entrada,100
+Chihuahua,084,25,2021-07-07,205,1000,devolución,150
+Nuevo,Gran Prix,27,2026-05-01,468,500,entrada,50
+Quintana,Vaivén,19,2024-06-05,110,1000,salida,150
+Hidalgo,RL15,24,2025-02-04,244,750,salida,50
+Chihuahua,RL15,27,2026-04-27,246,750,salida,150
+Morelos,084 Clásico,27,2026-03-18,270,1500,salida,75
+EdoMex,084 Diamante,27,2022-11-22,200,750,salida,50
+Coahuila,Barracuda,24,2025-02-24,309,1500,entrada,100
+Michoacan,Ultra,19,2021-07-07,303,1500,entrada,150
+Hidalgo,Ultra,20,2025-07-12,301,750,entrada,100
+Chihuahua,Panam Alfa,27,2026-03-02,147,500,salida,150
+CDMX,084 Clásico,27,2024-04-08,376,750,entrada,75
+Puebla,084,25,2024-03-26,91,500,devolución,75
+Michoacan,084,27,2022-01-25,297,1000,entrada,100
+Quintana,084 Campeón,27,2024-06-28,214,500,salida,50
+Chihuahua,Flip,24,2021-12-06,96,750,salida,100
+Michoacan,Perestroika,15,2022-11-07,162,1000,entrada,100
+Puebla,Caimán,28,2022-06-29,316,500,entrada,75
+EdoMex,Vital,24,2023-11-24,292,750,salida,75
+Coahuila,084,24,2024-09-10,159,500,salida,100
+Morelos,084 Clásico,18,2022-08-13,301,1500,entrada,75
+CDMX,Caimán,25,2022-04-16,186,1000,salida,50
+Chihuahua,SuperFaro,14,2023-01-08,257,750,entrada,75
+EdoMex,Ultra,27,2024-01-27,171,1500,entrada,100
+Morelos,084 Clásico,27,2023-10-31,144,750,salida,50
+Morelos,Perestroika,15,2022-01-19,143,750,salida,150
+Quintana,Vaivén,17,2024-05-12,38,500,salida,100
+Michoacan,Ultra,23,2025-07-21,108,750,salida,100
+Coahuila,Caimán,23,2021-06-24,160,500,devolución,150
+Puebla,Barracuda,24,2024-11-24,127,1500,salida,100
+Hidalgo,084 Campeón,26,2022-10-13,491,1500,entrada,100
+CDMX,Gran Prix,29,2024-06-13,162,750,salida,100
+Hidalgo,Caimán,17,2023-06-30,261,1000,entrada,50
+Morelos,084 Diamante,19,2022-12-23,11,500,salida,100
+Coahuila,Flip,26,2025-09-17,225,750,salida,50
+Morelos,Barracuda,13,2023-09-24,239,750,entrada,100
+Puebla,084,15,2025-10-09,65,1000,salida,100
+EdoMex,084 Diamante,29,2021-07-18,184,1000,entrada,50
+CDMX,Flip,24,2025-07-05,124,750,salida,50
+EdoMex,Vaivén,26,2024-01-21,239,750,entrada,150
+Michoacan,Gran Prix,18,2022-10-06,186,1500,salida,75
+Michoacan,RL15,22,2021-10-14,354,1000,entrada,150
+Quintana,Vital,24,2023-05-18,217,1000,entrada,75
+Chihuahua,Gran Prix,19,2023-12-14,179,1500,salida,150
+CDMX,Flip,23,2023-08-01,371,1500,entrada,75
+Quintana,Perestroika,24,2025-03-01,124,750,salida,50
+Puebla,Caimán,23,2025-01-10,408,1000,entrada,100
+Nuevo,Barracuda,23,2024-03-19,9,1000,salida,150
+Morelos,Perestroika,16,2021-09-09,482,500,entrada,75
+Puebla,Perestroika,22,2023-08-31,273,1000,salida,150
+Puebla,084 Campeón,27,2025-03-29,396,750,entrada,50
+CDMX,Ultra,23,2022-01-10,64,1500,salida,50
+Quintana,084,25,2024-03-05,103,1500,devolución,100
+EdoMex,Vaivén,24,2026-01-13,353,500,entrada,75
+CDMX,SuperFaro,20,2021-08-11,137,750,salida,50
+Quintana,084,23,2022-06-16,377,500,entrada,50
+Nuevo,Vaivén,16,2021-06-08,203,500,salida,150
+Morelos,084 Clásico,23,2026-03-23,64,1500,salida,150
+CDMX,SuperFaro,22,2021-07-05,133,750,entrada,100
+Coahuila,084,19,2023-12-02,287,750,entrada,50
+EdoMex,084,25,2024-08-01,245,500,devolución,50
+EdoMex,Vaivén,25,2023-01-16,368,500,entrada,100
+CDMX,SuperFaro,19,2025-05-05,23,1000,salida,50
+Hidalgo,Urbano,25,2024-07-29,293,500,entrada,150
+EdoMex,084 Diamante,17,2024-08-25,384,1500,entrada,150
+Morelos,Ultra,18,2021-08-26,253,1000,entrada,150
+CDMX,Caimán,16,2023-08-24,301,1500,entrada,75
+Quintana,Vaivén,27,2024-07-14,272,500,salida,100
+Nuevo,Vaivén,17,2024-03-14,130,500,entrada,100
+CDMX,084 Diamante,25,2024-06-18,272,500,salida,150
+Hidalgo,Perestroika,19,2025-09-14,300,1500,entrada,100
+Michoacan,Perestroika,29,2024-12-15,487,500,entrada,75
+Nuevo,Flip,23,2024-10-22,421,1000,entrada,150
+Quintana,Urbano,23,2024-04-03,55,1500,devolución,100
+Coahuila,Urbano,25,2022-06-21,161,500,salida,50
+Hidalgo,Urbano,16,2024-04-16,99,500,salida,100
+Nuevo,084 Campeón,26,2023-07-28,13,500,salida,50
+Michoacan,Flip,18,2026-01-16,169,1000,devolución,150
+Hidalgo,084 Clásico,23,2022-12-26,222,1500,salida,75
+Nuevo,Panam Alfa,26,2025-07-03,153,750,entrada,50
+Coahuila,084 Clásico,21,2023-09-28,259,1500,salida,75
+EdoMex,084,24,2023-08-12,225,500,devolución,100
+CDMX,Caimán,26,2022-01-20,213,500,devolución,50
+Hidalgo,Barracuda,13,2025-03-04,110,750,entrada,50
+Nuevo,SuperFaro,24,2022-01-24,498,750,entrada,50
+Puebla,084 Diamante,18,2024-01-21,207,500,salida,50
+Morelos,Caimán,25,2025-09-03,232,750,salida,100
+Nuevo,Urbano,18,2022-04-24,314,1500,entrada,50
+Morelos,Caimán,16,2021-07-16,3,1500,salida,100
+Chihuahua,Barracuda,27,2022-06-09,157,1500,salida,75
+Morelos,Flip,24,2022-04-03,159,750,salida,150
+Michoacan,Perestroika,15,2023-05-31,188,1500,entrada,150
+Nuevo,Vital,25,2021-12-23,251,1000,salida,50
+EdoMex,Vaivén,27,2022-11-07,58,750,devolución,150
+CDMX,Gran Prix,26,2024-07-09,235,500,entrada,150
+Chihuahua,RL15,24,2021-11-24,179,750,salida,75
+Nuevo,Panam Alfa,21,2022-08-27,249,1000,salida,150
+Quintana,Gran Prix,17,2026-03-18,426,750,entrada,75
+Chihuahua,RL15,22,2023-05-12,149,750,salida,50
+Chihuahua,Flip,26,2022-02-01,260,1500,salida,150
+CDMX,084 Campeón,17,2021-12-26,98,1000,salida,50
+Hidalgo,Urbano,25,2021-06-05,202,1500,entrada,75
+Nuevo,Perestroika,27,2021-06-17,267,750,salida,100
+Hidalgo,084 Diamante,25,2024-03-31,459,1500,entrada,150
+Nuevo,Barracuda,24,2021-12-10,374,750,entrada,50
+Coahuila,Urbano,23,2022-09-03,254,750,entrada,150
+Nuevo,084,24,2026-04-20,267,750,salida,100
+Quintana,084 Campeón,18,2025-04-06,286,1000,salida,100
+Coahuila,Perestroika,16,2024-02-28,193,1500,salida,75
+Michoacan,084 Diamante,14,2022-03-31,95,750,salida,150
+CDMX,Ultra,26,2022-05-20,136,500,salida,150
+Nuevo,Caimán,26,2021-10-27,133,1000,salida,75
+Quintana,RL15,26,2022-07-11,305,1000,entrada,50
+Michoacan,084 Clásico,23,2023-01-16,344,1500,entrada,50
+Puebla,Barracuda,17,2022-01-13,73,1000,salida,100
+Michoacan,084,25,2022-12-03,420,500,entrada,100
+Puebla,084 Campeón,26,2022-02-15,170,1500,salida,150
+Hidalgo,084 Diamante,26,2022-02-14,265,750,salida,75
+Nuevo,Vital,15,2021-05-18,23,750,salida,100
+Hidalgo,Gran Prix,28,2025-01-10,65,750,salida,100
+Puebla,084 Diamante,23,2023-04-30,277,1500,salida,50
+Hidalgo,084 Diamante,22,2023-02-18,127,1500,salida,150
+Chihuahua,Ultra,22,2021-10-08,308,500,entrada,50
+CDMX,084 Diamante,26,2022-01-08,55,1000,salida,150
+Coahuila,Vital,28,2024-08-20,40,1000,salida,100
+CDMX,084 Diamante,16,2024-01-26,231,750,devolución,150
+Nuevo,084 Diamante,22,2025-11-05,326,1000,entrada,150
+Quintana,084,27,2022-12-25,99,500,devolución,150
+CDMX,084,15,2025-05-24,129,750,salida,50
+Puebla,Vaivén,26,2023-01-09,243,750,devolución,50
+Quintana,RL15,23,2025-07-23,149,1000,entrada,100
+Nuevo,Caimán,17,2022-12-05,125,1000,salida,100
+Puebla,Perestroika,18,2025-05-03,163,750,salida,50
+Michoacan,Caimán,26,2023-10-18,297,750,entrada,150
+Michoacan,084,18,2021-11-12,104,500,entrada,50
+Michoacan,Urbano,20,2025-02-09,100,1500,entrada,75
+Nuevo,Vaivén,28,2022-12-01,368,750,entrada,50
+Nuevo,084 Clásico,28,2025-08-30,52,500,devolución,50
+Coahuila,Urbano,25,2021-05-25,87,1500,salida,150
+Michoacan,Ultra,25,2022-01-08,157,500,entrada,100
+Puebla,084 Campeón,27,2022-11-03,296,1500,salida,50
+Nuevo,Panam Alfa,24,2023-01-10,64,750,salida,100
+Puebla,Caimán,24,2023-08-02,219,750,devolución,100
+Quintana,Vaivén,25,2022-07-27,156,1500,salida,75
+Nuevo,Ultra,25,2025-12-15,276,1000,salida,100
+EdoMex,Vital,24,2026-03-29,172,1000,entrada,100
+Coahuila,Vital,23,2022-12-15,233,1000,salida,150
+Morelos,084 Clásico,27,2022-05-26,49,500,salida,100
+Michoacan,Urbano,24,2021-12-27,174,500,devolución,75
+Quintana,084 Campeón,25,2022-12-12,468,1000,entrada,50
+CDMX,Vaivén,25,2022-12-08,80,1500,salida,50
+Chihuahua,084 Clásico,19,2024-01-29,277,500,salida,150
+Puebla,Barracuda,26,2023-04-13,172,1500,salida,100
+Quintana,Vaivén,25,2022-09-22,122,1500,entrada,75
+Michoacan,084,24,2024-09-13,203,1500,salida,75
+CDMX,Gran Prix,25,2023-11-14,285,1500,salida,50
+EdoMex,Flip,15,2024-11-07,123,1500,devolución,100
+Michoacan,Gran Prix,24,2025-08-27,65,1000,salida,150
+Hidalgo,Caimán,26,2023-10-10,280,500,salida,50
+Chihuahua,Panam Alfa,18,2023-03-15,287,750,salida,150
+Hidalgo,Barracuda,23,2024-12-21,195,1500,entrada,50
+Chihuahua,084 Campeón,17,2023-06-24,138,1500,devolución,150
+Morelos,084 Campeón,22,2024-04-11,237,1000,entrada,150
+Puebla,SuperFaro,25,2023-05-24,147,1500,salida,100
+Puebla,Urbano,24,2025-11-09,127,1000,entrada,150
+Quintana,084 Diamante,21,2021-05-28,15,500,salida,50
+Hidalgo,Perestroika,26,2023-06-27,127,1000,salida,50
+CDMX,Panam Alfa,23,2023-09-27,68,750,salida,75
+Nuevo,Gran Prix,16,2022-09-19,288,1500,salida,75
+Puebla,Vaivén,19,2021-11-23,221,1500,salida,150
+Michoacan,Panam Alfa,27,2021-11-13,182,1000,salida,150
+Michoacan,084,28,2021-11-17,188,1500,devolución,150
+Puebla,Vaivén,20,2025-07-18,172,1500,devolución,100
+EdoMex,084 Campeón,26,2024-04-09,57,500,salida,50
+Hidalgo,Flip,20,2021-11-09,307,750,entrada,75
+Coahuila,Ultra,18,2025-01-01,178,1000,salida,100
+Hidalgo,Gran Prix,25,2022-01-09,160,500,entrada,100
+EdoMex,SuperFaro,23,2025-02-19,491,500,entrada,150
+Chihuahua,084 Diamante,28,2021-06-12,154,1500,entrada,50
+Quintana,Gran Prix,18,2022-02-04,186,1000,salida,100
+EdoMex,Vital,17,2024-01-20,52,750,salida,100
+Nuevo,084 Clásico,16,2024-06-02,235,500,salida,50
+Nuevo,Perestroika,27,2021-11-26,193,1000,salida,75
+Quintana,084,27,2026-03-09,279,1000,salida,75
+Morelos,Ultra,23,2023-07-30,107,1500,devolución,100
+Hidalgo,SuperFaro,26,2024-01-22,425,1500,entrada,75
+Chihuahua,SuperFaro,26,2025-03-06,200,1500,salida,150
+CDMX,Barracuda,23,2024-05-22,268,750,salida,50
+Coahuila,084 Clásico,26,2025-06-07,162,1500,salida,50
+EdoMex,084 Clásico,26,2024-06-30,264,750,entrada,150
+Hidalgo,084 Campeón,19,2025-08-05,350,750,entrada,100
+Nuevo,Caimán,29,2023-11-25,275,1000,salida,100
+Morelos,084 Clásico,30,2025-07-03,87,750,salida,50
+Chihuahua,Vital,27,2024-01-05,207,1000,entrada,100
+Michoacan,Vaivén,18,2025-12-27,133,750,salida,75
+Coahuila,Barracuda,26,2022-12-18,28,1000,salida,100
+Morelos,Vaivén,26,2023-04-15,152,1500,entrada,100
+Quintana,Panam Alfa,29,2026-05-04,244,1500,entrada,75
+EdoMex,084 Diamante,18,2022-10-18,78,1500,salida,100
+Puebla,084 Clásico,24,2021-09-15,83,500,devolución,150
+Morelos,Vital,19,2024-05-06,248,1000,salida,100
+CDMX,Vaivén,21,2024-10-30,312,1500,entrada,75
+Chihuahua,RL15,16,2025-04-19,242,750,entrada,150
+Chihuahua,Gran Prix,16,2025-04-09,177,500,entrada,100
+Michoacan,084 Diamante,24,2024-02-08,108,1500,devolución,75
+Michoacan,084 Campeón,23,2024-10-10,259,1000,salida,100
+Coahuila,Vital,23,2025-04-15,126,1000,entrada,100
+Hidalgo,084 Campeón,27,2025-04-18,186,1000,entrada,100
+Morelos,084 Clásico,25,2025-03-11,23,500,salida,75
+Puebla,Panam Alfa,23,2022-08-23,287,1500,entrada,100
+CDMX,SuperFaro,26,2022-07-21,237,500,entrada,100
+EdoMex,Flip,26,2024-08-16,115,1000,salida,100
+Chihuahua,Panam Alfa,27,2024-11-29,284,1000,salida,75
+Puebla,RL15,24,2021-07-21,152,500,salida,50
+EdoMex,Urbano,23,2022-07-13,250,500,salida,150
+Morelos,RL15,26,2024-01-15,64,500,salida,100
+CDMX,084 Diamante,19,2024-08-03,289,1500,entrada,100
+Michoacan,Flip,15,2022-08-13,200,500,salida,150
+Nuevo,Panam Alfa,25,2024-09-28,201,750,devolución,75
+EdoMex,084,16,2024-06-15,229,500,entrada,150
+CDMX,Caimán,19,2021-06-18,153,1500,entrada,50
+EdoMex,Flip,26,2025-01-14,488,500,entrada,50
+CDMX,Panam Alfa,27,2022-10-25,87,1500,devolución,50
+Puebla,Caimán,16,2022-08-18,180,500,entrada,100
+Michoacan,Barracuda,16,2022-11-28,147,750,salida,75
+Hidalgo,Vital,17,2023-03-11,87,500,salida,75
+CDMX,084,16,2022-02-24,459,500,entrada,50
+Puebla,Vaivén,18,2021-06-26,87,1000,salida,75
+Quintana,084 Diamante,23,2024-09-03,250,750,salida,100
+Morelos,084 Diamante,21,2025-05-12,265,1500,entrada,150
+Puebla,Ultra,21,2022-08-15,477,1500,entrada,150
+Puebla,Perestroika,27,2023-08-25,493,1500,entrada,100
+CDMX,Urbano,19,2024-03-19,240,500,entrada,150
+EdoMex,RL15,17,2023-01-10,225,500,entrada,75
+Michoacan,Caimán,25,2021-07-12,162,1500,entrada,75
+Morelos,Vaivén,24,2025-07-29,101,750,salida,100
+Quintana,SuperFaro,25,2024-09-05,279,1500,salida,150
+Hidalgo,Urbano,18,2022-09-10,93,750,salida,50
+Coahuila,Vaivén,16,2023-12-05,181,750,entrada,75
+EdoMex,Flip,21,2026-01-07,42,750,salida,75
+Morelos,Panam Alfa,17,2023-09-16,14,1500,salida,50
+CDMX,084 Diamante,23,2023-04-13,149,1000,salida,100
+Coahuila,Panam Alfa,17,2022-12-17,182,1000,entrada,100
+Quintana,Vital,24,2025-06-25,267,750,salida,100
+Quintana,Urbano,16,2025-08-04,80,750,salida,150
+Michoacan,Vital,21,2025-01-10,200,750,entrada,150
+Quintana,084 Clásico,25,2025-01-17,143,500,devolución,100
+Hidalgo,Flip,20,2022-09-14,427,1500,entrada,100
+Coahuila,Gran Prix,26,2025-06-28,458,1500,entrada,75
+CDMX,084,18,2021-11-07,97,1500,salida,50
+Puebla,Caimán,25,2024-05-08,35,1000,salida,100
+Michoacan,Vaivén,24,2022-03-31,238,500,salida,100
+Michoacan,084 Campeón,27,2021-11-30,194,1500,salida,75
+CDMX,Vaivén,26,2024-02-04,438,1000,entrada,75
+Hidalgo,084 Diamante,25,2025-05-26,425,500,entrada,50
+Morelos,Vaivén,27,2023-10-22,181,1000,salida,50
+Morelos,084,21,2022-07-19,228,1000,salida,50
+Nuevo,084 Campeón,26,2023-05-06,154,750,salida,75
+Michoacan,Urbano,28,2025-10-04,247,750,entrada,50
+EdoMex,Panam Alfa,24,2025-07-19,471,1500,entrada,50
+EdoMex,SuperFaro,16,2023-03-09,130,500,entrada,100
+EdoMex,084 Diamante,17,2024-11-19,136,500,salida,50
+Puebla,Vital,25,2025-07-08,210,500,salida,100
+Coahuila,Vaivén,21,2021-06-15,69,1000,devolución,75
+Quintana,Perestroika,24,2023-12-19,141,1000,salida,150
+Morelos,Barracuda,26,2022-09-11,324,1000,entrada,75
+CDMX,Perestroika,27,2024-03-23,119,500,salida,150
+CDMX,084 Diamante,26,2023-12-27,35,750,salida,100
+CDMX,Gran Prix,24,2024-12-29,184,1500,devolución,100
+Puebla,SuperFaro,23,2022-05-19,478,1000,entrada,50
+CDMX,084 Campeón,20,2022-06-12,135,1500,entrada,75
+Quintana,Vaivén,23,2025-11-06,150,500,salida,100
+Morelos,Barracuda,24,2023-09-29,465,500,entrada,100
+CDMX,Ultra,18,2024-03-31,334,750,entrada,50
+EdoMex,084 Clásico,20,2024-07-09,104,1000,entrada,150
+CDMX,Caimán,27,2022-06-08,312,1500,entrada,100
+Puebla,Vital,25,2024-06-27,235,1000,entrada,50
+Chihuahua,Ultra,27,2026-02-25,279,750,entrada,150
+Michoacan,Vital,28,2025-05-16,33,1500,salida,50
+Chihuahua,Caimán,17,2021-11-18,160,750,entrada,150
+Michoacan,Urbano,24,2021-06-30,484,1000,entrada,50
+Michoacan,084,19,2025-02-23,315,1000,entrada,150
+Chihuahua,084 Campeón,21,2024-06-28,210,1500,entrada,75
+CDMX,Perestroika,24,2024-11-21,174,750,entrada,100
+Michoacan,Vaivén,22,2023-06-09,156,1000,salida,50
+Quintana,Caimán,26,2023-02-16,17,750,salida,100
+Morelos,084 Campeón,27,2024-02-13,220,500,entrada,50
+EdoMex,084 Clásico,25,2023-05-01,294,500,salida,100
+Quintana,084 Diamante,30,2024-01-02,404,750,entrada,150
+Coahuila,Vaivén,23,2025-05-24,400,1500,entrada,100
+Hidalgo,Panam Alfa,24,2023-09-24,402,1000,entrada,100
+CDMX,Panam Alfa,24,2026-01-24,269,1500,entrada,150
+Puebla,Caimán,18,2024-03-30,224,1500,entrada,150
+CDMX,Flip,25,2026-04-03,42,500,salida,75
+Coahuila,Ultra,24,2024-02-28,239,750,salida,50
+Quintana,Vital,27,2022-12-31,254,1500,salida,150
+CDMX,Panam Alfa,25,2022-06-05,352,1000,entrada,50
+Chihuahua,Vital,23,2024-01-31,183,750,salida,50
+CDMX,Vaivén,26,2026-03-19,91,750,salida,150
+Coahuila,084,24,2023-04-17,198,500,salida,150
+Michoacan,084 Diamante,25,2023-05-12,200,750,devolución,150
+Puebla,Caimán,27,2023-06-19,29,1500,salida,50
+Puebla,Ultra,27,2025-07-02,10,500,salida,75
+Nuevo,RL15,27,2026-02-19,92,1500,salida,75
+Morelos,Vital,25,2025-05-04,370,750,entrada,75
+CDMX,RL15,23,2021-07-05,177,1500,salida,150
+Michoacan,Gran Prix,24,2024-01-05,4,500,salida,50
+Quintana,084 Campeón,25,2025-09-09,124,750,entrada,50
+CDMX,084 Campeón,28,2022-02-27,184,1000,salida,100
+Chihuahua,Barracuda,24,2024-08-11,129,500,devolución,75
+CDMX,Gran Prix,18,2022-08-10,200,500,salida,75
+Quintana,084 Campeón,23,2024-01-30,299,1500,salida,150
+Puebla,084 Diamante,18,2022-01-13,422,1000,entrada,75
+EdoMex,Panam Alfa,25,2025-11-05,7,500,salida,150
+Chihuahua,SuperFaro,25,2025-07-09,47,1500,salida,150
+CDMX,Ultra,27,2025-04-12,454,750,entrada,150
+Michoacan,Perestroika,24,2023-08-10,53,1000,salida,75
+Puebla,Vital,28,2021-11-30,26,1500,salida,50
+EdoMex,Caimán,24,2025-03-02,65,1500,devolución,100
+Morelos,SuperFaro,27,2024-08-28,184,1000,salida,75
+Michoacan,Vital,22,2022-12-27,138,1000,entrada,150
+Nuevo,084,18,2023-09-11,69,500,salida,75
+EdoMex,SuperFaro,19,2022-07-24,13,500,salida,50
+CDMX,Panam Alfa,17,2024-06-09,173,750,entrada,100
+CDMX,084,26,2021-11-05,207,1500,salida,100
+Chihuahua,RL15,24,2025-05-17,181,1500,salida,50
+Hidalgo,Barracuda,26,2023-06-11,202,1000,salida,50
+Morelos,084 Clásico,18,2023-03-31,147,1500,salida,75
+Nuevo,Panam Alfa,21,2021-05-15,338,1500,entrada,50
+CDMX,Vaivén,15,2024-02-16,431,1500,entrada,50
+Hidalgo,Caimán,25,2024-05-16,432,1000,entrada,100
+Puebla,Flip,24,2025-06-13,231,1500,devolución,150
+EdoMex,Urbano,25,2026-02-15,294,1500,salida,100
+Puebla,084 Campeón,25,2022-08-03,32,750,salida,75
+Chihuahua,Barracuda,24,2023-08-31,210,1000,salida,100
+Nuevo,Vital,16,2024-01-25,114,1500,salida,50
+Michoacan,Perestroika,26,2025-06-20,262,1000,salida,75
+Nuevo,RL15,24,2024-01-07,156,750,salida,50
+Coahuila,084,25,2025-11-27,230,500,entrada,75
+Puebla,Flip,18,2023-01-17,249,750,salida,75
+Michoacan,084 Clásico,16,2022-12-12,40,750,salida,50
+CDMX,Caimán,26,2022-05-15,206,500,salida,50
+Michoacan,Perestroika,16,2023-11-10,159,750,devolución,100
+Michoacan,Panam Alfa,18,2021-11-10,315,750,entrada,100
+Hidalgo,Barracuda,18,2023-01-01,21,1000,salida,50
+Morelos,Urbano,25,2025-10-18,281,750,salida,100
+Quintana,084,23,2025-08-19,149,500,devolución,100
+Coahuila,RL15,18,2023-09-30,22,1000,salida,75
+Chihuahua,Gran Prix,15,2023-06-16,114,750,salida,50
+Quintana,084 Campeón,25,2024-07-17,53,1000,salida,150
+Michoacan,084 Campeón,26,2024-12-10,69,750,devolución,75
+Chihuahua,Vaivén,25,2021-06-09,263,750,entrada,100
+EdoMex,Urbano,27,2023-11-18,260,1500,salida,50
+Coahuila,Gran Prix,26,2023-07-26,157,500,salida,150
+Coahuila,084 Campeón,26,2023-01-30,369,750,entrada,100
+CDMX,Perestroika,26,2022-07-27,464,1500,entrada,150
+CDMX,Flip,28,2023-11-12,100,750,entrada,100
+Morelos,084 Campeón,23,2021-07-23,213,750,devolución,150
+Chihuahua,Ultra,24,2021-08-03,299,750,entrada,100
+Chihuahua,Caimán,25,2024-12-05,282,750,entrada,75
+Hidalgo,Vaivén,26,2022-01-05,32,1000,salida,75
+Nuevo,Vaivén,25,2024-06-24,38,1500,salida,100
+Morelos,084 Clásico,25,2025-04-19,30,1000,salida,150
+Chihuahua,RL15,20,2022-08-07,130,1000,salida,50
+Quintana,Panam Alfa,24,2025-02-22,472,1000,entrada,150
+Quintana,Caimán,24,2024-08-05,168,750,salida,150
+Nuevo,SuperFaro,26,2026-01-25,285,1500,salida,150
+Hidalgo,SuperFaro,29,2022-09-06,214,500,entrada,100
+Hidalgo,084,25,2025-02-14,231,750,salida,75
+Morelos,Flip,24,2024-01-07,430,750,entrada,75
+Morelos,Vaivén,24,2022-04-06,285,1500,entrada,100
+CDMX,Vital,24,2023-09-03,232,1000,entrada,75
+Michoacan,Vital,27,2025-03-22,283,1500,entrada,100
+CDMX,Ultra,24,2023-09-10,451,1500,entrada,50
+Morelos,Gran Prix,26,2023-01-10,253,750,salida,50
+Morelos,Vaivén,17,2025-03-14,239,1500,salida,50
+Michoacan,Panam Alfa,15,2023-10-08,376,1500,entrada,50
+Puebla,Vital,24,2022-09-24,453,1000,entrada,100
+Quintana,Perestroika,13,2026-05-02,398,750,entrada,100
+Hidalgo,084 Campeón,25,2022-06-09,90,750,salida,100
+Hidalgo,Caimán,26,2024-02-03,3,1500,salida,50
+Hidalgo,Vaivén,23,2021-06-27,102,1500,salida,75
+Chihuahua,Gran Prix,24,2022-05-26,53,1500,salida,150
+Chihuahua,Flip,15,2021-10-16,274,1500,salida,50
+Nuevo,Urbano,22,2024-02-14,33,1500,salida,150
+Nuevo,Urbano,22,2026-01-17,370,500,entrada,100
+Chihuahua,084 Diamante,19,2025-05-27,110,1500,salida,150
+Morelos,Vaivén,24,2024-06-25,61,1000,salida,150
+Morelos,SuperFaro,25,2022-07-20,295,1500,salida,75
+Coahuila,Barracuda,29,2024-01-10,170,1500,entrada,75
+Morelos,Perestroika,19,2024-07-14,282,500,salida,150
+Hidalgo,Gran Prix,19,2026-01-09,47,1500,salida,75
+EdoMex,Flip,24,2021-07-24,88,750,salida,50
+EdoMex,Barracuda,28,2025-01-14,417,500,entrada,75
+Hidalgo,Panam Alfa,27,2024-02-06,274,1000,entrada,150
+Chihuahua,Gran Prix,27,2024-09-16,49,1000,salida,75
+Chihuahua,Flip,25,2022-11-10,192,500,devolución,150
+Nuevo,084,16,2024-02-15,0,1500,salida,150
+Chihuahua,Urbano,28,2021-08-21,101,500,salida,150
+Puebla,Urbano,27,2023-10-02,224,750,entrada,150
+CDMX,Vital,25,2024-02-06,265,1000,entrada,75
+Coahuila,084 Clásico,17,2026-02-26,241,500,devolución,50
+Morelos,Perestroika,15,2026-03-07,228,1000,devolución,50
+Quintana,Perestroika,19,2021-09-05,183,1500,salida,50
+CDMX,Gran Prix,18,2025-09-12,245,1500,salida,75
+Chihuahua,Ultra,26,2021-10-26,121,750,entrada,100
+Morelos,SuperFaro,27,2022-06-20,198,750,entrada,150
+Hidalgo,Barracuda,26,2025-07-27,423,1000,entrada,50
+Coahuila,Caimán,16,2021-11-20,99,1500,salida,75
+CDMX,Ultra,25,2021-12-03,193,750,salida,100
+Chihuahua,084 Clásico,18,2022-07-15,71,750,salida,100
+Michoacan,084 Campeón,26,2022-08-20,214,1500,devolución,150
+Quintana,Urbano,22,2022-03-20,394,1500,entrada,75
+EdoMex,Panam Alfa,23,2025-10-16,109,750,entrada,50
+Quintana,Gran Prix,19,2022-09-25,188,1000,salida,150
+CDMX,RL15,26,2023-05-06,386,500,entrada,75
+CDMX,Flip,21,2022-02-15,15,1000,salida,150
+EdoMex,084 Diamante,22,2024-05-29,458,1000,entrada,75
+Nuevo,Ultra,27,2024-05-19,183,750,salida,75
+Michoacan,Ultra,18,2024-03-21,61,1000,salida,75
+Quintana,084 Diamante,23,2022-01-13,242,1500,salida,50
+Hidalgo,084 Clásico,22,2024-11-08,294,1500,entrada,150
+CDMX,Gran Prix,27,2024-04-07,65,1000,salida,75
+CDMX,084 Clásico,23,2021-12-08,391,1500,entrada,50
+EdoMex,Caimán,15,2025-07-14,438,500,entrada,150
+EdoMex,Ultra,18,2024-10-01,186,1500,salida,75
+Morelos,084 Campeón,17,2025-12-24,398,500,entrada,100
+CDMX,Gran Prix,19,2021-11-15,422,750,entrada,75
+Coahuila,Barracuda,26,2025-10-22,321,500,entrada,100
+Morelos,Ultra,30,2024-11-19,135,1000,salida,100
+Morelos,Urbano,26,2024-09-17,224,750,devolución,100
+Nuevo,Barracuda,19,2022-08-30,491,500,entrada,50
+EdoMex,084 Diamante,23,2026-01-03,189,500,salida,75
+Morelos,RL15,28,2022-02-08,37,1500,salida,150
+Coahuila,084 Clásico,24,2023-02-09,184,1000,salida,150
+EdoMex,Ultra,23,2025-02-27,133,750,salida,50
+Quintana,Panam Alfa,17,2022-09-12,271,1000,salida,100
+CDMX,Urbano,26,2022-04-29,278,1500,salida,50
+Coahuila,084 Campeón,17,2023-07-25,42,1000,salida,150
+Michoacan,Urbano,23,2023-04-12,265,500,salida,150
+Chihuahua,Urbano,16,2023-05-19,282,1000,salida,50
+Chihuahua,Ultra,25,2021-10-28,434,500,entrada,100
+EdoMex,RL15,19,2026-02-01,151,500,entrada,150
+Puebla,Gran Prix,26,2021-07-20,241,1000,entrada,50
+EdoMex,Ultra,22,2021-10-16,69,500,salida,50
+Coahuila,Flip,24,2023-04-06,166,1000,salida,75
+Michoacan,Caimán,27,2025-06-01,265,500,entrada,100
+Quintana,Perestroika,17,2021-09-15,219,500,devolución,50
+Coahuila,084 Diamante,25,2021-09-14,197,1000,entrada,75
+Chihuahua,084 Diamante,30,2023-03-17,320,500,entrada,100
+CDMX,RL15,22,2023-04-29,228,1000,entrada,75
+Coahuila,084 Diamante,25,2022-08-23,39,1500,salida,150
+Chihuahua,084 Campeón,26,2022-07-08,264,500,salida,50
+CDMX,084 Diamante,16,2025-08-08,112,1500,salida,150
+Morelos,Perestroika,25,2024-01-23,288,750,entrada,75
+Morelos,Barracuda,15,2024-02-03,98,500,salida,100
+Coahuila,084,19,2024-08-22,186,1500,entrada,100
+EdoMex,084,24,2024-09-17,160,1000,salida,100
+Coahuila,084 Clásico,17,2021-07-05,138,1500,salida,75
+Nuevo,Vaivén,27,2025-09-07,328,500,entrada,50
+Hidalgo,084 Diamante,26,2023-10-23,239,500,salida,100
+Nuevo,084 Clásico,27,2025-07-13,139,1000,devolución,100
+Michoacan,Vaivén,28,2021-07-18,182,1500,salida,100
+Chihuahua,SuperFaro,18,2024-11-15,170,750,entrada,75
+Puebla,SuperFaro,29,2026-01-09,497,750,entrada,50
+Quintana,084 Clásico,25,2021-12-03,179,1500,entrada,75
+Hidalgo,Panam Alfa,27,2021-09-07,124,500,salida,100
+Chihuahua,Vital,25,2023-01-18,264,500,salida,100
+Coahuila,Gran Prix,27,2021-08-26,194,750,salida,50
+Chihuahua,Vital,17,2023-02-14,143,500,salida,50
+Morelos,Barracuda,20,2023-04-19,244,1000,entrada,75
+Nuevo,084,20,2026-04-20,428,1000,entrada,100
+Nuevo,SuperFaro,25,2025-07-11,68,500,salida,75
+Nuevo,RL15,25,2021-05-28,288,1500,salida,150
+Quintana,Caimán,23,2024-04-25,443,1000,entrada,50
+Morelos,Barracuda,19,2022-01-11,329,1500,entrada,150
+EdoMex,Urbano,19,2026-04-17,206,1500,salida,50
+Quintana,Barracuda,23,2024-06-23,54,1500,salida,100
+Coahuila,Panam Alfa,21,2025-09-04,141,500,devolución,50
+CDMX,Barracuda,18,2022-09-28,247,750,salida,75
+EdoMex,Vital,25,2024-09-21,391,750,entrada,75
+EdoMex,Urbano,27,2023-02-26,255,500,entrada,150
+Morelos,SuperFaro,24,2022-08-22,160,1000,devolución,100
+CDMX,SuperFaro,27,2025-11-27,249,500,salida,50
+Michoacan,084 Clásico,23,2021-05-29,296,500,salida,50
+Coahuila,Vital,25,2023-09-27,232,500,salida,75
+Puebla,RL15,25,2023-08-09,288,500,entrada,75
+Coahuila,Barracuda,24,2026-01-28,306,1000,entrada,100
+Nuevo,084 Clásico,24,2024-07-12,105,1000,salida,150
+Puebla,084,24,2025-09-09,13,1000,salida,150
+Puebla,Ultra,24,2024-08-25,354,1000,entrada,100
+Hidalgo,Ultra,17,2022-09-14,349,750,entrada,100
+EdoMex,RL15,28,2023-01-22,411,1500,entrada,150
+Morelos,Perestroika,26,2023-07-11,375,500,entrada,50
+Puebla,Vaivén,25,2024-03-10,134,1500,entrada,150
+Nuevo,Barracuda,26,2023-01-04,328,1500,entrada,150
+Coahuila,Perestroika,25,2024-02-16,191,750,salida,75
+Puebla,084 Diamante,24,2023-07-24,264,1000,salida,150
+EdoMex,Flip,22,2024-09-07,61,1000,salida,100
+CDMX,Perestroika,27,2022-05-11,233,500,salida,150
+Michoacan,Flip,22,2023-10-09,158,750,salida,50
+Chihuahua,Ultra,22,2025-03-09,200,500,entrada,75
+Coahuila,084 Diamante,26,2021-08-03,200,750,devolución,100
+CDMX,Gran Prix,25,2025-02-18,132,1000,salida,100
+Michoacan,084 Diamante,28,2025-09-12,91,1500,devolución,150
+Michoacan,Panam Alfa,16,2024-10-17,220,1500,salida,100
+EdoMex,Perestroika,26,2023-01-31,138,1000,salida,75
+CDMX,Vaivén,25,2022-12-01,178,750,entrada,50
+Quintana,RL15,19,2022-04-21,249,500,entrada,150
+CDMX,084 Diamante,18,2021-09-12,465,1000,entrada,150
+EdoMex,Perestroika,26,2024-08-22,231,750,salida,100
+Chihuahua,Flip,18,2022-04-02,82,1500,salida,75
+CDMX,Caimán,26,2023-02-04,475,1000,entrada,50
+Michoacan,Ultra,23,2023-01-18,58,1000,salida,100
+Hidalgo,084 Clásico,18,2026-03-12,397,500,entrada,50
+CDMX,RL15,26,2023-11-20,87,1500,salida,150
+Coahuila,Vital,25,2023-03-03,310,750,entrada,50
+Michoacan,084 Diamante,25,2023-12-04,338,1500,entrada,150
+Morelos,084,22,2024-05-31,395,1000,entrada,150
+EdoMex,Ultra,28,2025-04-16,238,750,entrada,75
+EdoMex,084 Clásico,15,2021-10-22,146,500,salida,150
+Nuevo,Ultra,24,2023-04-20,387,1000,entrada,75
+Coahuila,RL15,24,2026-03-02,150,500,salida,50
+Nuevo,Perestroika,26,2023-06-29,453,750,entrada,50
+CDMX,Gran Prix,18,2023-03-10,205,750,entrada,75
+Coahuila,Panam Alfa,26,2025-09-10,186,750,salida,150
+Puebla,084,26,2021-07-19,246,1500,entrada,75
+Quintana,RL15,28,2023-12-25,381,1000,entrada,150
+Morelos,084 Diamante,17,2021-06-13,86,1500,salida,100
+Quintana,Vital,24,2023-03-09,339,750,entrada,150
+Morelos,084 Clásico,17,2022-11-19,252,1500,entrada,50
+CDMX,Panam Alfa,23,2024-03-08,37,1500,salida,100
+CDMX,Ultra,17,2023-02-06,483,750,entrada,150
+Morelos,Perestroika,22,2025-08-05,416,500,entrada,100
+Coahuila,Vital,16,2024-08-25,498,1500,entrada,75
+Hidalgo,Flip,22,2024-02-17,441,1500,entrada,50
+Chihuahua,084 Clásico,20,2025-03-28,182,500,salida,150
+Coahuila,Vaivén,25,2024-09-01,220,1500,entrada,150
+Nuevo,Flip,28,2022-10-01,39,500,salida,75
+Coahuila,084 Clásico,27,2025-07-11,232,1500,salida,100
+Quintana,Panam Alfa,27,2025-06-06,66,1000,salida,75
+Michoacan,SuperFaro,25,2026-02-11,326,1500,entrada,50
+Coahuila,Vaivén,26,2023-10-09,348,1000,entrada,100
+EdoMex,Caimán,23,2023-06-17,266,1500,salida,50
+Hidalgo,084 Campeón,24,2022-01-02,120,750,salida,75
+Chihuahua,Gran Prix,25,2022-04-04,425,750,entrada,150
+CDMX,084,22,2021-05-07,265,1500,salida,100
+CDMX,Vaivén,24,2021-08-11,112,750,entrada,150
+Morelos,084,26,2021-10-08,203,1000,entrada,150
+CDMX,Vital,24,2021-06-10,286,750,salida,150
+Chihuahua,Urbano,24,2023-09-05,449,1500,entrada,100
+EdoMex,Vaivén,24,2021-05-06,391,750,entrada,150
+Quintana,Flip,26,2023-12-05,142,1000,salida,75
+Quintana,Vital,26,2025-02-17,64,750,salida,150
+EdoMex,Panam Alfa,25,2024-08-03,261,1000,salida,50
+Chihuahua,Gran Prix,25,2026-03-06,363,500,entrada,150
+Quintana,084,27,2022-09-13,13,500,salida,100
+Coahuila,Perestroika,20,2022-03-04,301,750,entrada,100
+Coahuila,SuperFaro,24,2021-10-19,165,1000,entrada,100
+Nuevo,Vaivén,17,2024-06-22,68,750,salida,75
+EdoMex,Panam Alfa,20,2023-03-06,278,1000,entrada,50
+EdoMex,Vaivén,26,2022-12-20,396,1500,entrada,100
+Morelos,Flip,22,2024-12-11,440,500,entrada,150
+Hidalgo,Flip,16,2024-07-07,496,500,entrada,75
+Michoacan,Perestroika,16,2021-12-28,2,1000,salida,75
+Nuevo,084 Clásico,24,2023-09-23,156,500,salida,50
+Nuevo,Panam Alfa,18,2024-11-23,1,750,salida,50
+Morelos,Flip,28,2021-07-14,234,1000,entrada,50
+Quintana,Flip,25,2023-11-16,160,500,devolución,150
+Michoacan,Gran Prix,26,2021-08-23,215,500,salida,150
+Morelos,084 Campeón,27,2022-05-14,226,750,salida,75
+Quintana,Gran Prix,20,2023-11-30,256,500,entrada,100
+EdoMex,Ultra,20,2022-07-20,137,750,salida,100
+Morelos,Urbano,24,2023-07-31,79,500,salida,150
+Coahuila,Vaivén,22,2025-03-25,139,750,salida,50
+Chihuahua,SuperFaro,24,2023-02-01,67,750,salida,50
+CDMX,Vital,25,2022-05-15,295,1000,salida,150
+CDMX,Vaivén,16,2021-08-08,51,1000,salida,75
+EdoMex,Vital,22,2025-05-25,359,750,entrada,150
+Michoacan,084 Clásico,15,2022-10-30,206,750,entrada,100
+EdoMex,084 Clásico,30,2021-06-19,150,1500,salida,50
+Morelos,Vital,25,2022-04-21,66,750,devolución,100
+Hidalgo,Urbano,21,2022-01-28,183,750,salida,75
+Puebla,Panam Alfa,25,2023-05-05,310,750,entrada,50
+Quintana,Ultra,26,2025-03-20,291,1000,salida,50
+Michoacan,Perestroika,17,2026-04-11,155,500,salida,150
+Quintana,084 Clásico,25,2026-02-01,51,1500,salida,75
+EdoMex,084 Diamante,26,2023-09-01,409,1000,entrada,100
+EdoMex,Urbano,17,2023-08-23,51,1500,salida,50
+Morelos,084 Clásico,23,2021-07-15,148,1500,salida,50
+EdoMex,Vital,24,2026-02-19,239,1500,entrada,50
+Morelos,SuperFaro,24,2025-06-04,121,500,salida,75
+Morelos,Gran Prix,25,2021-11-18,102,750,entrada,50
+Quintana,Barracuda,14,2022-08-25,270,500,salida,150
+Nuevo,Panam Alfa,26,2023-03-06,218,500,salida,100
+Chihuahua,084 Diamante,20,2021-11-24,100,1500,salida,150
+Michoacan,RL15,24,2024-09-22,231,1000,salida,150
+Chihuahua,Panam Alfa,24,2024-07-21,498,1000,entrada,100
+Michoacan,084,21,2021-08-07,271,1000,entrada,150
+EdoMex,Ultra,28,2021-08-29,151,500,salida,75
+Nuevo,Flip,26,2025-07-29,193,1000,salida,100
+Quintana,Barracuda,24,2025-01-09,29,500,salida,100
+CDMX,Gran Prix,19,2025-04-22,242,1500,devolución,75
+Puebla,Flip,23,2024-11-07,111,1000,salida,75
+Chihuahua,Urbano,23,2022-11-01,97,750,salida,150
+EdoMex,Gran Prix,26,2021-06-16,258,1000,entrada,50
+Morelos,Vital,24,2026-04-02,238,1000,salida,150
+Coahuila,Flip,22,2021-09-20,75,1000,salida,75
+Morelos,Vaivén,26,2021-11-18,215,1500,salida,50
+Michoacan,Urbano,20,2023-09-25,223,1000,salida,100
+Michoacan,084 Campeón,26,2023-09-28,237,1500,entrada,100
+Puebla,Caimán,24,2025-06-03,134,750,salida,50
+Puebla,Flip,22,2023-01-26,77,1000,salida,100
+EdoMex,084 Clásico,18,2023-08-14,153,1000,salida,50
+Hidalgo,Barracuda,16,2021-07-21,141,500,devolución,150
+Coahuila,Gran Prix,23,2023-08-29,259,1500,entrada,100
+Michoacan,Vaivén,14,2022-12-11,498,1500,entrada,150
+Michoacan,Ultra,28,2023-05-05,102,1500,salida,150
+CDMX,Perestroika,23,2025-02-26,118,1500,salida,150
+Quintana,084,22,2021-05-12,0,1500,salida,100
+Quintana,Barracuda,28,2021-09-20,75,500,devolución,150
+Hidalgo,Caimán,18,2026-02-19,116,500,salida,100
+Chihuahua,SuperFaro,25,2025-01-17,464,500,entrada,75
+Coahuila,Flip,26,2026-02-05,400,500,entrada,75
+Michoacan,084 Campeón,26,2025-07-02,399,500,entrada,50
+Nuevo,Vaivén,25,2023-04-25,445,500,entrada,100
+Nuevo,Urbano,22,2021-09-30,223,500,entrada,100
+Nuevo,Barracuda,22,2023-10-13,138,1000,devolución,150
+Morelos,Vital,24,2024-06-10,169,750,entrada,75
+Puebla,Barracuda,24,2022-02-05,424,1500,entrada,100
+Hidalgo,Urbano,17,2024-06-20,103,500,devolución,75
+Morelos,084 Campeón,18,2025-03-23,160,1500,entrada,100
+CDMX,Urbano,24,2025-05-13,297,1000,salida,75
+Nuevo,SuperFaro,24,2025-12-23,160,750,entrada,75
+CDMX,Perestroika,18,2022-09-27,119,500,salida,75
+Coahuila,084 Clásico,26,2024-07-09,372,1500,entrada,50
+Coahuila,Vital,24,2024-07-02,291,500,salida,150
+Chihuahua,084 Clásico,23,2026-01-12,266,500,salida,50
+Puebla,Vital,18,2025-12-11,277,1500,salida,150
+Michoacan,Perestroika,24,2022-08-01,71,1000,salida,75
+Chihuahua,084 Clásico,27,2024-01-27,138,750,salida,100
+Puebla,RL15,16,2024-04-17,94,750,salida,150
+EdoMex,Ultra,15,2024-10-21,80,750,salida,50
+Quintana,084 Clásico,16,2022-10-28,176,1000,salida,100
+CDMX,Urbano,19,2026-04-12,429,1000,entrada,150
+Quintana,Flip,17,2024-10-05,123,750,salida,50
+EdoMex,Vital,17,2024-07-05,246,750,salida,75
+EdoMex,Barracuda,24,2025-04-27,131,500,devolución,75
+Puebla,Vaivén,27,2024-04-19,200,750,salida,100
+CDMX,084 Clásico,26,2023-10-31,93,500,salida,50
+Hidalgo,Barracuda,22,2022-08-07,186,1000,salida,100
+Hidalgo,084 Campeón,27,2025-07-20,328,1000,entrada,50
+Nuevo,084,26,2025-12-16,281,750,salida,75
+Nuevo,Flip,20,2024-10-24,231,500,salida,75
+Quintana,Vital,24,2024-05-29,421,500,entrada,50
+Hidalgo,084 Diamante,23,2025-01-06,103,500,entrada,75
+Chihuahua,084 Campeón,25,2022-01-29,490,750,entrada,150
+Michoacan,Gran Prix,18,2023-07-01,329,500,entrada,75
+Nuevo,Caimán,27,2022-07-07,28,750,salida,75
+Michoacan,084 Diamante,26,2024-03-05,81,1500,salida,150
+Chihuahua,Vaivén,25,2024-05-24,89,1500,salida,100
+EdoMex,Barracuda,25,2025-04-24,206,1000,entrada,100
+Morelos,Gran Prix,25,2025-03-06,188,1500,salida,75
+Michoacan,084 Campeón,17,2025-12-06,203,1000,devolución,100
+EdoMex,Perestroika,19,2022-09-28,286,1500,entrada,75
+Michoacan,Caimán,22,2021-09-16,89,1000,salida,100
+Morelos,Caimán,25,2024-04-07,177,1000,devolución,100
+Michoacan,084 Diamante,27,2025-08-26,2,1500,salida,100
+Quintana,Caimán,23,2022-07-30,337,1000,entrada,100
+CDMX,Flip,21,2024-04-01,428,750,entrada,100
+Coahuila,Caimán,23,2025-12-09,158,1000,salida,150
+CDMX,084 Campeón,24,2022-09-13,182,1000,salida,150
+Morelos,Vital,27,2026-03-23,421,750,entrada,100
+Coahuila,Perestroika,20,2022-07-13,313,1000,entrada,50
+CDMX,Vaivén,26,2023-02-04,83,750,salida,100
+EdoMex,084,18,2024-09-18,497,750,entrada,100
+Nuevo,RL15,21,2022-01-15,68,750,salida,100
+Puebla,Perestroika,23,2024-11-28,250,1000,entrada,150
+Coahuila,Flip,22,2022-04-18,149,1000,entrada,100
+Puebla,Flip,22,2025-08-11,123,750,salida,75
+Quintana,084 Clásico,23,2025-12-21,150,1500,salida,100
+Quintana,Flip,16,2021-09-13,490,750,entrada,75
+Chihuahua,Panam Alfa,26,2025-10-06,164,500,salida,50
+Hidalgo,Perestroika,20,2022-03-24,441,750,entrada,50
+Morelos,Vital,19,2026-03-29,410,750,entrada,150
+CDMX,Flip,27,2021-05-18,49,500,salida,100
+Chihuahua,Perestroika,23,2023-07-06,199,1000,salida,50
+Michoacan,Urbano,18,2026-01-10,251,1000,salida,100
+Chihuahua,084,24,2022-09-30,86,1000,salida,75
+Chihuahua,Vaivén,19,2023-04-10,150,1500,salida,100
+Puebla,Perestroika,18,2024-03-11,338,750,entrada,100
+Chihuahua,Flip,27,2025-07-04,159,500,salida,50
+Nuevo,084,29,2022-05-04,229,1500,salida,150
+Morelos,084 Clásico,25,2024-02-11,449,1500,entrada,100
+Coahuila,Ultra,15,2024-07-09,51,750,salida,150
+Michoacan,Gran Prix,22,2026-01-04,497,750,entrada,150
+Quintana,Panam Alfa,23,2024-09-14,309,750,entrada,150
+Morelos,Ultra,27,2025-10-17,191,500,salida,150
+Nuevo,Caimán,26,2024-09-07,91,500,salida,50
+Chihuahua,Panam Alfa,18,2023-03-17,181,500,salida,100
+Quintana,084 Diamante,26,2026-04-03,196,1000,salida,150
+EdoMex,Gran Prix,19,2024-05-01,233,1500,entrada,75
+Hidalgo,084 Clásico,14,2024-10-24,362,750,entrada,150
+Chihuahua,084 Clásico,27,2022-04-01,1,500,salida,50
+Quintana,Flip,26,2023-04-07,342,750,entrada,75
+Hidalgo,084 Clásico,15,2025-03-15,185,1500,entrada,50
+Coahuila,SuperFaro,26,2022-09-02,50,1500,salida,150
+Quintana,084 Campeón,15,2022-12-12,248,500,salida,75
+CDMX,Panam Alfa,26,2021-05-08,477,750,entrada,50
+Michoacan,084 Diamante,25,2025-08-20,122,1500,salida,50
+Nuevo,084 Diamante,23,2022-04-06,280,500,entrada,100
+Quintana,084,26,2025-07-22,174,500,salida,75
+Chihuahua,SuperFaro,26,2022-07-28,240,500,entrada,50
+Chihuahua,Vital,24,2021-12-16,114,1500,salida,150
+EdoMex,084 Campeón,26,2023-12-14,117,1000,entrada,150
+Chihuahua,SuperFaro,24,2023-05-27,427,750,entrada,75
+EdoMex,Caimán,19,2024-10-19,158,750,entrada,75
+Coahuila,SuperFaro,17,2023-12-03,171,1500,salida,100
+Chihuahua,RL15,27,2023-02-15,41,1500,salida,50
+Puebla,Panam Alfa,23,2025-12-15,22,500,salida,75
+Morelos,Barracuda,16,2022-03-02,193,1000,salida,75
+Chihuahua,Vital,24,2022-12-20,65,1000,salida,50
+Hidalgo,Ultra,25,2021-07-18,222,1500,entrada,100
