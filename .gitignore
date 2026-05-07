@@ -1,0 +1,72 @@
+# ============================================================
+# Data Seekers – Panam NoSQL Project
+# .gitignore
+# ============================================================
+
+# ── Entorno Virtual ──────────────────────────────────────────
+.venv/
+venv/
+env/
+ENV/
+.env/
+
+# ── Variables de Entorno (¡NUNCA subir!) ─────────────────────
+.env
+.env.local
+.env.production
+# Sí subir: .env.example (es la plantilla sin datos reales)
+
+# ── Python Cache ─────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# ── Jupyter ──────────────────────────────────────────────────
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+# Outputs de notebooks (los resultados pesados no van en git)
+# Comenta la siguiente línea si quieres versionar outputs:
+# *.ipynb
+
+# ── Datos (CSVs grandes no van en git) ───────────────────────
+# Comenta las líneas si tus CSVs son pequeños (<10MB) y quieres versionarlos
+data/raw/*.csv
+data/processed/*.csv
+# Excepción: mantener archivos de ejemplo pequeños si existen:
+# !data/raw/ejemplo_pequeño.csv
+
+# ── Logs ─────────────────────────────────────────────────────
+logs/
+*.log
+*.log.*
+
+# ── Distribución Python ──────────────────────────────────────
+dist/
+build/
+*.egg-info/
+*.egg
+
+# ── IDEs y Editores ──────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store           # macOS
+Thumbs.db           # Windows
+desktop.ini         # Windows
+
+# ── Testing ──────────────────────────────────────────────────
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# ── Archivos temporales ──────────────────────────────────────
+*.tmp
+*.bak
+*.orig
