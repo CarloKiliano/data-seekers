@@ -6,7 +6,7 @@
 
 # ── Bases de Datos ──────────────────────────────────────────
 pymongo==4.7.2                  # Driver MongoDB oficial
-cassandra-driver==3.29.1        # Driver Apache Cassandra oficial
+cassandra-driver==3.30.0        # Driver Apache Cassandra oficial
 
 # ── API REST (FastAPI) ──────────────────────────────────────
 fastapi==0.111.0                # Framework web moderno y rápido

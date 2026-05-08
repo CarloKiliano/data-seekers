@@ -10,11 +10,11 @@
 
 Los retailers de calzado enfrentan tres desafíos críticos:
 
-| Desafío | Impacto | Solución Panam |
-|---|---|---|
-| 📉 **Desabastecimiento impredecible** | Pérdida de ventas, frustración de clientes | Predicción inteligente de stockout con 48h de anticipación |
-| 😕 **Reputación desconocida en redes** | Marketing ciego, campañas inefectivas | Análisis de sentimiento en tiempo real: qué dicen de ti en Instagram, TikTok, Twitter |
-| 📊 **Decisiones basadas en intuición** | Margen bajo, estrategia reactiva | Dashboard ejecutivo con 4 KPIs en tiempo real + 5 gráficas accionables |
+| Desafío                                | Impacto                                    | Solución Panam                                                                        |
+| -------------------------------------- | ------------------------------------------ | ------------------------------------------------------------------------------------- |
+| 📉 **Desabastecimiento impredecible**  | Pérdida de ventas, frustración de clientes | Predicción inteligente de stockout con 48h de anticipación                            |
+| 😕 **Reputación desconocida en redes** | Marketing ciego, campañas inefectivas      | Análisis de sentimiento en tiempo real: qué dicen de ti en Instagram, TikTok, Twitter |
+| 📊 **Decisiones basadas en intuición** | Margen bajo, estrategia reactiva           | Dashboard ejecutivo con 4 KPIs en tiempo real + 5 gráficas accionables                |
 
 ---
 
@@ -27,6 +27,7 @@ Los retailers de calzado enfrentan tres desafíos críticos:
 3. **Visualiza lo que importa** — Dashboard que muestra en 4 KPIs ejecutivos todo lo que necesitas saber
 
 **Beneficios medibles:**
+
 - ✅ **+15-20% en conversión** — Evitas pérdidas por falta de stock
 - ✅ **-35% en costos de almacén** — Inventario optimizado sin sobrecarga
 - ✅ **+40% en efectividad de marketing** — Campañas basadas en sentimiento real, no intuición
@@ -120,6 +121,7 @@ El corazón de Panam es un **dashboard inteligente** que consolida:
 **Necesidad:** "¿Qué está pasando con el modelo 084 en la sucursal norte?"
 
 **Con Panam:**
+
 ```
 GET /api/v1/ventas?modelo=084&sucursal=norte
 → Ve ventas, conversión, y qué dicen los clientes del 084 en Twitter
@@ -132,6 +134,7 @@ GET /api/v1/ventas?modelo=084&sucursal=norte
 **Necesidad:** "¿Qué opinan realmente de nuestras líneas?"
 
 **Con Panam:**
+
 ```
 GET /api/v1/resenas/por-modelo
 → Ve sentimiento de cada modelo en tiempo real
@@ -145,6 +148,7 @@ GET /api/v1/resenas/por-modelo
 **Necesidad:** "¿Qué va a faltarme en 48 horas?"
 
 **Con Panam:**
+
 ```
 GET /api/v1/inventario/alertas
 → Ve predicciones de desabastecimiento
@@ -159,13 +163,13 @@ GET /api/v1/inventario/alertas
 
 Panam usa la **mejor stack para datos en tiempo real**:
 
-| Componente | Tecnología | Por qué |
-|---|---|---|
-| **Base de Datos 1** | MongoDB | Reseñas y eventos web (datos flexible, semi-estructurado) |
-| **Base de Datos 2** | Cassandra | Ventas e inventario (serie temporal, horizontal scalable) |
-| **API** | FastAPI | Documentación auto, validación automática, ultra-rápida |
-| **Visualización** | Power BI | Estándar de facto en retail, tablas dinámicas poderosas |
-| **Procesamiento** | Python + Pandas | Análisis complejo, machine learning, transformaciones |
+| Componente          | Tecnología      | Por qué                                                   |
+| ------------------- | --------------- | --------------------------------------------------------- |
+| **Base de Datos 1** | MongoDB         | Reseñas y eventos web (datos flexible, semi-estructurado) |
+| **Base de Datos 2** | Cassandra       | Ventas e inventario (serie temporal, horizontal scalable) |
+| **API**             | FastAPI         | Documentación auto, validación automática, ultra-rápida   |
+| **Visualización**   | Power BI        | Estándar de facto en retail, tablas dinámicas poderosas   |
+| **Procesamiento**   | Python + Pandas | Análisis complejo, machine learning, transformaciones     |
 
 **Ventaja competitiva:** Stack NoSQL escalable — Crece de 10K a 10M registros sin rediseño.
 
@@ -175,13 +179,13 @@ Panam usa la **mejor stack para datos en tiempo real**:
 
 Cuando implementas Panam en tu operación:
 
-| Métrica | Antes | Después | Ahorro |
-|---|---|---|---|
-| **Tasa de conversión** | 10.2% | 12.34% | +2.14% (+21%) |
-| **Stockouts mensuales** | 47 casos | 12 casos | -74% |
-| **Tiempo de decisión** | 3-5 días | 5 minutos | -99.9% |
-| **Costo de almacén** | $12,500/mes | $8,100/mes | -$4,400/mes |
-| **Efectividad marketing** | 22% CTR | 31% CTR | +41% |
+| Métrica                   | Antes       | Después    | Ahorro        |
+| ------------------------- | ----------- | ---------- | ------------- |
+| **Tasa de conversión**    | 10.2%       | 12.34%     | +2.14% (+21%) |
+| **Stockouts mensuales**   | 47 casos    | 12 casos   | -74%          |
+| **Tiempo de decisión**    | 3-5 días    | 5 minutos  | -99.9%        |
+| **Costo de almacén**      | $12,500/mes | $8,100/mes | -$4,400/mes   |
+| **Efectividad marketing** | 22% CTR     | 31% CTR    | +41%          |
 
 **Inversión:** Instalación 1 día | Entrenamiento 2 horas  
 **Retorno:** Se paga en el primer mes con una sola decisión correcta de stock
@@ -194,13 +198,28 @@ Cuando implementas Panam en tu operación:
 
 ```bash
 # Paso 1: Instalación automática (30 segundos)
-./setup.sh
+./setup.sh #Linux/Mac
+Doble clic en setup.bat #Windows
 
-# Paso 2: Cargar datos históricos (5 minutos)
+# Paso 2: Levantar MongoDB y Cassandra (5 minutos)
+docker-compose up -d
+#Verifica estan corriendo
+docker ps
+
+# Paso 3: Ejecutar notebooks
+00_setup_inicial.ipynb          ← Verifica conexiones a BD
+01_generacion_datos.ipynb       ← Genera los 8,800 registros
+02_etl_transformaciones.ipynb   ← ETL + análisis de sentimiento
+
+# Paso 4: Cargar datos históricos
 python carga_datos_mongodb.py
 python carga_datos_cassandra.py
 
-# Paso 3: Encender el dashboard (1 minuto)
+# Paso 5: Ejecutar notebboks en vivo
+03_mongodb_operaciones_en_vivo.ipynb  ← Carga y queries MongoDB
+04_cassandra_consultas.ipynb    ← Carga y queries Cassandra
+
+# Paso 4: Encender el dashboard
 python run_api.py
 # Abre Power BI → Conecta a http://localhost:8000/api/v1/...
 ```
@@ -219,13 +238,13 @@ python run_api.py
 
 Panam procesa tus datos a velocidad production:
 
-| Operación | Tiempo | Volumen |
-|---|---|---|
-| **Carga de 5K ventas** | 2.3 segundos | Batch diario |
-| **Query: Top 10 modelos** | 45ms | En tiempo real |
-| **Predicción de stockout** | 800ms | Para 500+ items |
-| **Análisis de sentimiento** | 1.2s | 1,000 reseñas |
-| **Generación de KPIs** | 340ms | 4 métricas ejecutivas |
+| Operación                   | Tiempo       | Volumen               |
+| --------------------------- | ------------ | --------------------- |
+| **Carga de 5K ventas**      | 2.3 segundos | Batch diario          |
+| **Query: Top 10 modelos**   | 45ms         | En tiempo real        |
+| **Predicción de stockout**  | 800ms        | Para 500+ items       |
+| **Análisis de sentimiento** | 1.2s         | 1,000 reseñas         |
+| **Generación de KPIs**      | 340ms        | 4 métricas ejecutivas |
 
 **Conclusión:** Tu dashboard responde más rápido que tu intuición.
 
@@ -245,10 +264,10 @@ Panam procesa tus datos a velocidad production:
 
 Panam viene con documentación exhaustiva:
 
-| Documento | Para quién | Qué aprenderás |
-|---|---|---|
-| **docs/SETUP_README.md** | DevOps / IT | Instalación, variables de entorno, troubleshooting |
-| **docs/GUIA_FASTAPI.md** | Desarrolladores | Cómo funciona el API, arquitectura, extensión |
+| Documento                | Para quién           | Qué aprenderás                                      |
+| ------------------------ | -------------------- | --------------------------------------------------- |
+| **docs/SETUP_README.md** | DevOps / IT          | Instalación, variables de entorno, troubleshooting  |
+| **docs/GUIA_FASTAPI.md** | Desarrolladores      | Cómo funciona el API, arquitectura, extensión       |
 | **docs/GUIA_POWERBI.md** | Analistas / Gerentes | Crear dashboard, visualizaciones, filtros dinámicos |
 
 ---
@@ -271,18 +290,23 @@ Tu Panam incluye:
 ## 💼 Soluciones por Rol
 
 ### Para el CEO
+
 > "Veo en 30 segundos si mi negocio está creciendo o decayendo. Los 4 KPIs me dicen exactamente dónde invertir."
 
 ### Para el Gerente de Tiendas
+
 > "Sé qué modelos están trending, cuáles están en alerta, y qué dicen mis clientes. Tomo decisiones basadas en datos, no intuición."
 
 ### Para el Analista de Datos
+
 > "API REST limpia, datos frescos cada minuto, documentación automática. Puedo crear reportes en horas, no semanas."
 
 ### Para el Community Manager
+
 > "Veo qué dicen de nosotros en cada red social, cuál es el sentimiento real, y dónde apuntar mis campañas. Marketing science, no marketing art."
 
 ### Para el Dev / DevOps
+
 > "Stack moderno: Python, FastAPI, NoSQL, Docker. Código limpio, testeable, escalable. Production-ready desde día 1."
 
 ---
@@ -291,16 +315,16 @@ Tu Panam incluye:
 
 **¿Por qué Panam vs. soluciones genéricas?**
 
-| Aspecto | Soluciones Genéricas | Panam |
-|---|---|---|
-| **Setup** | 2-4 semanas | 30 segundos |
-| **Costo** | $10K-50K | Open Source + tu tiempo |
-| **Stack** | SQL tradicional | NoSQL escalable |
-| **Sentimiento** | No incluido | Análisis NLP integrado |
-| **Predicción** | Manual o costoso | ML automático |
-| **Dashboard** | Genérico | Diseñado para retail |
-| **API** | Limitada | 11 endpoints especializados |
-| **Documentación** | Escasa | Exhaustiva |
+| Aspecto           | Soluciones Genéricas | Panam                       |
+| ----------------- | -------------------- | --------------------------- |
+| **Setup**         | 2-4 semanas          | 30 segundos                 |
+| **Costo**         | $10K-50K             | Open Source + tu tiempo     |
+| **Stack**         | SQL tradicional      | NoSQL escalable             |
+| **Sentimiento**   | No incluido          | Análisis NLP integrado      |
+| **Predicción**    | Manual o costoso     | ML automático               |
+| **Dashboard**     | Genérico             | Diseñado para retail        |
+| **API**           | Limitada             | 11 endpoints especializados |
+| **Documentación** | Escasa               | Exhaustiva                  |
 
 ---
 
@@ -341,4 +365,4 @@ Tu Panam incluye:
 
 ---
 
-*Última actualización: Mayo 2026 | Versión 1.0.0*
+_Última actualización: Mayo 2026 | Versión 1.0.0_

@@ -8,11 +8,11 @@
 
 Antes de comenzar, asegúrate de tener instalado:
 
-| Herramienta | Versión mínima | Descarga |
-|-------------|---------------|---------|
-| **Python** | 3.10+ | [python.org](https://www.python.org/downloads/) |
-| **Docker Desktop** | 4.0+ | [docker.com](https://www.docker.com/products/docker-desktop/) |
-| **Git** | 2.30+ | [git-scm.com](https://git-scm.com/) |
+| Herramienta        | Versión mínima | Descarga                                                      |
+| ------------------ | -------------- | ------------------------------------------------------------- |
+| **Python**         | 3.10+          | [python.org](https://www.python.org/downloads/)               |
+| **Docker Desktop** | 4.0+           | [docker.com](https://www.docker.com/products/docker-desktop/) |
+| **Git**            | 2.30+          | [git-scm.com](https://git-scm.com/)                           |
 
 > **¿Por qué Docker?** MongoDB y Cassandra se levantan en contenedores para que no necesites instalarlos manualmente. Solo necesitas Docker.
 
@@ -30,17 +30,20 @@ cd panam-nosql
 ### Paso 2 — Ejecutar el script de setup
 
 **macOS / Linux:**
+
 ```bash
 chmod +x setup.sh
 ./setup.sh
 ```
 
 **Windows:**
+
 ```
 Doble clic en setup.bat
 ```
 
 El script hace automáticamente:
+
 - ✅ Verifica que Python 3.10+ esté disponible
 - ✅ Crea el entorno virtual `.venv`
 - ✅ Instala todas las dependencias de `requirements.txt`
@@ -60,6 +63,7 @@ docker ps
 > ⏳ **Cassandra tarda ~30-60 segundos en inicializar.** Espera antes de ejecutar notebooks.
 
 Para confirmar que Cassandra está lista:
+
 ```bash
 docker logs panam_cassandra 2>&1 | tail -5
 # Debe mostrar: "Starting listening for CQL clients"
@@ -115,13 +119,13 @@ cp .env.example .env
 
 El archivo `.env` (creado automáticamente desde `.env.example`) controla la configuración:
 
-| Variable | Default | Descripción |
-|----------|---------|-------------|
-| `MONGO_URI` | `mongodb://admin:password@localhost:27017/` | URI de conexión a MongoDB |
-| `MONGO_DB` | `panam_nosql` | Nombre de la base de datos |
-| `CASSANDRA_HOST` | `localhost` | Host de Cassandra |
-| `CASSANDRA_PORT` | `9042` | Puerto CQL de Cassandra |
-| `CASSANDRA_KEYSPACE` | `panam_nosql` | Keyspace a usar |
+| Variable             | Default                                     | Descripción                |
+| -------------------- | ------------------------------------------- | -------------------------- |
+| `MONGO_URI`          | `mongodb://admin:password@localhost:27017/` | URI de conexión a MongoDB  |
+| `MONGO_DB`           | `panam_nosql`                               | Nombre de la base de datos |
+| `CASSANDRA_HOST`     | `localhost`                                 | Host de Cassandra          |
+| `CASSANDRA_PORT`     | `9042`                                      | Puerto CQL de Cassandra    |
+| `CASSANDRA_KEYSPACE` | `panam_nosql`                               | Keyspace a usar            |
 
 > ⚠️ **NUNCA subas `.env` a git.** Ya está en `.gitignore`. Solo sube `.env.example`.
 
@@ -130,6 +134,7 @@ El archivo `.env` (creado automáticamente desde `.env.example`) controla la con
 ## 🛑 Troubleshooting Común
 
 ### MongoDB no conecta
+
 ```bash
 # Verifica que el contenedor esté corriendo
 docker ps | grep panam_mongodb
@@ -142,6 +147,7 @@ docker-compose restart mongodb
 ```
 
 ### Cassandra se niega conexiones
+
 ```bash
 # Cassandra tarda en iniciar. Verifica el log:
 docker logs panam_cassandra 2>&1 | grep "Starting listening"
@@ -150,6 +156,7 @@ docker logs panam_cassandra 2>&1 | grep "Starting listening"
 ```
 
 ### Error de módulo no encontrado en Jupyter
+
 ```bash
 # Asegúrate de que el kernel de Jupyter use el .venv correcto
 pip install ipykernel
@@ -158,6 +165,7 @@ python -m ipykernel install --user --name=panam-nosql --display-name "Python (pa
 ```
 
 ### Conflicto de versiones de paquetes
+
 ```bash
 # Recrea el entorno desde cero
 deactivate
