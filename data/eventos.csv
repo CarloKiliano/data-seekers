@@ -1,801 +1,801 @@
 usuario_id,evento_tipo,modelo,talla,duracion_sesion,dispositivo,navegador,estado_origen,fecha
-user_1443,agregar_carrito,084 Clásico,25,16.0,mobile,Samsung Internet,Quintana,2021-06-25 16:58:20
-user_5203,click_producto,Ultra,26,13.5,mobile,Edge,Coahuila,2021-08-10 22:18:53
-user_1902,busqueda,Ultra,23,9.5,mobile,Chrome,Nuevo,2023-11-11 06:46:50
-user_6910,click_producto,Ultra,24,28.3,desktop,Firefox,Chihuahua,2022-05-17 11:34:04
-user_5644,click_producto,Barracuda,27,24.1,mobile,Samsung Internet,Chihuahua,2023-02-08 17:04:37
-user_5790,carrito_abandonado,Vaivén,26,21.2,mobile,Samsung Internet,Puebla,2022-12-04 07:22:10
-user_7453,busqueda,Flip,26,26.6,mobile,Chrome,Hidalgo,2021-12-13 22:43:50
-user_4903,wishlist,SuperFaro,25,9.2,mobile,Samsung Internet,Chihuahua,2021-11-30 13:01:57
-user_4666,carrito_abandonado,SuperFaro,26,16.0,mobile,Edge,Nuevo,2023-07-02 16:55:22
-user_8925,compra_completada,Panam Alfa,24,29.9,desktop,Firefox,Hidalgo,2025-03-12 11:46:32
-user_3483,busqueda,084 Diamante,14,9.9,desktop,Chrome,EdoMex,2022-05-10 21:17:41
-user_9635,agregar_carrito,Ultra,27,6.0,mobile,Safari,EdoMex,2024-12-07 03:58:20
-user_8459,compra_completada,084 Campeón,25,27.5,mobile,Firefox,EdoMex,2024-05-21 01:43:08
-user_8823,busqueda,084 Campeón,24,7.5,mobile,Samsung Internet,Puebla,2024-10-09 09:26:23
-user_9020,compra_completada,Urbano,18,11.5,mobile,Chrome,Puebla,2021-06-08 03:33:43
-user_6594,compra_completada,Urbano,24,14.1,mobile,Samsung Internet,Coahuila,2023-11-25 01:12:36
-user_7800,compra_completada,Vaivén,28,16.1,mobile,Firefox,Chihuahua,2024-04-06 12:06:01
-user_1998,agregar_carrito,Gran Prix,26,17.1,desktop,Samsung Internet,Chihuahua,2024-08-23 00:03:24
-user_9646,busqueda,084 Diamante,23,18.2,mobile,Samsung Internet,Chihuahua,2024-07-14 03:16:48
-user_9141,carrito_abandonado,Vital,15,23.5,mobile,Firefox,EdoMex,2023-02-12 22:33:40
-user_4284,agregar_carrito,Flip,25,24.4,mobile,Firefox,Quintana,2023-12-06 03:29:34
-user_8434,carrito_abandonado,Perestroika,18,0.9,mobile,Samsung Internet,EdoMex,2024-12-27 16:34:39
-user_4035,busqueda,Ultra,26,24.9,tablet,Chrome,CDMX,2025-05-31 18:33:18
-user_2327,agregar_carrito,Perestroika,17,11.6,mobile,Firefox,EdoMex,2021-09-13 09:56:19
-user_1062,agregar_carrito,SuperFaro,24,5.5,mobile,Samsung Internet,EdoMex,2025-07-10 19:59:59
-user_1465,compra_completada,084 Diamante,26,3.0,desktop,Firefox,Nuevo,2021-08-12 05:40:35
-user_9842,compra_completada,Caimán,26,29.5,mobile,Firefox,Chihuahua,2025-08-06 17:50:21
-user_9243,carrito_abandonado,Vaivén,27,5.3,mobile,Samsung Internet,Michoacan,2024-01-24 08:59:58
-user_3891,wishlist,Perestroika,26,17.7,desktop,Firefox,Coahuila,2024-05-02 09:02:03
-user_9854,busqueda,084 Clásico,23,17.2,mobile,Samsung Internet,Michoacan,2021-08-10 18:03:19
-user_2748,click_producto,Gran Prix,25,2.2,mobile,Samsung Internet,CDMX,2023-07-10 00:01:21
-user_1862,click_producto,Barracuda,24,22.7,mobile,Edge,CDMX,2025-05-16 17:30:34
-user_2919,agregar_carrito,Panam Alfa,16,12.0,mobile,Edge,Michoacan,2024-08-10 14:23:17
-user_2509,busqueda,084 Campeón,14,11.9,mobile,Samsung Internet,Michoacan,2025-12-05 23:33:52
-user_8724,compra_completada,Vital,29,28.0,mobile,Safari,Puebla,2022-03-06 19:26:21
-user_5425,compra_completada,Perestroika,24,24.6,mobile,Samsung Internet,Hidalgo,2024-12-09 14:26:31
-user_6998,click_producto,RL15,17,1.9,mobile,Safari,Quintana,2026-05-04 10:42:48
-user_2274,click_producto,Urbano,25,29.5,mobile,Safari,Michoacan,2024-05-01 00:04:24
-user_2854,busqueda,084 Campeón,25,6.6,desktop,Chrome,CDMX,2025-07-07 15:34:11
-user_3526,click_producto,Vital,22,11.2,mobile,Edge,Hidalgo,2021-07-30 05:15:15
-user_3857,agregar_carrito,Vaivén,25,5.0,mobile,Firefox,Morelos,2024-07-29 19:56:12
-user_6515,wishlist,Ultra,28,7.1,mobile,Samsung Internet,Chihuahua,2021-09-03 11:04:57
-user_5864,click_producto,084 Campeón,17,10.5,mobile,Firefox,Coahuila,2025-06-28 18:18:30
-user_4342,click_producto,Ultra,28,13.8,mobile,Safari,Coahuila,2022-01-31 01:55:58
-user_7706,compra_completada,SuperFaro,25,15.0,mobile,Samsung Internet,CDMX,2025-05-20 16:31:42
-user_5546,carrito_abandonado,Flip,24,22.8,mobile,Safari,CDMX,2023-06-28 17:39:50
-user_6898,agregar_carrito,Caimán,18,29.6,mobile,Samsung Internet,Nuevo,2025-12-20 15:20:18
-user_9722,busqueda,Ultra,18,3.0,desktop,Edge,CDMX,2022-02-16 07:10:49
-user_4097,busqueda,SuperFaro,25,7.1,mobile,Chrome,Chihuahua,2022-01-19 01:48:59
-user_6701,click_producto,Flip,16,26.6,mobile,Safari,Chihuahua,2023-06-07 17:05:24
-user_2570,carrito_abandonado,Flip,15,5.9,mobile,Firefox,CDMX,2022-02-22 09:05:19
-user_5278,busqueda,Perestroika,26,23.8,desktop,Edge,Puebla,2025-03-18 23:22:54
-user_1438,click_producto,Vital,25,21.7,mobile,Firefox,Puebla,2024-07-29 11:16:24
-user_4676,click_producto,Flip,21,17.1,mobile,Samsung Internet,Nuevo,2024-03-19 12:35:56
-user_8915,busqueda,Gran Prix,25,27.7,mobile,Chrome,Hidalgo,2023-05-26 06:01:01
-user_4489,click_producto,Vaivén,22,10.1,mobile,Samsung Internet,Nuevo,2025-05-03 07:32:14
-user_9650,click_producto,Perestroika,26,19.4,mobile,Edge,Coahuila,2021-08-21 00:15:27
-user_6200,busqueda,084 Diamante,25,0.7,desktop,Edge,Puebla,2024-02-03 10:38:26
-user_5285,click_producto,084 Diamante,24,26.9,desktop,Safari,Hidalgo,2023-12-24 20:53:45
-user_7762,click_producto,Panam Alfa,26,5.5,mobile,Chrome,CDMX,2026-01-17 06:17:05
-user_1138,carrito_abandonado,Gran Prix,26,19.4,mobile,Chrome,Puebla,2025-03-08 03:21:23
-user_8960,click_producto,084 Campeón,23,24.5,mobile,Safari,Morelos,2023-03-10 03:03:31
-user_2250,busqueda,084,17,9.7,mobile,Chrome,Quintana,2024-11-02 00:36:19
-user_8903,busqueda,Barracuda,20,2.2,mobile,Firefox,Puebla,2022-02-25 07:47:14
-user_1232,click_producto,Vital,16,22.0,desktop,Samsung Internet,Quintana,2021-06-07 07:05:37
-user_5360,busqueda,084 Clásico,25,25.1,desktop,Safari,Nuevo,2022-06-09 04:32:16
-user_1458,agregar_carrito,084 Diamante,25,12.7,mobile,Chrome,Puebla,2021-08-02 00:55:51
-user_8622,click_producto,Vital,23,29.1,mobile,Edge,Quintana,2025-08-26 07:34:41
-user_3346,click_producto,Vaivén,25,12.7,mobile,Chrome,CDMX,2025-02-15 02:37:19
-user_7548,agregar_carrito,Perestroika,25,2.0,mobile,Edge,CDMX,2021-12-06 23:57:41
-user_2032,click_producto,Panam Alfa,24,20.4,desktop,Edge,Chihuahua,2025-08-13 04:46:08
-user_9915,busqueda,084 Diamante,14,27.4,desktop,Edge,CDMX,2022-11-20 09:15:13
-user_1106,click_producto,084,17,27.6,desktop,Safari,Chihuahua,2025-04-14 08:43:25
-user_3773,carrito_abandonado,Urbano,24,28.3,mobile,Chrome,CDMX,2023-09-06 21:42:22
-user_2997,compra_completada,084 Clásico,27,26.8,desktop,Edge,Quintana,2026-02-24 20:41:59
-user_4210,carrito_abandonado,084 Diamante,18,11.8,mobile,Samsung Internet,Puebla,2024-08-24 08:10:44
-user_8812,carrito_abandonado,084 Campeón,24,3.7,mobile,Chrome,Chihuahua,2025-11-25 13:26:38
-user_7972,busqueda,Vaivén,24,22.4,mobile,Samsung Internet,Morelos,2021-10-04 15:57:57
-user_5215,carrito_abandonado,Flip,25,11.9,mobile,Safari,Chihuahua,2023-07-01 23:48:10
-user_2030,compra_completada,SuperFaro,17,23.6,desktop,Firefox,Hidalgo,2026-04-29 21:34:31
-user_7397,click_producto,084 Campeón,22,21.3,desktop,Safari,Chihuahua,2022-05-06 21:31:32
-user_9491,agregar_carrito,Panam Alfa,26,25.1,mobile,Samsung Internet,CDMX,2025-09-27 18:10:27
-user_6428,agregar_carrito,Gran Prix,26,29.1,mobile,Safari,Hidalgo,2025-07-10 02:31:02
-user_3320,wishlist,Panam Alfa,26,7.7,mobile,Safari,Chihuahua,2022-10-28 15:50:15
-user_8584,agregar_carrito,Barracuda,27,15.2,mobile,Safari,Coahuila,2025-03-09 18:38:54
-user_1039,busqueda,RL15,16,6.6,desktop,Safari,CDMX,2023-11-03 20:13:33
-user_4851,busqueda,Caimán,26,25.0,desktop,Edge,Hidalgo,2022-09-23 22:45:24
-user_6033,click_producto,Vaivén,15,22.5,mobile,Edge,EdoMex,2021-09-07 00:27:16
-user_2012,busqueda,Barracuda,26,7.3,desktop,Edge,Morelos,2023-10-25 04:51:47
-user_7412,compra_completada,Caimán,16,11.7,mobile,Samsung Internet,Morelos,2024-02-29 23:39:35
-user_6109,carrito_abandonado,084 Clásico,26,19.3,mobile,Edge,Chihuahua,2024-12-22 02:56:09
-user_7799,busqueda,Flip,22,29.6,tablet,Samsung Internet,Hidalgo,2022-04-12 01:26:59
-user_5991,compra_completada,Gran Prix,26,21.7,mobile,Edge,Chihuahua,2022-08-30 05:57:42
-user_6645,busqueda,Vaivén,24,22.5,mobile,Safari,Puebla,2021-12-30 23:41:04
-user_8606,carrito_abandonado,Panam Alfa,26,23.4,desktop,Edge,Morelos,2023-01-14 23:12:51
-user_6249,busqueda,Barracuda,18,25.9,desktop,Firefox,Morelos,2025-06-12 06:56:49
-user_6002,click_producto,Ultra,26,6.1,desktop,Chrome,Coahuila,2025-06-25 00:45:34
-user_2640,carrito_abandonado,Vital,25,10.1,desktop,Samsung Internet,Hidalgo,2023-06-19 01:29:17
-user_6883,compra_completada,Urbano,23,16.8,tablet,Safari,Coahuila,2021-05-23 23:59:06
-user_5076,click_producto,Flip,28,6.9,mobile,Samsung Internet,Coahuila,2024-08-21 14:58:35
-user_3170,carrito_abandonado,Caimán,25,23.2,desktop,Firefox,Quintana,2022-11-06 02:07:41
-user_3437,agregar_carrito,Vital,25,18.6,mobile,Safari,EdoMex,2024-07-19 17:46:17
-user_8646,agregar_carrito,084 Clásico,27,2.8,mobile,Edge,Nuevo,2021-09-19 15:03:16
-user_1131,busqueda,Barracuda,23,3.9,mobile,Samsung Internet,Chihuahua,2023-12-01 10:54:02
-user_7233,carrito_abandonado,Urbano,17,7.7,mobile,Samsung Internet,Chihuahua,2022-11-24 20:57:55
-user_2853,click_producto,Perestroika,25,27.6,mobile,Samsung Internet,Chihuahua,2023-03-31 11:07:17
-user_7166,busqueda,Perestroika,25,11.2,mobile,Edge,Quintana,2024-03-27 21:00:32
-user_3246,busqueda,Gran Prix,18,19.8,mobile,Chrome,CDMX,2026-04-23 09:38:25
-user_1498,agregar_carrito,Ultra,16,0.9,mobile,Edge,EdoMex,2025-07-17 02:26:29
-user_3266,carrito_abandonado,RL15,25,17.2,mobile,Edge,EdoMex,2023-04-16 23:03:16
-user_1139,carrito_abandonado,Vaivén,25,6.3,mobile,Edge,Nuevo,2025-02-15 20:15:07
-user_7835,carrito_abandonado,084 Diamante,20,7.8,desktop,Edge,Michoacan,2022-05-01 23:47:06
-user_4746,compra_completada,SuperFaro,28,8.7,mobile,Safari,Morelos,2022-03-17 18:43:22
-user_5781,busqueda,Vital,18,11.6,tablet,Firefox,Morelos,2022-09-29 04:33:20
-user_2835,busqueda,Urbano,27,6.5,desktop,Samsung Internet,Chihuahua,2022-07-12 19:25:18
-user_7767,click_producto,Panam Alfa,24,21.9,desktop,Firefox,CDMX,2022-06-20 10:04:49
-user_6828,click_producto,SuperFaro,21,17.0,mobile,Edge,Michoacan,2026-02-17 18:45:02
-user_3188,carrito_abandonado,SuperFaro,25,5.3,mobile,Samsung Internet,Nuevo,2021-07-18 21:05:46
-user_9899,busqueda,Barracuda,25,20.9,mobile,Firefox,Coahuila,2025-01-26 10:25:23
-user_3000,busqueda,084 Diamante,26,18.0,mobile,Chrome,Nuevo,2025-07-25 18:49:23
-user_8299,click_producto,Ultra,27,17.2,desktop,Chrome,Michoacan,2024-06-18 12:50:19
-user_8211,carrito_abandonado,RL15,25,4.3,desktop,Samsung Internet,Coahuila,2025-01-01 04:39:59
-user_4521,busqueda,Flip,22,27.8,desktop,Chrome,CDMX,2021-07-09 02:54:57
-user_3094,agregar_carrito,Gran Prix,26,18.0,desktop,Safari,Michoacan,2025-10-23 23:25:26
-user_7558,agregar_carrito,Perestroika,23,14.9,desktop,Chrome,Coahuila,2024-06-23 13:05:14
-user_6878,busqueda,Gran Prix,26,25.3,desktop,Chrome,EdoMex,2025-12-19 20:40:22
-user_2556,carrito_abandonado,084 Diamante,19,10.9,mobile,Safari,Michoacan,2022-04-01 15:55:11
-user_4213,click_producto,Barracuda,25,19.1,mobile,Chrome,Michoacan,2024-11-26 22:26:00
-user_8024,agregar_carrito,Barracuda,19,15.1,mobile,Chrome,Nuevo,2025-05-16 22:01:19
-user_2121,busqueda,Urbano,24,21.0,mobile,Samsung Internet,Chihuahua,2021-08-18 12:12:40
-user_1924,compra_completada,Ultra,27,23.3,tablet,Firefox,Morelos,2023-09-19 19:58:38
-user_3605,carrito_abandonado,SuperFaro,18,13.0,mobile,Safari,Chihuahua,2025-01-20 19:44:43
-user_8052,busqueda,Panam Alfa,17,18.2,mobile,Samsung Internet,Morelos,2026-01-31 17:26:46
-user_9741,agregar_carrito,SuperFaro,27,5.0,desktop,Edge,Michoacan,2024-12-08 05:09:14
-user_2685,click_producto,RL15,24,23.8,mobile,Samsung Internet,Nuevo,2021-11-30 06:49:17
-user_6795,busqueda,RL15,22,18.0,desktop,Safari,Puebla,2021-11-24 19:20:49
-user_6140,wishlist,RL15,23,17.2,mobile,Chrome,Morelos,2022-02-01 08:49:40
-user_5679,carrito_abandonado,Vital,20,23.1,mobile,Firefox,Morelos,2023-07-31 17:29:18
-user_9878,click_producto,084,18,22.6,mobile,Samsung Internet,CDMX,2024-05-21 11:17:08
-user_7441,carrito_abandonado,084,25,22.6,mobile,Safari,EdoMex,2025-05-19 22:09:54
-user_7051,carrito_abandonado,Flip,27,4.8,desktop,Edge,Michoacan,2024-10-04 04:37:45
-user_7536,busqueda,084 Campeón,26,22.2,mobile,Samsung Internet,Puebla,2025-08-28 20:38:57
-user_8172,busqueda,Barracuda,25,20.6,tablet,Firefox,EdoMex,2023-06-01 00:12:37
-user_1485,busqueda,Barracuda,24,24.5,desktop,Edge,Nuevo,2022-07-07 14:17:53
-user_8682,compra_completada,084 Diamante,23,9.2,mobile,Firefox,Chihuahua,2022-05-17 06:44:47
-user_9215,busqueda,RL15,15,22.9,desktop,Safari,EdoMex,2021-07-20 05:14:22
-user_8103,busqueda,Flip,25,10.9,desktop,Edge,Morelos,2022-09-21 14:46:05
-user_1913,click_producto,084 Campeón,17,27.2,mobile,Edge,Morelos,2022-01-29 16:17:48
-user_8007,click_producto,RL15,26,20.4,mobile,Firefox,Coahuila,2026-03-13 13:09:57
-user_7988,busqueda,084 Campeón,25,18.7,mobile,Safari,Coahuila,2022-12-07 15:38:48
-user_7315,carrito_abandonado,Ultra,23,26.0,mobile,Firefox,Chihuahua,2023-01-06 20:53:40
-user_3959,agregar_carrito,084,25,25.2,mobile,Edge,Puebla,2025-02-20 07:18:21
-user_5645,click_producto,Urbano,25,23.7,mobile,Chrome,CDMX,2025-12-27 10:11:04
-user_2101,agregar_carrito,Panam Alfa,18,15.7,mobile,Safari,Puebla,2024-07-09 04:02:39
-user_2994,agregar_carrito,Panam Alfa,25,17.2,mobile,Samsung Internet,EdoMex,2026-01-31 23:55:38
-user_2733,wishlist,SuperFaro,29,4.3,mobile,Chrome,Chihuahua,2023-08-01 10:43:15
-user_9597,wishlist,Perestroika,23,14.0,desktop,Chrome,Puebla,2025-05-30 00:49:04
-user_1524,wishlist,Caimán,23,20.7,mobile,Safari,Coahuila,2021-11-29 21:53:53
-user_7741,busqueda,084 Clásico,22,20.7,mobile,Safari,Puebla,2022-12-03 16:09:48
-user_2758,compra_completada,RL15,25,10.4,desktop,Edge,Nuevo,2026-04-18 21:34:22
-user_4291,busqueda,084 Clásico,22,23.1,mobile,Firefox,Quintana,2024-11-10 06:06:17
-user_5030,busqueda,Flip,18,29.2,desktop,Edge,Coahuila,2022-05-01 05:54:37
-user_6646,click_producto,Vital,25,13.0,mobile,Chrome,Puebla,2026-02-08 03:17:12
-user_3089,click_producto,Caimán,24,10.5,mobile,Samsung Internet,Chihuahua,2021-09-06 19:55:33
-user_8467,busqueda,084 Diamante,26,7.9,desktop,Edge,Coahuila,2023-04-27 21:12:34
-user_9765,busqueda,Urbano,18,7.4,mobile,Safari,EdoMex,2023-01-25 07:05:01
-user_5640,click_producto,SuperFaro,28,18.0,desktop,Samsung Internet,Nuevo,2022-08-07 05:30:36
-user_6337,click_producto,Barracuda,26,9.8,desktop,Samsung Internet,Coahuila,2023-11-25 10:43:35
-user_2882,click_producto,SuperFaro,17,29.4,desktop,Chrome,Coahuila,2022-06-24 04:44:18
-user_6405,compra_completada,SuperFaro,22,8.7,mobile,Firefox,CDMX,2024-09-01 04:57:09
-user_4570,carrito_abandonado,Flip,19,9.7,desktop,Firefox,CDMX,2021-06-10 02:10:41
-user_9936,carrito_abandonado,Caimán,27,12.8,mobile,Edge,EdoMex,2024-07-04 15:18:19
-user_9937,click_producto,Ultra,20,26.6,mobile,Firefox,Chihuahua,2021-11-08 16:59:49
-user_3708,click_producto,Vital,22,15.8,desktop,Safari,Hidalgo,2025-09-07 10:29:40
-user_2429,busqueda,Gran Prix,25,24.9,mobile,Samsung Internet,Nuevo,2021-06-13 02:38:28
-user_7907,carrito_abandonado,Gran Prix,26,5.1,desktop,Chrome,Morelos,2022-04-21 14:57:47
-user_9172,agregar_carrito,Vital,27,7.4,tablet,Edge,Nuevo,2025-10-22 01:46:57
-user_8440,busqueda,084 Diamante,19,22.2,tablet,Samsung Internet,Hidalgo,2023-08-10 09:31:54
-user_4325,agregar_carrito,084 Diamante,25,23.0,mobile,Chrome,CDMX,2026-04-29 14:59:52
-user_4569,agregar_carrito,Ultra,15,22.2,mobile,Samsung Internet,Coahuila,2025-11-09 13:54:28
-user_8820,carrito_abandonado,084 Diamante,25,14.8,desktop,Safari,CDMX,2021-06-02 19:59:02
-user_4459,busqueda,084,26,12.1,desktop,Firefox,Chihuahua,2023-12-04 18:30:00
-user_9217,compra_completada,SuperFaro,26,15.5,desktop,Samsung Internet,Nuevo,2022-07-06 03:35:22
-user_9617,click_producto,Barracuda,22,15.3,desktop,Edge,Quintana,2024-01-24 01:20:41
-user_6824,click_producto,SuperFaro,18,9.1,mobile,Edge,Quintana,2023-06-02 09:19:53
-user_5812,click_producto,084 Campeón,22,17.9,desktop,Safari,EdoMex,2025-06-06 19:56:01
-user_6805,busqueda,Urbano,25,23.0,desktop,Edge,Morelos,2023-02-28 19:47:16
-user_9523,compra_completada,Barracuda,15,1.1,mobile,Edge,Michoacan,2022-12-13 11:33:12
-user_1990,agregar_carrito,084 Campeón,22,27.5,mobile,Chrome,Hidalgo,2025-05-20 08:09:33
-user_3759,busqueda,Perestroika,28,11.5,mobile,Safari,EdoMex,2025-05-31 06:19:22
-user_6526,busqueda,Barracuda,23,14.6,mobile,Samsung Internet,Morelos,2025-06-01 16:32:31
-user_2157,wishlist,Ultra,24,28.3,desktop,Safari,Quintana,2023-03-02 13:39:05
-user_8829,busqueda,Flip,17,28.7,mobile,Edge,Chihuahua,2022-03-10 01:00:07
-user_3350,agregar_carrito,Perestroika,22,11.6,mobile,Safari,Michoacan,2022-10-23 23:56:13
-user_5915,agregar_carrito,RL15,26,29.8,desktop,Chrome,Michoacan,2024-08-23 08:16:31
-user_4233,compra_completada,Urbano,24,9.5,desktop,Samsung Internet,Quintana,2026-01-18 12:37:00
-user_6942,busqueda,084 Clásico,15,29.6,mobile,Samsung Internet,Michoacan,2025-12-13 09:26:31
-user_1697,click_producto,084,27,8.8,tablet,Edge,CDMX,2021-12-12 15:35:27
-user_4521,click_producto,Ultra,15,7.7,mobile,Safari,EdoMex,2022-08-03 06:27:03
-user_2271,busqueda,Panam Alfa,26,9.1,mobile,Chrome,Puebla,2022-06-04 18:00:56
-user_8902,compra_completada,RL15,18,2.7,mobile,Edge,Quintana,2025-09-06 10:01:37
-user_5822,carrito_abandonado,Vaivén,18,24.6,mobile,Edge,Hidalgo,2022-08-01 01:31:33
-user_9879,carrito_abandonado,084 Clásico,25,26.9,desktop,Firefox,CDMX,2021-12-03 13:31:22
-user_9033,agregar_carrito,Caimán,18,7.1,mobile,Chrome,Hidalgo,2025-05-29 10:32:59
-user_7381,carrito_abandonado,Caimán,22,29.2,mobile,Samsung Internet,Morelos,2025-09-17 08:15:02
-user_7425,busqueda,084 Clásico,16,14.8,tablet,Firefox,Puebla,2021-12-17 20:13:51
-user_8102,carrito_abandonado,Caimán,16,23.2,desktop,Edge,Puebla,2026-02-28 07:16:39
-user_7095,agregar_carrito,Perestroika,27,20.4,tablet,Chrome,Coahuila,2022-09-30 02:52:59
-user_2078,agregar_carrito,Urbano,25,19.8,mobile,Chrome,Nuevo,2023-06-12 22:13:59
-user_7220,carrito_abandonado,SuperFaro,18,25.9,tablet,Chrome,CDMX,2024-11-11 00:57:31
-user_3080,busqueda,Perestroika,28,13.0,mobile,Firefox,Hidalgo,2024-06-03 03:30:23
-user_6518,busqueda,Barracuda,22,0.5,tablet,Safari,Quintana,2023-04-06 10:14:31
-user_9930,click_producto,084 Campeón,28,23.6,mobile,Firefox,Quintana,2023-07-30 18:35:16
-user_6038,carrito_abandonado,084 Clásico,25,25.7,mobile,Firefox,Quintana,2024-10-19 22:15:55
-user_9375,click_producto,Ultra,24,6.2,mobile,Safari,Quintana,2021-11-07 17:03:50
-user_3313,busqueda,RL15,24,1.3,desktop,Edge,Michoacan,2025-01-07 02:09:36
-user_7097,wishlist,SuperFaro,24,23.7,mobile,Edge,Morelos,2021-09-16 15:02:28
-user_6313,busqueda,Panam Alfa,21,28.6,mobile,Chrome,Puebla,2024-01-27 00:48:26
-user_2828,busqueda,Panam Alfa,18,29.4,mobile,Firefox,Chihuahua,2024-09-13 09:10:49
-user_3263,busqueda,RL15,26,7.5,desktop,Chrome,Quintana,2021-07-31 06:23:28
-user_5607,carrito_abandonado,Flip,24,22.3,mobile,Safari,Chihuahua,2022-12-25 17:14:33
-user_5693,carrito_abandonado,Panam Alfa,25,13.0,mobile,Firefox,Nuevo,2024-07-10 07:17:18
-user_8182,click_producto,Urbano,27,5.0,desktop,Samsung Internet,CDMX,2024-09-01 09:54:32
-user_8885,wishlist,084 Campeón,20,8.0,mobile,Samsung Internet,Morelos,2025-03-03 21:09:12
-user_5470,busqueda,Perestroika,23,7.6,mobile,Edge,Quintana,2023-04-04 11:56:15
-user_8837,agregar_carrito,Vital,26,18.6,mobile,Samsung Internet,EdoMex,2022-06-05 21:39:44
-user_4209,click_producto,Caimán,25,6.7,desktop,Edge,Puebla,2025-06-03 15:37:33
-user_9672,busqueda,084 Diamante,26,6.7,desktop,Edge,Puebla,2025-09-05 10:07:14
-user_2679,compra_completada,RL15,24,22.4,mobile,Chrome,Nuevo,2024-10-20 08:43:54
-user_4860,click_producto,SuperFaro,21,19.1,mobile,Samsung Internet,Quintana,2022-09-06 23:33:02
-user_9565,busqueda,Ultra,25,18.1,mobile,Safari,EdoMex,2023-05-26 03:10:52
-user_5740,busqueda,Gran Prix,16,12.1,mobile,Safari,Morelos,2025-10-11 19:22:18
-user_8109,busqueda,084 Clásico,24,13.8,mobile,Edge,Puebla,2023-10-16 22:35:43
-user_7771,wishlist,Vital,27,14.7,mobile,Chrome,Quintana,2025-07-28 20:28:50
-user_1743,click_producto,Perestroika,19,13.2,desktop,Samsung Internet,Quintana,2021-12-25 12:03:30
-user_4730,busqueda,Gran Prix,18,14.8,mobile,Edge,Coahuila,2025-01-09 19:04:06
-user_5199,busqueda,084 Diamante,17,7.4,mobile,Samsung Internet,Nuevo,2021-08-10 08:38:13
-user_9160,busqueda,Gran Prix,19,16.3,desktop,Chrome,Quintana,2024-11-22 20:53:26
-user_9790,carrito_abandonado,RL15,16,4.7,mobile,Edge,EdoMex,2021-11-28 09:44:27
-user_6969,wishlist,Vaivén,16,12.4,mobile,Samsung Internet,Michoacan,2026-02-14 09:54:55
-user_8795,carrito_abandonado,RL15,30,15.9,mobile,Edge,Coahuila,2022-01-24 21:50:55
-user_5899,carrito_abandonado,Gran Prix,26,26.3,mobile,Samsung Internet,Quintana,2022-08-01 13:32:38
-user_9371,click_producto,Vaivén,25,29.3,mobile,Firefox,CDMX,2021-09-07 10:18:04
-user_6353,busqueda,Ultra,24,9.7,desktop,Safari,Michoacan,2024-06-27 09:00:50
-user_8991,click_producto,Vital,25,28.6,mobile,Edge,Hidalgo,2023-09-15 03:10:36
-user_7418,busqueda,084 Campeón,27,21.8,mobile,Edge,Nuevo,2024-09-09 03:39:36
-user_3333,busqueda,Panam Alfa,26,9.6,desktop,Chrome,Michoacan,2023-09-25 19:59:00
-user_4964,busqueda,084 Campeón,16,15.2,mobile,Firefox,CDMX,2025-04-18 11:40:50
-user_8802,carrito_abandonado,SuperFaro,24,20.9,desktop,Safari,Puebla,2024-04-01 06:18:43
-user_1634,compra_completada,084 Diamante,15,7.6,mobile,Samsung Internet,CDMX,2023-12-05 05:53:21
-user_2917,compra_completada,084 Clásico,18,28.7,mobile,Firefox,CDMX,2025-11-24 09:42:28
-user_1895,busqueda,084 Clásico,22,11.3,desktop,Firefox,Quintana,2024-02-16 12:57:10
-user_4588,compra_completada,Vaivén,22,26.1,mobile,Firefox,Morelos,2023-12-19 16:14:38
-user_6549,busqueda,Vaivén,18,9.5,tablet,Samsung Internet,Hidalgo,2025-05-05 06:41:28
-user_5581,carrito_abandonado,Urbano,22,23.3,mobile,Chrome,Nuevo,2025-09-11 07:14:55
-user_7586,agregar_carrito,Urbano,21,2.0,mobile,Firefox,Morelos,2025-06-29 19:35:39
-user_6359,agregar_carrito,084 Campeón,23,10.8,desktop,Edge,Quintana,2024-08-17 20:45:55
-user_7051,carrito_abandonado,084,26,24.8,mobile,Chrome,Chihuahua,2026-02-09 18:08:31
-user_3296,click_producto,SuperFaro,20,21.3,mobile,Chrome,Chihuahua,2026-03-24 15:10:37
-user_8428,carrito_abandonado,084,25,17.5,mobile,Samsung Internet,Coahuila,2022-07-06 18:54:58
-user_2134,busqueda,Panam Alfa,25,26.7,desktop,Samsung Internet,Quintana,2025-05-03 11:09:40
-user_7496,busqueda,Vital,16,19.4,mobile,Chrome,Michoacan,2024-03-18 13:40:27
-user_3367,busqueda,Gran Prix,15,11.8,mobile,Safari,Chihuahua,2022-02-13 00:03:19
-user_2572,busqueda,Caimán,17,21.2,mobile,Samsung Internet,Quintana,2025-07-05 16:22:32
-user_7898,click_producto,084 Clásico,25,8.5,tablet,Samsung Internet,EdoMex,2024-04-04 03:27:47
-user_9906,compra_completada,Caimán,25,9.6,mobile,Safari,Nuevo,2025-11-16 11:25:43
-user_1842,agregar_carrito,Gran Prix,16,14.0,mobile,Chrome,Michoacan,2025-09-28 13:39:18
-user_7539,click_producto,Vital,20,23.7,desktop,Firefox,Morelos,2021-11-17 20:14:53
-user_1111,agregar_carrito,Barracuda,15,12.0,mobile,Chrome,Chihuahua,2023-06-26 23:39:02
-user_3269,carrito_abandonado,Vital,26,2.1,mobile,Firefox,Morelos,2023-08-17 14:49:45
-user_8090,carrito_abandonado,Gran Prix,19,10.8,mobile,Samsung Internet,Michoacan,2023-08-27 01:28:36
-user_7104,agregar_carrito,Caimán,25,16.4,mobile,Edge,Quintana,2023-10-21 00:58:06
-user_5073,agregar_carrito,Barracuda,28,7.2,mobile,Samsung Internet,Quintana,2025-09-17 18:11:32
-user_1682,carrito_abandonado,Flip,26,2.9,desktop,Samsung Internet,Morelos,2023-04-14 04:40:10
-user_1299,agregar_carrito,084,20,13.0,desktop,Edge,Chihuahua,2024-01-03 22:20:33
-user_6054,busqueda,Vital,12,3.5,desktop,Samsung Internet,CDMX,2024-02-07 10:58:01
-user_3142,click_producto,Caimán,27,4.4,mobile,Safari,Puebla,2023-05-20 03:34:55
-user_2786,carrito_abandonado,Vital,19,27.2,mobile,Chrome,Hidalgo,2026-02-27 20:39:11
-user_7061,wishlist,Vital,26,27.7,desktop,Safari,Hidalgo,2022-12-21 13:23:28
-user_7322,busqueda,Urbano,26,5.8,mobile,Safari,Michoacan,2024-04-23 02:33:00
-user_7829,click_producto,RL15,24,16.2,desktop,Firefox,Puebla,2023-12-14 02:27:24
-user_1667,busqueda,Gran Prix,26,17.5,mobile,Safari,Puebla,2022-12-23 08:38:10
-user_2897,click_producto,Gran Prix,28,2.1,mobile,Firefox,Hidalgo,2024-03-12 02:49:07
-user_4618,agregar_carrito,Flip,22,3.6,mobile,Edge,Nuevo,2025-09-30 15:55:31
-user_5484,agregar_carrito,084 Diamante,27,26.5,tablet,Chrome,Michoacan,2024-11-04 22:06:42
-user_2870,wishlist,Ultra,25,3.2,mobile,Samsung Internet,Michoacan,2023-09-18 15:38:14
-user_5137,busqueda,084 Clásico,16,26.1,mobile,Firefox,Morelos,2023-08-04 06:05:17
-user_3318,compra_completada,RL15,23,16.8,mobile,Firefox,Michoacan,2024-12-13 03:55:38
-user_4849,carrito_abandonado,RL15,18,28.0,mobile,Edge,Michoacan,2022-12-12 12:07:21
-user_6770,agregar_carrito,084 Campeón,21,7.2,mobile,Safari,EdoMex,2022-07-13 00:49:02
-user_2675,carrito_abandonado,Vaivén,17,13.2,mobile,Firefox,Quintana,2023-11-08 21:27:23
-user_2764,click_producto,RL15,19,11.9,mobile,Samsung Internet,EdoMex,2022-12-17 12:25:00
-user_7617,busqueda,Flip,25,2.3,mobile,Safari,EdoMex,2024-06-02 09:56:27
-user_2420,agregar_carrito,084 Clásico,22,2.8,tablet,Firefox,Morelos,2025-12-17 15:49:38
-user_2862,carrito_abandonado,Perestroika,25,5.3,mobile,Edge,EdoMex,2026-01-18 02:58:18
-user_5867,click_producto,Urbano,24,22.6,mobile,Samsung Internet,Chihuahua,2024-01-29 01:38:27
-user_8906,carrito_abandonado,084 Clásico,23,29.2,mobile,Safari,Coahuila,2023-01-31 13:29:54
-user_6672,click_producto,Flip,24,15.9,desktop,Firefox,EdoMex,2025-04-12 20:13:13
-user_2968,busqueda,Flip,24,20.6,mobile,Samsung Internet,Nuevo,2026-04-17 17:52:22
-user_6037,click_producto,084,27,6.3,mobile,Samsung Internet,Morelos,2025-10-08 05:56:02
-user_2709,carrito_abandonado,Gran Prix,25,13.5,mobile,Chrome,Morelos,2022-10-27 02:19:36
-user_3043,click_producto,Vital,22,8.2,mobile,Chrome,Puebla,2022-05-05 11:23:21
-user_1615,agregar_carrito,Ultra,27,2.8,desktop,Safari,Hidalgo,2023-10-28 20:26:14
-user_2711,click_producto,Panam Alfa,26,13.2,mobile,Firefox,CDMX,2023-06-12 19:11:57
-user_2092,wishlist,084 Clásico,26,1.9,desktop,Edge,Hidalgo,2023-02-04 12:08:50
-user_2921,click_producto,Flip,19,7.7,desktop,Firefox,Coahuila,2024-03-19 11:48:21
-user_1328,busqueda,Gran Prix,25,3.3,mobile,Chrome,Morelos,2022-11-26 02:47:38
-user_5895,wishlist,Gran Prix,24,7.2,mobile,Samsung Internet,Hidalgo,2025-07-28 07:13:23
-user_1118,carrito_abandonado,084 Clásico,18,2.6,mobile,Chrome,CDMX,2024-07-14 09:26:43
-user_1094,click_producto,Gran Prix,26,3.5,tablet,Firefox,Chihuahua,2023-06-08 11:18:21
-user_6105,agregar_carrito,084 Diamante,18,25.8,desktop,Firefox,Puebla,2024-09-04 01:35:18
-user_4103,click_producto,Urbano,26,1.6,desktop,Safari,Quintana,2025-06-19 02:46:36
-user_7456,click_producto,084 Clásico,25,15.8,mobile,Safari,Puebla,2023-08-25 11:23:44
-user_9496,compra_completada,RL15,23,9.7,mobile,Edge,Coahuila,2026-03-06 14:47:33
-user_4201,agregar_carrito,084,24,18.3,mobile,Chrome,Hidalgo,2025-04-01 14:56:57
-user_7310,busqueda,Flip,20,1.1,mobile,Chrome,Hidalgo,2025-11-30 23:36:43
-user_6859,carrito_abandonado,084 Diamante,25,18.6,mobile,Samsung Internet,Nuevo,2024-04-01 00:06:30
-user_4780,busqueda,084,15,19.3,mobile,Safari,Nuevo,2022-08-03 23:24:59
-user_4003,busqueda,SuperFaro,15,13.1,desktop,Chrome,Hidalgo,2023-07-06 17:14:49
-user_4400,busqueda,RL15,23,10.3,mobile,Edge,EdoMex,2021-12-16 03:58:38
-user_6843,busqueda,Panam Alfa,19,22.8,desktop,Firefox,Hidalgo,2023-06-29 21:56:51
-user_4375,busqueda,Gran Prix,26,28.9,mobile,Safari,Hidalgo,2022-05-27 21:38:25
-user_7048,busqueda,Gran Prix,28,17.8,mobile,Edge,CDMX,2024-07-19 06:01:14
-user_7223,carrito_abandonado,084,26,18.9,mobile,Edge,Hidalgo,2026-01-11 05:27:11
-user_1181,carrito_abandonado,084 Clásico,19,21.1,mobile,Edge,Hidalgo,2024-09-08 13:45:45
-user_2493,carrito_abandonado,084 Clásico,29,13.3,mobile,Chrome,Coahuila,2021-05-16 11:07:55
-user_6909,compra_completada,Vaivén,23,1.7,mobile,Samsung Internet,Coahuila,2021-11-29 01:34:52
-user_3740,busqueda,Ultra,14,25.6,mobile,Samsung Internet,EdoMex,2022-12-14 07:01:13
-user_9810,agregar_carrito,Flip,26,9.4,desktop,Samsung Internet,Quintana,2023-07-06 23:35:45
-user_3739,busqueda,084 Clásico,25,8.7,mobile,Safari,Quintana,2025-07-22 09:32:34
-user_5436,agregar_carrito,Perestroika,26,11.3,mobile,Samsung Internet,Puebla,2025-03-19 04:55:35
-user_6457,wishlist,Urbano,27,13.1,mobile,Firefox,Nuevo,2026-01-11 02:31:40
-user_1954,busqueda,084,19,4.3,mobile,Safari,Puebla,2026-04-23 10:40:07
-user_9077,click_producto,Urbano,28,20.6,mobile,Chrome,Hidalgo,2023-09-14 04:58:23
-user_5706,carrito_abandonado,Urbano,23,10.4,desktop,Firefox,Nuevo,2025-09-10 07:16:20
-user_5727,agregar_carrito,Vital,27,26.6,tablet,Samsung Internet,Coahuila,2026-03-04 07:55:53
-user_6931,busqueda,Barracuda,16,18.9,mobile,Firefox,EdoMex,2024-12-02 17:46:00
-user_6564,busqueda,084 Clásico,28,15.0,desktop,Firefox,Morelos,2023-01-15 04:12:19
-user_7880,compra_completada,084,26,13.3,mobile,Samsung Internet,Quintana,2023-08-09 19:38:22
-user_3484,wishlist,Ultra,26,28.9,mobile,Firefox,Morelos,2021-10-11 17:50:16
-user_2726,busqueda,084 Campeón,24,2.8,desktop,Chrome,Coahuila,2024-12-25 03:41:20
-user_3941,compra_completada,Panam Alfa,16,10.5,mobile,Safari,Chihuahua,2025-07-05 07:43:49
-user_7840,agregar_carrito,Vital,18,5.0,mobile,Firefox,Chihuahua,2022-04-07 02:29:19
-user_5288,wishlist,Vaivén,28,7.3,mobile,Safari,Chihuahua,2025-05-25 08:06:20
-user_5832,busqueda,Urbano,28,3.6,mobile,Firefox,Michoacan,2025-01-23 13:26:44
-user_3042,carrito_abandonado,RL15,26,25.9,mobile,Samsung Internet,CDMX,2024-08-20 07:44:06
-user_2285,agregar_carrito,Gran Prix,24,3.5,mobile,Samsung Internet,Hidalgo,2024-01-04 05:04:47
-user_4050,busqueda,Vaivén,26,12.1,mobile,Firefox,Morelos,2022-05-12 09:58:10
-user_1665,busqueda,RL15,27,17.1,mobile,Chrome,Michoacan,2022-07-14 10:20:56
-user_8281,busqueda,Perestroika,18,6.4,mobile,Firefox,Hidalgo,2022-11-19 23:40:08
-user_6582,click_producto,Perestroika,24,28.2,desktop,Edge,Coahuila,2022-05-23 04:50:50
-user_7241,busqueda,Vaivén,26,10.2,mobile,Samsung Internet,EdoMex,2024-06-01 22:36:23
-user_1238,agregar_carrito,Caimán,25,29.4,mobile,Firefox,CDMX,2021-10-22 15:29:46
-user_8892,agregar_carrito,Caimán,24,17.3,mobile,Samsung Internet,Quintana,2021-09-10 19:17:01
-user_4560,agregar_carrito,084 Diamante,25,29.9,mobile,Samsung Internet,Hidalgo,2021-12-10 15:58:35
-user_8538,busqueda,084 Diamante,19,28.9,mobile,Chrome,CDMX,2023-09-15 00:41:07
-user_3326,busqueda,Gran Prix,25,15.1,desktop,Samsung Internet,Morelos,2022-04-05 04:26:27
-user_4567,compra_completada,Perestroika,17,6.5,mobile,Edge,CDMX,2026-01-04 09:57:07
-user_3139,click_producto,RL15,25,13.3,mobile,Samsung Internet,Michoacan,2025-11-24 04:36:50
-user_9836,carrito_abandonado,Ultra,17,3.1,mobile,Chrome,CDMX,2023-08-18 05:56:30
-user_7637,click_producto,084 Clásico,28,18.7,desktop,Safari,Quintana,2022-06-06 04:48:09
-user_7595,carrito_abandonado,Barracuda,28,2.8,mobile,Edge,Nuevo,2022-02-28 05:38:40
-user_2087,agregar_carrito,Urbano,24,29.9,desktop,Edge,Michoacan,2024-12-11 08:21:50
-user_7788,busqueda,Flip,24,18.5,mobile,Firefox,Puebla,2023-02-01 21:25:54
-user_5905,busqueda,Vaivén,17,8.2,mobile,Firefox,Coahuila,2021-09-07 09:28:06
-user_2661,busqueda,Caimán,18,4.6,tablet,Chrome,Quintana,2026-03-01 13:50:40
-user_9391,busqueda,084 Campeón,25,1.9,mobile,Samsung Internet,Quintana,2021-11-08 08:29:22
-user_2891,click_producto,Barracuda,23,9.1,mobile,Chrome,Puebla,2021-06-05 22:26:43
-user_6712,busqueda,084 Clásico,25,20.4,mobile,Firefox,Coahuila,2022-04-17 12:29:47
-user_7578,compra_completada,Caimán,18,26.7,mobile,Edge,Hidalgo,2024-03-20 05:14:27
-user_8409,busqueda,Ultra,27,21.1,desktop,Safari,Hidalgo,2023-09-14 11:05:53
-user_6579,busqueda,RL15,21,9.0,mobile,Samsung Internet,Chihuahua,2023-10-06 06:07:20
-user_8430,busqueda,Ultra,17,20.3,desktop,Edge,Puebla,2024-12-31 15:55:46
-user_6528,carrito_abandonado,Vaivén,24,24.5,tablet,Samsung Internet,Coahuila,2023-05-24 01:56:35
-user_1313,agregar_carrito,084 Diamante,17,9.5,tablet,Edge,Morelos,2023-04-22 09:58:38
-user_3014,compra_completada,Vaivén,23,16.3,mobile,Edge,CDMX,2023-03-22 04:32:26
-user_3644,busqueda,Perestroika,24,1.0,mobile,Safari,Michoacan,2026-03-14 03:48:57
-user_2663,carrito_abandonado,Flip,24,2.7,mobile,Safari,EdoMex,2023-08-13 00:46:56
-user_2921,click_producto,Panam Alfa,26,10.8,mobile,Edge,Quintana,2026-01-17 05:32:30
-user_8765,busqueda,RL15,16,27.0,mobile,Edge,Michoacan,2024-05-08 18:13:37
-user_8549,busqueda,Gran Prix,19,3.0,mobile,Chrome,Michoacan,2023-05-10 15:58:27
-user_4775,busqueda,084,20,27.8,mobile,Edge,Quintana,2022-08-20 15:18:33
-user_7811,busqueda,Ultra,23,2.5,desktop,Safari,Chihuahua,2021-07-16 15:06:01
-user_2644,click_producto,Caimán,23,18.5,tablet,Firefox,Coahuila,2026-01-20 15:09:00
-user_3310,click_producto,Caimán,16,11.4,desktop,Chrome,Quintana,2026-04-25 02:39:57
-user_1480,wishlist,Barracuda,24,4.0,mobile,Edge,Michoacan,2024-01-15 07:42:41
-user_4211,compra_completada,RL15,27,3.1,mobile,Edge,EdoMex,2023-03-20 10:23:20
-user_6385,busqueda,Barracuda,25,5.9,desktop,Safari,EdoMex,2022-10-22 05:00:52
-user_3280,compra_completada,Urbano,26,15.6,mobile,Safari,Quintana,2024-08-09 02:21:10
-user_8321,carrito_abandonado,Urbano,26,18.1,mobile,Edge,Nuevo,2023-01-27 10:49:39
-user_6165,click_producto,Vital,23,4.0,mobile,Chrome,Morelos,2025-12-14 08:26:29
-user_5820,busqueda,Caimán,17,4.7,desktop,Chrome,Michoacan,2021-06-29 11:59:04
-user_5602,busqueda,Barracuda,17,14.1,mobile,Edge,Michoacan,2022-09-16 15:29:52
-user_1238,busqueda,Urbano,18,19.2,tablet,Firefox,Quintana,2022-02-13 14:13:37
-user_2884,busqueda,084,22,4.2,desktop,Edge,EdoMex,2026-03-16 02:16:59
-user_7773,compra_completada,Vaivén,24,5.0,mobile,Edge,Hidalgo,2023-08-22 07:59:05
-user_6132,compra_completada,Urbano,25,12.8,mobile,Edge,Quintana,2025-06-25 01:28:38
-user_8102,click_producto,Barracuda,24,19.1,desktop,Edge,Quintana,2022-05-28 07:37:58
-user_9418,click_producto,Urbano,15,23.7,desktop,Safari,EdoMex,2022-02-27 14:12:44
-user_3172,click_producto,Panam Alfa,24,25.0,mobile,Edge,Nuevo,2023-06-10 04:59:54
-user_2976,agregar_carrito,RL15,15,25.8,mobile,Chrome,Puebla,2024-10-19 23:03:57
-user_6764,busqueda,Perestroika,27,28.6,tablet,Chrome,EdoMex,2023-03-23 20:29:56
-user_9924,busqueda,Flip,24,4.9,mobile,Edge,Puebla,2023-05-28 06:10:35
-user_4013,carrito_abandonado,Perestroika,25,21.5,mobile,Chrome,CDMX,2025-04-02 22:49:04
-user_7231,click_producto,Gran Prix,23,18.8,mobile,Firefox,Nuevo,2022-10-02 22:43:31
-user_9647,agregar_carrito,Flip,25,1.8,mobile,Safari,CDMX,2022-10-27 11:50:00
-user_4646,busqueda,SuperFaro,26,24.6,tablet,Chrome,Chihuahua,2023-03-21 21:22:59
-user_4014,busqueda,SuperFaro,16,25.0,mobile,Safari,Puebla,2023-09-21 14:21:57
-user_6941,agregar_carrito,Flip,23,24.7,desktop,Safari,Quintana,2022-04-04 22:52:11
-user_3524,wishlist,084 Campeón,24,4.8,mobile,Safari,EdoMex,2021-05-16 03:46:17
-user_7089,carrito_abandonado,Panam Alfa,15,17.5,mobile,Firefox,Chihuahua,2023-05-18 03:33:29
-user_2729,agregar_carrito,Vital,26,29.8,mobile,Edge,EdoMex,2023-12-20 18:31:08
-user_9864,carrito_abandonado,Perestroika,26,13.5,tablet,Edge,Nuevo,2025-01-17 09:53:04
-user_9740,carrito_abandonado,Vital,22,19.2,desktop,Safari,Coahuila,2026-04-11 04:25:52
-user_7278,carrito_abandonado,Caimán,27,9.5,desktop,Samsung Internet,Morelos,2024-08-19 18:12:31
-user_6551,click_producto,Urbano,19,12.4,desktop,Edge,Puebla,2025-02-20 12:00:37
-user_2058,click_producto,Barracuda,22,18.6,mobile,Samsung Internet,Nuevo,2023-02-28 06:52:12
-user_3313,busqueda,084 Clásico,15,0.8,mobile,Firefox,EdoMex,2023-04-27 16:10:17
-user_4579,agregar_carrito,Barracuda,24,17.6,mobile,Chrome,Nuevo,2022-03-14 03:23:53
-user_7720,busqueda,Urbano,19,10.5,mobile,Edge,Hidalgo,2022-01-16 01:40:15
-user_6566,busqueda,Barracuda,18,25.5,mobile,Chrome,Quintana,2024-10-26 14:04:11
-user_3721,agregar_carrito,084,16,15.8,tablet,Firefox,Chihuahua,2025-02-14 04:29:00
-user_7706,busqueda,RL15,28,29.4,tablet,Safari,Hidalgo,2025-02-09 04:46:04
-user_1953,click_producto,Flip,24,3.9,desktop,Edge,EdoMex,2022-08-16 13:04:45
-user_3174,busqueda,084 Diamante,16,0.9,desktop,Firefox,Nuevo,2024-08-12 20:05:37
-user_5821,busqueda,Vital,23,27.9,mobile,Firefox,Quintana,2024-07-30 10:30:07
-user_5386,busqueda,Flip,17,28.0,desktop,Safari,Puebla,2021-07-16 20:30:29
-user_6733,busqueda,Caimán,19,15.0,mobile,Chrome,Morelos,2025-12-12 23:08:12
-user_5634,carrito_abandonado,Ultra,23,12.6,mobile,Edge,Chihuahua,2023-08-28 12:40:45
-user_4114,busqueda,084 Campeón,25,3.5,mobile,Safari,Quintana,2023-02-02 15:01:49
-user_2654,compra_completada,Flip,25,25.3,mobile,Samsung Internet,Chihuahua,2025-07-11 09:53:46
-user_2978,carrito_abandonado,084 Campeón,17,11.8,mobile,Firefox,EdoMex,2025-01-21 22:31:36
-user_6535,agregar_carrito,RL15,26,15.6,mobile,Firefox,CDMX,2025-10-20 02:58:29
-user_9812,busqueda,Panam Alfa,27,10.4,mobile,Chrome,Morelos,2024-04-03 18:25:10
-user_9113,carrito_abandonado,RL15,18,13.9,mobile,Samsung Internet,Coahuila,2024-01-31 23:32:53
-user_8588,click_producto,Ultra,27,15.6,desktop,Edge,Chihuahua,2021-07-09 16:12:14
-user_9933,busqueda,Urbano,23,16.2,mobile,Edge,CDMX,2025-08-03 18:03:19
-user_6703,wishlist,084,24,23.0,desktop,Edge,EdoMex,2025-08-30 05:53:17
-user_1027,wishlist,084,15,15.8,desktop,Safari,Chihuahua,2024-08-23 11:29:29
-user_2288,agregar_carrito,Vaivén,26,26.6,mobile,Firefox,EdoMex,2025-02-08 03:33:29
-user_1342,busqueda,Barracuda,27,17.2,mobile,Samsung Internet,Hidalgo,2023-02-03 16:26:37
-user_3403,carrito_abandonado,Caimán,17,17.6,desktop,Chrome,CDMX,2024-07-08 01:30:47
-user_2498,agregar_carrito,Caimán,26,22.0,mobile,Firefox,Michoacan,2022-07-29 07:23:44
-user_1118,busqueda,084 Diamante,22,3.1,mobile,Chrome,EdoMex,2022-01-01 15:40:25
-user_1431,click_producto,RL15,25,2.6,mobile,Chrome,Morelos,2024-07-22 16:12:37
-user_7585,agregar_carrito,Ultra,22,9.7,desktop,Safari,CDMX,2022-10-11 10:58:02
-user_9555,click_producto,Barracuda,25,27.6,desktop,Samsung Internet,Chihuahua,2024-10-12 12:24:56
-user_9758,click_producto,RL15,22,7.2,mobile,Firefox,CDMX,2023-02-08 20:19:17
-user_6350,click_producto,Panam Alfa,28,9.6,desktop,Safari,Chihuahua,2023-03-14 09:26:16
-user_4644,carrito_abandonado,Caimán,25,19.7,mobile,Chrome,Quintana,2024-01-07 12:51:00
-user_2218,click_producto,Ultra,25,27.7,tablet,Edge,Coahuila,2024-05-07 20:54:19
-user_4173,busqueda,084,21,2.1,desktop,Edge,Puebla,2024-10-15 22:08:14
-user_7158,busqueda,Perestroika,18,21.1,desktop,Samsung Internet,Quintana,2023-09-05 01:00:47
-user_4530,carrito_abandonado,Ultra,22,27.7,desktop,Firefox,Nuevo,2023-06-18 04:50:00
-user_1645,carrito_abandonado,Gran Prix,24,3.1,desktop,Safari,Morelos,2023-10-26 10:06:16
-user_6204,click_producto,Gran Prix,29,27.3,mobile,Edge,Michoacan,2023-04-23 16:20:10
-user_7472,click_producto,Perestroika,16,14.0,desktop,Chrome,Chihuahua,2024-07-28 04:55:15
-user_2947,busqueda,SuperFaro,17,15.9,desktop,Firefox,Puebla,2025-05-04 15:51:46
-user_4141,carrito_abandonado,Caimán,28,17.9,mobile,Edge,Coahuila,2021-07-20 17:40:10
-user_6923,carrito_abandonado,Flip,16,14.1,mobile,Chrome,EdoMex,2026-02-19 10:53:36
-user_4072,click_producto,Ultra,25,25.3,mobile,Samsung Internet,Morelos,2023-06-03 14:54:56
-user_9462,carrito_abandonado,Urbano,27,24.7,mobile,Safari,Coahuila,2021-11-23 07:31:37
-user_9126,click_producto,Urbano,16,26.1,desktop,Chrome,Chihuahua,2025-03-11 09:24:45
-user_4939,busqueda,Urbano,16,0.9,mobile,Safari,Nuevo,2021-07-13 06:57:40
-user_7887,click_producto,Barracuda,22,27.6,desktop,Chrome,Chihuahua,2024-08-26 11:45:39
-user_5981,busqueda,Flip,23,22.2,mobile,Firefox,Nuevo,2026-03-17 09:19:14
-user_9982,click_producto,084 Campeón,23,18.5,mobile,Edge,Quintana,2024-04-12 18:19:02
-user_1113,busqueda,Urbano,24,25.8,desktop,Samsung Internet,Chihuahua,2024-05-27 07:19:06
-user_9459,carrito_abandonado,Caimán,26,16.2,mobile,Edge,Coahuila,2024-08-01 22:46:23
-user_7693,agregar_carrito,Caimán,17,21.2,mobile,Edge,Nuevo,2021-07-08 23:40:25
-user_2089,click_producto,Perestroika,23,18.1,desktop,Samsung Internet,Hidalgo,2025-07-09 15:57:49
-user_3947,agregar_carrito,084 Diamante,27,8.5,mobile,Samsung Internet,Nuevo,2025-01-20 19:47:58
-user_9845,click_producto,084 Clásico,23,8.3,desktop,Firefox,Michoacan,2025-02-17 21:33:02
-user_3684,carrito_abandonado,SuperFaro,21,1.6,mobile,Edge,Michoacan,2024-12-14 01:31:45
-user_6537,busqueda,Caimán,18,9.2,desktop,Chrome,Puebla,2022-02-08 06:12:36
-user_9792,click_producto,RL15,27,28.8,desktop,Chrome,Chihuahua,2025-01-24 03:37:18
-user_4698,compra_completada,084 Diamante,26,6.4,mobile,Edge,Hidalgo,2023-07-07 08:09:41
-user_2322,busqueda,Vaivén,21,7.6,desktop,Samsung Internet,Hidalgo,2024-04-22 05:26:09
-user_4470,agregar_carrito,Vaivén,25,23.0,mobile,Firefox,CDMX,2023-04-16 09:57:16
-user_5799,click_producto,Barracuda,25,13.4,desktop,Firefox,Nuevo,2023-08-20 10:41:07
-user_4030,busqueda,Vaivén,26,7.2,mobile,Samsung Internet,CDMX,2024-06-18 06:48:25
-user_4963,click_producto,Barracuda,25,19.8,mobile,Safari,Coahuila,2023-07-22 16:01:10
-user_2029,wishlist,084 Campeón,26,18.0,mobile,Samsung Internet,Morelos,2025-06-01 01:21:38
-user_7858,busqueda,Perestroika,28,20.1,mobile,Edge,Quintana,2022-09-09 12:10:39
-user_1048,agregar_carrito,084 Clásico,22,21.8,mobile,Samsung Internet,Hidalgo,2022-10-11 22:53:54
-user_7501,click_producto,084 Clásico,25,18.1,mobile,Chrome,CDMX,2023-03-18 03:32:36
-user_4528,carrito_abandonado,Gran Prix,29,29.1,mobile,Edge,Coahuila,2026-04-29 09:09:42
-user_2129,busqueda,084 Campeón,17,1.3,mobile,Samsung Internet,Michoacan,2025-09-29 02:29:46
-user_7121,busqueda,084 Campeón,27,9.3,mobile,Edge,Morelos,2025-11-10 21:01:13
-user_4903,busqueda,Gran Prix,27,26.9,mobile,Edge,Coahuila,2023-01-04 08:52:57
-user_4070,busqueda,084 Diamante,22,16.4,mobile,Samsung Internet,EdoMex,2021-08-27 01:44:46
-user_1358,click_producto,Perestroika,18,22.5,mobile,Edge,CDMX,2024-08-03 10:03:13
-user_8477,busqueda,Urbano,18,22.1,mobile,Samsung Internet,EdoMex,2024-06-11 23:58:06
-user_3306,busqueda,Perestroika,30,14.7,mobile,Edge,Nuevo,2021-10-02 09:03:34
-user_5439,compra_completada,RL15,22,10.1,desktop,Firefox,Chihuahua,2023-04-16 11:41:44
-user_5809,click_producto,Panam Alfa,22,29.3,mobile,Samsung Internet,CDMX,2022-02-09 20:21:25
-user_8974,click_producto,SuperFaro,25,28.1,mobile,Firefox,Puebla,2022-09-11 13:03:11
-user_6550,agregar_carrito,Perestroika,24,12.1,mobile,Chrome,Quintana,2022-02-17 07:38:00
-user_3940,busqueda,Perestroika,23,8.3,mobile,Safari,Quintana,2026-01-17 21:04:06
-user_6950,busqueda,Gran Prix,16,20.2,mobile,Safari,Michoacan,2021-10-08 20:38:37
-user_2767,busqueda,Perestroika,26,12.1,mobile,Chrome,Hidalgo,2023-06-23 06:02:12
-user_5663,agregar_carrito,SuperFaro,23,13.5,mobile,Edge,EdoMex,2022-01-07 13:13:46
-user_8303,agregar_carrito,084 Clásico,24,29.9,mobile,Samsung Internet,Puebla,2025-10-24 05:17:17
-user_8189,compra_completada,Vaivén,27,26.3,desktop,Chrome,Morelos,2023-07-08 00:32:09
-user_9836,click_producto,RL15,27,21.6,mobile,Safari,CDMX,2025-03-14 01:10:06
-user_6415,agregar_carrito,084,24,25.3,mobile,Firefox,Morelos,2022-08-12 07:57:16
-user_3874,busqueda,084 Clásico,22,8.2,mobile,Chrome,Puebla,2023-11-03 02:34:45
-user_7630,compra_completada,084 Diamante,27,3.0,mobile,Chrome,EdoMex,2022-07-20 08:31:13
-user_9540,busqueda,SuperFaro,23,16.2,desktop,Edge,Puebla,2025-01-19 14:07:00
-user_7999,click_producto,084 Diamante,27,8.0,desktop,Chrome,Chihuahua,2023-09-18 14:59:24
-user_9096,busqueda,Gran Prix,26,18.6,mobile,Chrome,Michoacan,2022-12-05 06:10:59
-user_7055,agregar_carrito,Vaivén,17,9.6,desktop,Firefox,Morelos,2023-04-18 01:36:38
-user_7128,click_producto,Gran Prix,26,17.1,tablet,Safari,Michoacan,2024-10-29 11:23:53
-user_2879,click_producto,Vital,14,28.3,mobile,Edge,Chihuahua,2023-12-30 09:58:41
-user_2352,busqueda,084 Clásico,28,2.3,mobile,Firefox,Quintana,2022-10-06 00:15:53
-user_9500,busqueda,Ultra,25,20.7,desktop,Firefox,Michoacan,2025-10-09 11:24:32
-user_8317,agregar_carrito,Vital,18,19.5,mobile,Safari,EdoMex,2021-11-29 18:55:02
-user_2118,busqueda,084 Clásico,24,24.8,mobile,Edge,Quintana,2023-04-26 12:56:52
-user_5303,agregar_carrito,Vital,25,15.6,mobile,Firefox,Morelos,2022-02-16 23:44:40
-user_9453,carrito_abandonado,SuperFaro,21,17.5,desktop,Firefox,Puebla,2021-10-15 07:50:56
-user_5470,carrito_abandonado,Caimán,17,3.7,mobile,Edge,CDMX,2026-03-20 08:20:48
-user_3353,busqueda,Barracuda,24,18.5,mobile,Samsung Internet,Puebla,2022-11-03 22:51:06
-user_1476,agregar_carrito,RL15,26,24.5,mobile,Edge,Puebla,2023-10-18 20:28:35
-user_4251,wishlist,Caimán,18,25.4,mobile,Firefox,Puebla,2026-01-02 16:46:51
-user_9714,compra_completada,SuperFaro,21,8.4,desktop,Edge,EdoMex,2025-05-06 07:46:50
-user_2345,busqueda,Ultra,22,20.8,mobile,Safari,Nuevo,2024-12-11 08:22:24
-user_6008,agregar_carrito,084 Campeón,24,3.2,mobile,Safari,CDMX,2022-10-10 01:00:27
-user_3976,wishlist,084 Clásico,22,3.3,mobile,Samsung Internet,Michoacan,2023-05-10 07:14:31
-user_2282,busqueda,Ultra,20,9.1,mobile,Edge,Michoacan,2021-06-28 16:41:24
-user_3706,wishlist,SuperFaro,15,23.1,desktop,Edge,Nuevo,2023-01-03 08:28:59
-user_8800,click_producto,084 Campeón,26,6.6,mobile,Edge,CDMX,2021-12-31 16:35:50
-user_8795,busqueda,Perestroika,23,9.0,mobile,Edge,Hidalgo,2021-12-01 15:53:41
-user_9715,click_producto,Ultra,24,7.0,desktop,Safari,Coahuila,2022-03-17 16:40:41
-user_4576,wishlist,Gran Prix,23,7.7,desktop,Edge,EdoMex,2023-08-20 04:54:20
-user_1903,carrito_abandonado,Flip,25,2.8,mobile,Firefox,Michoacan,2022-11-12 14:38:26
-user_7874,click_producto,Panam Alfa,21,3.2,mobile,Chrome,Coahuila,2025-11-20 05:58:01
-user_6828,wishlist,Gran Prix,22,15.3,mobile,Samsung Internet,Coahuila,2022-05-26 23:52:03
-user_4375,busqueda,084 Diamante,15,4.3,desktop,Firefox,Nuevo,2025-04-12 08:47:21
-user_1339,agregar_carrito,Perestroika,26,14.0,desktop,Safari,Hidalgo,2026-01-19 18:53:54
-user_5155,compra_completada,Flip,25,24.9,mobile,Samsung Internet,Nuevo,2024-06-25 12:58:47
-user_2137,busqueda,084 Diamante,23,22.8,tablet,Samsung Internet,Nuevo,2022-11-13 05:03:38
-user_4455,busqueda,084 Campeón,17,5.1,desktop,Firefox,Quintana,2022-08-23 19:02:46
-user_8032,compra_completada,Ultra,22,16.1,mobile,Safari,Chihuahua,2025-11-19 07:53:48
-user_1205,carrito_abandonado,084,17,10.7,desktop,Samsung Internet,Nuevo,2022-12-07 16:50:21
-user_3215,click_producto,Vaivén,23,14.5,mobile,Safari,Nuevo,2023-06-08 12:15:18
-user_2162,agregar_carrito,RL15,26,3.8,mobile,Safari,Puebla,2021-06-02 11:42:25
-user_8190,carrito_abandonado,084,26,13.3,mobile,Firefox,Quintana,2024-02-11 12:54:33
-user_9087,busqueda,Flip,22,18.8,desktop,Chrome,Quintana,2022-10-22 01:27:03
-user_7630,agregar_carrito,Ultra,18,20.0,desktop,Firefox,Morelos,2023-08-30 10:28:24
-user_3351,busqueda,Flip,22,5.6,desktop,Chrome,Puebla,2025-09-16 21:54:35
-user_8726,busqueda,084 Campeón,25,1.7,desktop,Safari,Coahuila,2021-07-09 16:21:51
-user_1902,click_producto,Panam Alfa,28,1.8,mobile,Samsung Internet,Michoacan,2025-08-09 14:18:29
-user_7282,wishlist,084 Campeón,24,16.1,mobile,Edge,Chihuahua,2025-08-20 18:29:40
-user_8323,busqueda,084,25,8.9,desktop,Safari,Hidalgo,2021-10-29 22:34:12
-user_8631,carrito_abandonado,084 Diamante,26,27.2,mobile,Chrome,Morelos,2024-09-10 19:48:04
-user_7860,click_producto,RL15,26,19.1,mobile,Edge,Morelos,2022-06-29 14:03:22
-user_1634,busqueda,Urbano,19,1.1,desktop,Firefox,CDMX,2022-10-07 04:02:18
-user_3518,agregar_carrito,Flip,18,24.8,tablet,Safari,Nuevo,2021-10-03 12:20:46
-user_1996,compra_completada,Gran Prix,16,27.3,desktop,Edge,Quintana,2025-05-02 15:41:02
-user_5213,carrito_abandonado,Flip,26,9.3,mobile,Edge,Nuevo,2022-09-02 16:58:10
-user_7497,carrito_abandonado,Ultra,28,25.8,mobile,Safari,Puebla,2022-06-21 07:51:08
-user_5997,busqueda,084,26,25.1,desktop,Chrome,EdoMex,2023-05-27 22:47:55
-user_8267,busqueda,Perestroika,25,14.9,mobile,Edge,EdoMex,2024-06-20 03:15:19
-user_9317,carrito_abandonado,Urbano,22,4.8,desktop,Samsung Internet,EdoMex,2026-03-24 05:57:36
-user_4656,click_producto,Vaivén,23,4.7,tablet,Safari,Hidalgo,2023-09-20 23:55:40
-user_6398,busqueda,Flip,16,14.4,mobile,Edge,Puebla,2025-04-11 22:57:11
-user_7906,wishlist,Caimán,15,21.1,mobile,Chrome,Michoacan,2023-06-08 22:52:18
-user_2413,compra_completada,084 Diamante,25,11.7,mobile,Firefox,Nuevo,2025-03-19 18:37:00
-user_4911,agregar_carrito,Urbano,23,15.5,mobile,Firefox,CDMX,2022-11-01 11:16:45
-user_3103,click_producto,RL15,27,26.9,mobile,Firefox,Michoacan,2022-04-12 16:28:59
-user_6750,agregar_carrito,084 Campeón,24,15.3,mobile,Firefox,Nuevo,2023-06-16 11:45:30
-user_6382,busqueda,Urbano,15,27.9,mobile,Samsung Internet,Coahuila,2022-09-21 21:35:48
-user_4155,click_producto,Ultra,16,12.0,desktop,Firefox,CDMX,2021-09-14 15:39:54
-user_2726,agregar_carrito,084 Clásico,18,11.3,tablet,Firefox,Chihuahua,2021-11-30 16:55:23
-user_9997,compra_completada,Vaivén,24,5.2,mobile,Firefox,Michoacan,2024-07-21 22:22:36
-user_8431,busqueda,SuperFaro,25,28.8,tablet,Safari,EdoMex,2022-07-02 13:16:37
-user_8981,agregar_carrito,084 Clásico,17,11.2,mobile,Firefox,Hidalgo,2021-05-08 02:16:35
-user_8969,busqueda,SuperFaro,28,2.8,mobile,Safari,Morelos,2023-10-15 14:53:29
-user_3703,agregar_carrito,SuperFaro,27,12.8,desktop,Samsung Internet,Quintana,2025-04-06 21:13:27
-user_1004,click_producto,084,23,15.4,mobile,Edge,CDMX,2025-11-04 12:38:44
-user_6888,click_producto,084 Diamante,14,22.2,mobile,Samsung Internet,Quintana,2025-07-06 13:19:38
-user_3124,compra_completada,084,24,9.7,mobile,Safari,Michoacan,2024-09-14 14:07:03
-user_4890,busqueda,SuperFaro,23,29.7,desktop,Safari,Chihuahua,2026-01-10 02:02:16
-user_5290,agregar_carrito,Panam Alfa,22,18.0,tablet,Chrome,Puebla,2025-12-13 14:22:22
-user_7623,busqueda,SuperFaro,26,12.1,mobile,Firefox,Michoacan,2024-10-12 04:22:24
-user_5503,carrito_abandonado,RL15,25,20.2,mobile,Chrome,Morelos,2025-10-23 14:08:43
-user_3509,click_producto,Flip,27,7.6,mobile,Firefox,Puebla,2025-04-25 01:14:45
-user_1967,agregar_carrito,Perestroika,25,19.0,tablet,Firefox,Hidalgo,2025-10-06 19:53:32
-user_2587,carrito_abandonado,084 Campeón,25,10.8,mobile,Samsung Internet,Puebla,2024-05-09 22:51:50
-user_4932,compra_completada,Vaivén,23,29.7,desktop,Edge,Puebla,2026-04-04 10:56:43
-user_4435,busqueda,SuperFaro,24,20.7,desktop,Safari,Puebla,2024-10-16 05:19:12
-user_2294,compra_completada,084 Clásico,22,14.5,desktop,Edge,Nuevo,2023-06-26 11:29:13
-user_2536,busqueda,Vital,20,5.6,tablet,Edge,EdoMex,2025-10-18 16:18:16
-user_8155,busqueda,Barracuda,23,22.8,mobile,Edge,Quintana,2024-10-23 22:13:05
-user_2087,click_producto,084,18,2.3,desktop,Chrome,EdoMex,2022-10-06 20:09:14
-user_4912,busqueda,Vaivén,25,8.7,mobile,Chrome,Hidalgo,2025-08-16 13:17:40
-user_1131,busqueda,Vital,26,23.2,mobile,Chrome,Michoacan,2025-08-05 21:50:41
-user_2278,agregar_carrito,Perestroika,25,28.2,mobile,Safari,Nuevo,2022-06-02 12:38:46
-user_7889,wishlist,Flip,23,15.8,desktop,Firefox,Morelos,2021-08-27 10:56:44
-user_2616,click_producto,Urbano,17,12.2,mobile,Edge,Hidalgo,2023-02-08 02:34:58
-user_8985,compra_completada,084 Diamante,20,14.1,tablet,Chrome,Quintana,2021-12-20 09:53:41
-user_4033,agregar_carrito,084,24,23.8,mobile,Samsung Internet,Coahuila,2024-06-21 02:24:06
-user_7158,click_producto,084 Diamante,27,16.3,desktop,Samsung Internet,Morelos,2023-11-19 12:58:59
-user_9903,compra_completada,Panam Alfa,26,12.6,mobile,Chrome,Morelos,2022-04-30 06:31:28
-user_3585,carrito_abandonado,Perestroika,25,20.4,desktop,Samsung Internet,Morelos,2024-11-07 15:15:50
-user_7173,click_producto,Barracuda,24,22.1,mobile,Samsung Internet,Nuevo,2024-08-06 22:10:42
-user_8246,agregar_carrito,Flip,25,27.3,mobile,Edge,EdoMex,2024-07-17 07:57:15
-user_9306,busqueda,Perestroika,24,22.1,mobile,Safari,EdoMex,2023-11-22 21:11:58
-user_5066,carrito_abandonado,Vital,27,7.1,mobile,Edge,Hidalgo,2024-07-10 02:54:10
-user_2529,compra_completada,Vaivén,23,17.1,mobile,Firefox,Nuevo,2021-07-19 11:50:01
-user_1855,click_producto,Gran Prix,18,12.4,desktop,Firefox,Coahuila,2024-01-08 13:42:35
-user_2332,wishlist,Urbano,18,7.8,mobile,Firefox,Puebla,2025-06-28 01:23:47
-user_8189,agregar_carrito,Vaivén,26,15.5,desktop,Safari,Coahuila,2023-01-13 15:52:46
-user_6677,click_producto,SuperFaro,26,22.8,mobile,Samsung Internet,Puebla,2021-06-25 03:39:56
-user_4527,click_producto,084 Campeón,23,22.1,desktop,Samsung Internet,CDMX,2023-03-07 01:37:04
-user_7839,busqueda,084 Clásico,23,8.8,desktop,Firefox,Quintana,2025-01-18 11:33:14
-user_2290,agregar_carrito,SuperFaro,25,25.6,mobile,Samsung Internet,Hidalgo,2022-08-06 13:19:28
-user_9867,carrito_abandonado,SuperFaro,19,21.2,desktop,Safari,Hidalgo,2025-03-04 05:30:42
-user_9657,agregar_carrito,RL15,17,6.5,mobile,Chrome,Quintana,2022-07-14 19:07:44
-user_5106,busqueda,Panam Alfa,28,23.5,desktop,Edge,Coahuila,2023-11-30 12:11:46
-user_5358,busqueda,RL15,17,20.1,mobile,Safari,Coahuila,2024-09-18 18:19:21
-user_2655,click_producto,RL15,24,2.3,desktop,Samsung Internet,Chihuahua,2023-06-04 22:09:00
-user_9369,click_producto,Perestroika,18,8.4,mobile,Samsung Internet,Quintana,2022-07-22 11:19:17
-user_3600,carrito_abandonado,084 Campeón,24,2.8,mobile,Samsung Internet,Puebla,2021-06-26 04:45:23
-user_1366,busqueda,084 Clásico,16,29.8,mobile,Edge,CDMX,2023-04-11 19:11:54
-user_6131,busqueda,Barracuda,25,26.1,mobile,Edge,EdoMex,2025-01-29 07:40:32
-user_5839,busqueda,SuperFaro,27,8.1,mobile,Edge,Michoacan,2023-07-01 02:35:59
-user_6967,click_producto,084 Clásico,26,5.9,mobile,Safari,Michoacan,2025-06-26 16:09:30
-user_6966,agregar_carrito,Caimán,25,22.8,desktop,Chrome,Michoacan,2024-09-27 16:57:10
-user_7728,click_producto,084,28,11.8,mobile,Edge,Hidalgo,2025-04-24 05:01:36
-user_9338,click_producto,084,19,28.1,mobile,Firefox,Coahuila,2025-04-20 15:41:53
-user_6194,carrito_abandonado,084,17,17.2,mobile,Safari,Morelos,2024-07-03 17:34:25
-user_5254,click_producto,RL15,27,18.6,desktop,Edge,Nuevo,2023-02-01 06:29:40
-user_9311,agregar_carrito,Urbano,17,9.6,mobile,Firefox,Hidalgo,2025-04-14 17:37:18
-user_9971,compra_completada,Ultra,26,2.4,desktop,Safari,Michoacan,2022-06-15 11:54:08
-user_1401,agregar_carrito,Ultra,19,10.9,desktop,Samsung Internet,Hidalgo,2024-11-18 03:49:05
-user_1643,compra_completada,RL15,25,18.2,mobile,Firefox,Morelos,2021-10-12 20:10:32
-user_6963,busqueda,Urbano,16,13.9,mobile,Firefox,Quintana,2023-06-07 15:20:11
-user_2699,compra_completada,Caimán,25,29.8,desktop,Safari,Puebla,2022-08-01 11:34:53
-user_5346,carrito_abandonado,084,24,17.0,mobile,Safari,CDMX,2022-03-16 23:52:00
-user_6937,busqueda,084 Diamante,25,25.8,mobile,Safari,EdoMex,2023-11-10 03:29:25
-user_7406,busqueda,Vital,18,16.8,mobile,Chrome,Chihuahua,2024-07-11 09:38:25
-user_3766,carrito_abandonado,084 Diamante,14,23.2,desktop,Safari,CDMX,2021-10-18 08:23:12
-user_1435,click_producto,Vital,26,3.8,mobile,Samsung Internet,Coahuila,2024-04-29 10:48:17
-user_5395,click_producto,Caimán,30,3.1,mobile,Chrome,Quintana,2025-04-20 07:06:06
-user_8155,busqueda,084 Clásico,17,4.6,desktop,Safari,EdoMex,2024-08-19 07:17:20
-user_4742,compra_completada,Flip,27,7.8,mobile,Safari,Chihuahua,2025-01-11 18:51:02
-user_7116,busqueda,Caimán,19,22.8,desktop,Safari,Hidalgo,2022-01-04 00:49:47
-user_6800,agregar_carrito,084,22,21.7,tablet,Chrome,Quintana,2023-11-05 14:05:58
-user_5156,busqueda,Perestroika,26,3.2,desktop,Samsung Internet,Coahuila,2024-05-12 13:25:00
-user_9713,agregar_carrito,Vaivén,16,19.7,mobile,Edge,Puebla,2025-09-14 18:52:37
-user_3638,carrito_abandonado,084 Diamante,25,11.6,mobile,Chrome,EdoMex,2026-01-14 02:17:59
-user_9571,click_producto,Barracuda,22,21.0,tablet,Edge,EdoMex,2025-05-27 15:16:48
-user_3318,wishlist,Vaivén,18,4.6,mobile,Safari,Morelos,2021-09-09 05:14:26
-user_4276,click_producto,Urbano,24,22.5,mobile,Firefox,Chihuahua,2025-06-03 22:32:21
-user_5810,click_producto,Panam Alfa,27,23.4,desktop,Samsung Internet,Hidalgo,2021-12-02 19:44:57
-user_8812,click_producto,084,15,14.2,desktop,Edge,Morelos,2024-05-05 10:30:59
-user_6114,busqueda,Ultra,19,10.7,mobile,Chrome,Morelos,2024-03-01 02:24:06
-user_6271,busqueda,Gran Prix,18,17.6,mobile,Firefox,Hidalgo,2022-12-28 10:23:01
-user_5401,agregar_carrito,Vital,16,11.5,mobile,Samsung Internet,Michoacan,2023-12-26 12:16:52
-user_6230,compra_completada,Perestroika,22,27.7,mobile,Safari,Puebla,2025-08-27 15:07:15
-user_2980,carrito_abandonado,Perestroika,17,13.1,mobile,Chrome,Chihuahua,2022-10-03 21:18:26
-user_8025,compra_completada,Vaivén,18,6.3,desktop,Edge,Chihuahua,2021-06-09 15:55:47
-user_5244,agregar_carrito,Barracuda,23,14.5,mobile,Firefox,Quintana,2022-03-17 01:12:02
-user_3118,click_producto,Gran Prix,16,15.8,desktop,Safari,CDMX,2022-08-02 17:31:26
-user_6287,carrito_abandonado,Panam Alfa,27,25.9,mobile,Chrome,Puebla,2026-02-14 02:42:54
-user_3876,busqueda,SuperFaro,24,25.7,mobile,Samsung Internet,Coahuila,2023-08-21 22:59:47
-user_3802,wishlist,Panam Alfa,26,19.0,mobile,Samsung Internet,Hidalgo,2021-11-08 09:01:01
-user_3362,busqueda,Gran Prix,27,15.0,mobile,Chrome,Coahuila,2021-07-22 00:03:26
-user_9026,compra_completada,Panam Alfa,24,28.8,mobile,Firefox,Chihuahua,2025-09-05 07:05:42
-user_1372,busqueda,Vaivén,15,18.1,desktop,Safari,Michoacan,2023-03-16 18:30:46
-user_8595,agregar_carrito,Vital,27,18.6,desktop,Firefox,EdoMex,2025-10-11 06:53:05
-user_3766,click_producto,084 Campeón,17,25.3,mobile,Samsung Internet,CDMX,2024-07-02 19:09:12
-user_8664,click_producto,084 Campeón,17,14.7,mobile,Edge,Chihuahua,2021-07-20 07:31:08
-user_6687,busqueda,RL15,28,4.9,mobile,Samsung Internet,Puebla,2025-02-27 07:33:57
-user_7048,carrito_abandonado,Vaivén,25,2.0,mobile,Firefox,Chihuahua,2024-10-10 16:06:16
-user_4060,busqueda,Caimán,25,28.9,mobile,Samsung Internet,Quintana,2024-03-09 03:25:06
-user_8482,wishlist,Barracuda,22,27.6,mobile,Edge,Chihuahua,2025-04-05 09:18:14
-user_7115,wishlist,084 Campeón,17,9.2,desktop,Edge,EdoMex,2024-04-18 04:10:47
-user_8720,busqueda,Gran Prix,23,24.2,desktop,Chrome,Coahuila,2024-02-14 20:27:24
-user_6178,agregar_carrito,Caimán,24,15.9,mobile,Safari,Coahuila,2023-10-08 13:13:52
-user_8234,click_producto,Caimán,24,2.7,mobile,Safari,Quintana,2024-06-22 13:10:10
-user_6566,agregar_carrito,Flip,27,2.9,mobile,Edge,Nuevo,2021-10-11 12:07:10
-user_1845,busqueda,084 Clásico,24,3.0,mobile,Chrome,EdoMex,2025-09-28 13:39:01
-user_7004,busqueda,RL15,24,27.1,mobile,Chrome,Nuevo,2026-04-29 18:36:02
-user_3941,busqueda,084,28,22.7,mobile,Firefox,Puebla,2022-05-24 09:16:16
-user_9901,agregar_carrito,Caimán,24,24.6,mobile,Firefox,EdoMex,2025-01-27 08:50:01
-user_9879,click_producto,RL15,16,10.6,mobile,Chrome,Chihuahua,2025-06-28 23:24:38
-user_9551,carrito_abandonado,Flip,27,18.1,desktop,Samsung Internet,Coahuila,2025-01-11 20:46:38
-user_7330,click_producto,Flip,18,6.6,mobile,Edge,Morelos,2025-09-19 04:01:29
-user_6004,click_producto,Ultra,18,6.9,mobile,Firefox,CDMX,2021-08-26 15:30:08
-user_1010,agregar_carrito,084 Campeón,26,24.9,mobile,Edge,EdoMex,2026-01-02 20:35:53
-user_3697,busqueda,Ultra,20,11.8,desktop,Samsung Internet,Michoacan,2026-02-28 21:40:51
-user_2315,agregar_carrito,084 Diamante,23,14.9,desktop,Firefox,Michoacan,2025-08-25 05:43:09
-user_2065,wishlist,084 Diamante,27,26.2,mobile,Samsung Internet,CDMX,2021-12-01 08:57:57
-user_4498,busqueda,Ultra,22,18.0,mobile,Firefox,Quintana,2022-08-25 16:38:06
-user_5469,busqueda,084 Campeón,24,2.5,tablet,Edge,Quintana,2024-07-23 11:39:04
-user_6339,click_producto,084 Clásico,23,21.2,mobile,Safari,Chihuahua,2024-02-26 01:26:35
-user_7513,click_producto,Vaivén,25,11.9,mobile,Safari,CDMX,2025-01-31 21:58:08
-user_8322,click_producto,Flip,24,17.5,mobile,Edge,Hidalgo,2023-08-14 04:22:38
-user_1337,click_producto,084 Campeón,27,3.8,mobile,Edge,Quintana,2022-07-27 13:19:17
-user_7157,click_producto,084,26,29.8,mobile,Chrome,Puebla,2022-07-22 03:33:35
-user_7266,click_producto,SuperFaro,17,8.5,desktop,Samsung Internet,EdoMex,2023-01-06 07:15:50
-user_4083,busqueda,Gran Prix,23,22.1,mobile,Firefox,Hidalgo,2022-02-19 20:14:30
-user_5026,busqueda,Perestroika,28,3.6,mobile,Edge,Puebla,2024-08-11 00:24:00
-user_9983,click_producto,084 Diamante,18,19.0,desktop,Samsung Internet,Morelos,2023-09-10 01:39:52
-user_4904,busqueda,084 Clásico,25,1.7,desktop,Chrome,Nuevo,2024-09-12 16:04:22
-user_9605,busqueda,Caimán,17,29.0,mobile,Firefox,Puebla,2023-03-21 13:37:23
-user_9917,busqueda,084 Diamante,17,13.5,mobile,Firefox,Chihuahua,2021-09-13 11:11:21
-user_9937,busqueda,Ultra,27,8.3,mobile,Chrome,CDMX,2021-09-20 01:24:00
-user_5160,compra_completada,Panam Alfa,27,10.7,mobile,Edge,Michoacan,2023-12-03 10:08:59
-user_9142,busqueda,Flip,16,26.3,mobile,Edge,Quintana,2021-06-12 22:51:39
-user_6781,busqueda,RL15,16,17.4,desktop,Chrome,Chihuahua,2022-06-23 08:23:49
-user_5335,busqueda,084,24,28.0,mobile,Samsung Internet,Morelos,2022-12-31 14:00:13
-user_3784,agregar_carrito,Gran Prix,18,3.7,mobile,Samsung Internet,Quintana,2024-11-26 03:53:15
-user_8483,carrito_abandonado,Urbano,27,29.3,desktop,Chrome,Nuevo,2026-03-10 01:13:28
-user_7614,click_producto,RL15,23,21.2,desktop,Firefox,Coahuila,2022-12-29 00:10:30
-user_1231,wishlist,Vital,15,29.3,mobile,Samsung Internet,Quintana,2024-11-23 17:13:04
-user_9090,busqueda,Gran Prix,24,2.4,tablet,Firefox,Michoacan,2022-08-20 11:06:01
-user_1956,carrito_abandonado,Perestroika,26,13.3,mobile,Samsung Internet,Morelos,2024-12-22 16:20:58
-user_9381,busqueda,084 Diamante,23,29.8,mobile,Edge,Morelos,2025-12-30 22:58:16
-user_3806,busqueda,Vital,24,27.2,mobile,Edge,Nuevo,2026-03-06 14:36:08
-user_3840,compra_completada,Flip,24,2.5,desktop,Safari,Morelos,2023-07-08 00:43:34
-user_2615,busqueda,Ultra,26,24.8,desktop,Chrome,Chihuahua,2023-02-19 16:11:15
-user_3097,busqueda,Panam Alfa,25,27.3,mobile,Firefox,EdoMex,2021-05-08 01:47:54
-user_1705,busqueda,RL15,24,9.6,desktop,Chrome,Puebla,2021-11-28 01:51:31
-user_7098,busqueda,084 Diamante,23,10.5,mobile,Samsung Internet,EdoMex,2022-09-25 22:52:11
-user_6304,compra_completada,Vaivén,24,28.2,mobile,Edge,Michoacan,2021-08-30 16:48:55
-user_4167,agregar_carrito,Ultra,25,28.0,mobile,Edge,Hidalgo,2023-08-09 05:12:33
-user_3468,busqueda,Panam Alfa,27,26.2,mobile,Firefox,Michoacan,2025-06-13 21:36:01
-user_9534,click_producto,084 Clásico,27,6.2,mobile,Chrome,EdoMex,2021-11-27 15:28:48
-user_3172,busqueda,Caimán,23,16.8,desktop,Chrome,Nuevo,2023-03-18 00:23:16
-user_1051,busqueda,Panam Alfa,27,3.0,desktop,Firefox,Michoacan,2025-04-30 06:59:35
-user_9017,busqueda,084 Clásico,26,28.5,desktop,Chrome,Coahuila,2022-10-02 19:50:43
-user_2701,click_producto,Urbano,24,20.9,mobile,Chrome,Nuevo,2025-07-17 12:13:26
-user_2185,agregar_carrito,Barracuda,19,21.1,mobile,Firefox,Nuevo,2022-04-26 05:39:03
-user_8159,carrito_abandonado,RL15,16,6.4,mobile,Chrome,Chihuahua,2022-01-09 18:28:53
-user_8954,busqueda,Panam Alfa,18,9.5,mobile,Edge,Hidalgo,2025-04-03 06:14:58
-user_3001,agregar_carrito,Perestroika,29,10.7,desktop,Samsung Internet,Coahuila,2024-04-05 03:51:15
-user_4410,wishlist,084 Campeón,25,6.0,tablet,Safari,EdoMex,2024-07-05 10:31:47
-user_8374,busqueda,RL15,24,29.6,desktop,Safari,Michoacan,2025-05-02 05:12:01
-user_2384,carrito_abandonado,Perestroika,23,5.2,mobile,Chrome,Michoacan,2023-07-17 03:36:42
-user_3187,wishlist,Vaivén,25,25.4,desktop,Samsung Internet,Quintana,2026-04-03 02:59:59
-user_4478,carrito_abandonado,Caimán,27,13.2,mobile,Chrome,Chihuahua,2026-02-04 17:24:49
-user_2530,click_producto,Vital,16,2.8,mobile,Chrome,CDMX,2026-01-02 15:47:49
-user_5299,click_producto,084 Campeón,26,6.0,desktop,Firefox,Quintana,2024-02-27 10:50:02
-user_6577,carrito_abandonado,Caimán,25,12.3,mobile,Chrome,EdoMex,2024-02-14 19:35:30
-user_9983,carrito_abandonado,Gran Prix,17,20.7,mobile,Edge,Puebla,2025-10-28 17:48:09
-user_4769,carrito_abandonado,Vaivén,26,0.7,mobile,Safari,Coahuila,2022-09-01 17:46:24
-user_6038,busqueda,084,22,29.9,mobile,Edge,Michoacan,2025-10-08 01:07:54
-user_8580,click_producto,RL15,25,6.8,mobile,Samsung Internet,Coahuila,2023-09-20 00:37:50
-user_2638,busqueda,Vital,27,5.4,desktop,Firefox,Michoacan,2023-06-07 10:09:25
-user_4874,busqueda,Ultra,25,20.6,desktop,Chrome,Chihuahua,2023-04-09 02:07:59
-user_7655,busqueda,Ultra,25,14.2,desktop,Chrome,Puebla,2021-07-14 08:45:07
-user_3590,busqueda,Urbano,25,8.4,mobile,Samsung Internet,Hidalgo,2025-01-13 07:27:51
-user_5561,click_producto,Barracuda,28,16.0,desktop,Edge,Quintana,2025-06-16 04:08:14
-user_6085,click_producto,Flip,18,8.2,mobile,Firefox,Nuevo,2023-08-29 23:22:10
-user_3301,agregar_carrito,084 Clásico,15,11.7,mobile,Chrome,EdoMex,2024-02-19 20:25:44
-user_4325,carrito_abandonado,084 Clásico,16,27.2,mobile,Edge,Hidalgo,2025-09-03 05:00:39
-user_7497,busqueda,Panam Alfa,18,18.2,mobile,Firefox,Coahuila,2023-11-26 03:33:59
-user_6489,carrito_abandonado,084 Diamante,27,13.5,desktop,Chrome,Morelos,2025-08-03 06:17:26
-user_8677,click_producto,Urbano,19,18.8,desktop,Samsung Internet,CDMX,2024-10-14 16:49:06
-user_4951,compra_completada,Urbano,19,17.0,mobile,Edge,Michoacan,2021-10-12 15:43:29
-user_4475,agregar_carrito,084 Clásico,23,23.6,mobile,Safari,Puebla,2023-11-25 10:40:50
-user_3591,click_producto,084 Clásico,26,21.8,desktop,Firefox,CDMX,2023-07-15 18:43:20
-user_8248,busqueda,Barracuda,24,28.2,mobile,Firefox,CDMX,2022-04-02 04:29:54
-user_7409,click_producto,Gran Prix,17,3.1,mobile,Edge,Puebla,2022-08-09 01:06:39
-user_6466,click_producto,Caimán,19,14.3,desktop,Edge,Coahuila,2026-01-24 16:22:16
-user_8570,compra_completada,Vaivén,24,24.6,desktop,Firefox,Hidalgo,2023-04-01 02:13:32
-user_6940,click_producto,Gran Prix,15,25.5,mobile,Samsung Internet,Nuevo,2023-03-17 13:48:25
-user_6618,busqueda,084 Campeón,17,8.2,desktop,Safari,Puebla,2023-06-18 02:46:20
-user_5286,click_producto,Barracuda,25,0.6,mobile,Safari,Coahuila,2025-04-17 23:47:10
-user_2202,compra_completada,Barracuda,26,6.5,mobile,Chrome,Michoacan,2022-08-25 11:17:05
-user_5014,busqueda,Vital,16,17.2,mobile,Safari,Coahuila,2022-03-08 15:27:50
-user_1648,busqueda,Barracuda,24,24.4,mobile,Samsung Internet,Nuevo,2025-12-15 21:34:30
-user_1747,carrito_abandonado,RL15,25,6.4,mobile,Samsung Internet,Coahuila,2025-08-24 21:57:29
-user_7195,carrito_abandonado,Perestroika,19,20.7,mobile,Chrome,Quintana,2024-06-07 02:14:03
-user_8878,click_producto,Flip,25,9.2,desktop,Safari,Michoacan,2024-11-08 08:33:52
-user_6735,agregar_carrito,084 Diamante,17,6.9,mobile,Safari,CDMX,2024-09-29 14:33:03
-user_2936,busqueda,Vital,16,29.9,mobile,Firefox,Morelos,2024-11-29 00:09:50
-user_8037,agregar_carrito,Perestroika,19,14.5,mobile,Edge,Hidalgo,2026-03-01 14:15:23
-user_5759,busqueda,084 Clásico,20,5.7,mobile,Samsung Internet,Hidalgo,2024-02-29 08:33:46
-user_6414,wishlist,SuperFaro,16,26.7,mobile,Firefox,EdoMex,2023-11-21 12:52:49
-user_3666,busqueda,Flip,24,10.9,mobile,Edge,Quintana,2022-01-13 08:57:11
-user_5671,carrito_abandonado,084,26,15.9,mobile,Edge,CDMX,2023-05-29 17:11:55
-user_8578,busqueda,Barracuda,25,17.5,tablet,Samsung Internet,Coahuila,2022-09-23 00:20:02
-user_9717,agregar_carrito,Caimán,26,15.4,mobile,Chrome,CDMX,2025-06-09 06:25:50
-user_7552,agregar_carrito,Flip,25,26.7,desktop,Samsung Internet,Michoacan,2021-11-28 08:44:36
-user_5671,wishlist,Urbano,18,5.7,mobile,Edge,Chihuahua,2024-01-06 17:51:07
-user_5171,compra_completada,084 Diamante,24,23.7,tablet,Edge,CDMX,2021-10-30 02:31:10
-user_8544,agregar_carrito,SuperFaro,22,21.3,desktop,Chrome,Michoacan,2025-01-18 17:57:29
-user_1867,busqueda,Barracuda,25,0.6,desktop,Samsung Internet,Quintana,2024-10-18 11:27:39
-user_4715,agregar_carrito,Perestroika,26,17.0,desktop,Chrome,Hidalgo,2025-01-08 00:16:54
-user_9320,click_producto,084 Diamante,26,23.3,mobile,Firefox,Hidalgo,2022-08-27 22:01:09
-user_3796,compra_completada,Barracuda,24,13.7,mobile,Chrome,Hidalgo,2024-11-13 06:13:09
-user_2716,carrito_abandonado,SuperFaro,24,8.2,desktop,Samsung Internet,Nuevo,2025-05-15 09:56:32
-user_8994,carrito_abandonado,Gran Prix,29,2.8,desktop,Edge,Quintana,2021-08-09 08:53:18
-user_3631,busqueda,084 Diamante,26,6.4,mobile,Samsung Internet,CDMX,2024-03-08 08:23:53
-user_2033,click_producto,Barracuda,22,9.6,mobile,Edge,EdoMex,2024-06-30 01:03:48
-user_4764,busqueda,Barracuda,24,19.4,mobile,Chrome,Michoacan,2022-05-08 15:07:16
+user_1443,agregar_carrito,084 Clásico,25,16.0,mobile,Samsung Internet,Quintana,2021-06-27 04:14:16
+user_5203,click_producto,Ultra,26,13.5,mobile,Edge,Coahuila,2021-08-12 09:34:49
+user_1902,busqueda,Ultra,23,9.5,mobile,Chrome,Nuevo,2023-11-12 18:02:46
+user_6910,click_producto,Ultra,24,28.3,desktop,Firefox,Chihuahua,2022-05-18 22:50:00
+user_5644,click_producto,Barracuda,27,24.1,mobile,Samsung Internet,Chihuahua,2023-02-10 04:20:33
+user_5790,carrito_abandonado,Vaivén,26,21.2,mobile,Samsung Internet,Puebla,2022-12-05 18:38:06
+user_7453,busqueda,Flip,26,26.6,mobile,Chrome,Hidalgo,2021-12-15 09:59:46
+user_4903,wishlist,SuperFaro,25,9.2,mobile,Samsung Internet,Chihuahua,2021-12-02 00:17:53
+user_4666,carrito_abandonado,SuperFaro,26,16.0,mobile,Edge,Nuevo,2023-07-04 04:11:18
+user_8925,compra_completada,Panam Alfa,24,29.9,desktop,Firefox,Hidalgo,2025-03-13 23:02:28
+user_3483,busqueda,084 Diamante,14,9.9,desktop,Chrome,EdoMex,2022-05-12 08:33:37
+user_9635,agregar_carrito,Ultra,27,6.0,mobile,Safari,EdoMex,2024-12-08 15:14:16
+user_8459,compra_completada,084 Campeón,25,27.5,mobile,Firefox,EdoMex,2024-05-22 12:59:04
+user_8823,busqueda,084 Campeón,24,7.5,mobile,Samsung Internet,Puebla,2024-10-10 20:42:19
+user_9020,compra_completada,Urbano,18,11.5,mobile,Chrome,Puebla,2021-06-09 14:49:39
+user_6594,compra_completada,Urbano,24,14.1,mobile,Samsung Internet,Coahuila,2023-11-26 12:28:32
+user_7800,compra_completada,Vaivén,28,16.1,mobile,Firefox,Chihuahua,2024-04-07 23:21:57
+user_1998,agregar_carrito,Gran Prix,26,17.1,desktop,Samsung Internet,Chihuahua,2024-08-24 11:19:20
+user_9646,busqueda,084 Diamante,23,18.2,mobile,Samsung Internet,Chihuahua,2024-07-15 14:32:44
+user_9141,carrito_abandonado,Vital,15,23.5,mobile,Firefox,EdoMex,2023-02-14 09:49:36
+user_4284,agregar_carrito,Flip,25,24.4,mobile,Firefox,Quintana,2023-12-07 14:45:30
+user_8434,carrito_abandonado,Perestroika,18,0.9,mobile,Samsung Internet,EdoMex,2024-12-29 03:50:35
+user_4035,busqueda,Ultra,26,24.9,tablet,Chrome,CDMX,2025-06-02 05:49:14
+user_2327,agregar_carrito,Perestroika,17,11.6,mobile,Firefox,EdoMex,2021-09-14 21:12:15
+user_1062,agregar_carrito,SuperFaro,24,5.5,mobile,Samsung Internet,EdoMex,2025-07-12 07:15:55
+user_1465,compra_completada,084 Diamante,26,3.0,desktop,Firefox,Nuevo,2021-08-13 16:56:31
+user_9842,compra_completada,Caimán,26,29.5,mobile,Firefox,Chihuahua,2025-08-08 05:06:17
+user_9243,carrito_abandonado,Vaivén,27,5.3,mobile,Samsung Internet,Michoacan,2024-01-25 20:15:54
+user_3891,wishlist,Perestroika,26,17.7,desktop,Firefox,Coahuila,2024-05-03 20:17:59
+user_9854,busqueda,084 Clásico,23,17.2,mobile,Samsung Internet,Michoacan,2021-08-12 05:19:15
+user_2748,click_producto,Gran Prix,25,2.2,mobile,Samsung Internet,CDMX,2023-07-11 11:17:17
+user_1862,click_producto,Barracuda,24,22.7,mobile,Edge,CDMX,2025-05-18 04:46:30
+user_2919,agregar_carrito,Panam Alfa,16,12.0,mobile,Edge,Michoacan,2024-08-12 01:39:13
+user_2509,busqueda,084 Campeón,14,11.9,mobile,Samsung Internet,Michoacan,2025-12-07 10:49:48
+user_8724,compra_completada,Vital,29,28.0,mobile,Safari,Puebla,2022-03-08 06:42:17
+user_5425,compra_completada,Perestroika,24,24.6,mobile,Samsung Internet,Hidalgo,2024-12-11 01:42:27
+user_6998,click_producto,RL15,17,1.9,mobile,Safari,Quintana,2026-05-05 21:58:44
+user_2274,click_producto,Urbano,25,29.5,mobile,Safari,Michoacan,2024-05-02 11:20:20
+user_2854,busqueda,084 Campeón,25,6.6,desktop,Chrome,CDMX,2025-07-09 02:50:07
+user_3526,click_producto,Vital,22,11.2,mobile,Edge,Hidalgo,2021-07-31 16:31:11
+user_3857,agregar_carrito,Vaivén,25,5.0,mobile,Firefox,Morelos,2024-07-31 07:12:08
+user_6515,wishlist,Ultra,28,7.1,mobile,Samsung Internet,Chihuahua,2021-09-04 22:20:53
+user_5864,click_producto,084 Campeón,17,10.5,mobile,Firefox,Coahuila,2025-06-30 05:34:26
+user_4342,click_producto,Ultra,28,13.8,mobile,Safari,Coahuila,2022-02-01 13:11:54
+user_7706,compra_completada,SuperFaro,25,15.0,mobile,Samsung Internet,CDMX,2025-05-22 03:47:38
+user_5546,carrito_abandonado,Flip,24,22.8,mobile,Safari,CDMX,2023-06-30 04:55:46
+user_6898,agregar_carrito,Caimán,18,29.6,mobile,Samsung Internet,Nuevo,2025-12-22 02:36:14
+user_9722,busqueda,Ultra,18,3.0,desktop,Edge,CDMX,2022-02-17 18:26:45
+user_4097,busqueda,SuperFaro,25,7.1,mobile,Chrome,Chihuahua,2022-01-20 13:04:55
+user_6701,click_producto,Flip,16,26.6,mobile,Safari,Chihuahua,2023-06-09 04:21:20
+user_2570,carrito_abandonado,Flip,15,5.9,mobile,Firefox,CDMX,2022-02-23 20:21:15
+user_5278,busqueda,Perestroika,26,23.8,desktop,Edge,Puebla,2025-03-20 10:38:50
+user_1438,click_producto,Vital,25,21.7,mobile,Firefox,Puebla,2024-07-30 22:32:20
+user_4676,click_producto,Flip,21,17.1,mobile,Samsung Internet,Nuevo,2024-03-20 23:51:52
+user_8915,busqueda,Gran Prix,25,27.7,mobile,Chrome,Hidalgo,2023-05-27 17:16:57
+user_4489,click_producto,Vaivén,22,10.1,mobile,Samsung Internet,Nuevo,2025-05-04 18:48:10
+user_9650,click_producto,Perestroika,26,19.4,mobile,Edge,Coahuila,2021-08-22 11:31:23
+user_6200,busqueda,084 Diamante,25,0.7,desktop,Edge,Puebla,2024-02-04 21:54:22
+user_5285,click_producto,084 Diamante,24,26.9,desktop,Safari,Hidalgo,2023-12-26 08:09:41
+user_7762,click_producto,Panam Alfa,26,5.5,mobile,Chrome,CDMX,2026-01-18 17:33:01
+user_1138,carrito_abandonado,Gran Prix,26,19.4,mobile,Chrome,Puebla,2025-03-09 14:37:19
+user_8960,click_producto,084 Campeón,23,24.5,mobile,Safari,Morelos,2023-03-11 14:19:27
+user_2250,busqueda,084,17,9.7,mobile,Chrome,Quintana,2024-11-03 11:52:15
+user_8903,busqueda,Barracuda,20,2.2,mobile,Firefox,Puebla,2022-02-26 19:03:10
+user_1232,click_producto,Vital,16,22.0,desktop,Samsung Internet,Quintana,2021-06-08 18:21:33
+user_5360,busqueda,084 Clásico,25,25.1,desktop,Safari,Nuevo,2022-06-10 15:48:12
+user_1458,agregar_carrito,084 Diamante,25,12.7,mobile,Chrome,Puebla,2021-08-03 12:11:47
+user_8622,click_producto,Vital,23,29.1,mobile,Edge,Quintana,2025-08-27 18:50:37
+user_3346,click_producto,Vaivén,25,12.7,mobile,Chrome,CDMX,2025-02-16 13:53:15
+user_7548,agregar_carrito,Perestroika,25,2.0,mobile,Edge,CDMX,2021-12-08 11:13:37
+user_2032,click_producto,Panam Alfa,24,20.4,desktop,Edge,Chihuahua,2025-08-14 16:02:04
+user_9915,busqueda,084 Diamante,14,27.4,desktop,Edge,CDMX,2022-11-21 20:31:09
+user_1106,click_producto,084,17,27.6,desktop,Safari,Chihuahua,2025-04-15 19:59:21
+user_3773,carrito_abandonado,Urbano,24,28.3,mobile,Chrome,CDMX,2023-09-08 08:58:18
+user_2997,compra_completada,084 Clásico,27,26.8,desktop,Edge,Quintana,2026-02-26 07:57:55
+user_4210,carrito_abandonado,084 Diamante,18,11.8,mobile,Samsung Internet,Puebla,2024-08-25 19:26:40
+user_8812,carrito_abandonado,084 Campeón,24,3.7,mobile,Chrome,Chihuahua,2025-11-27 00:42:34
+user_7972,busqueda,Vaivén,24,22.4,mobile,Samsung Internet,Morelos,2021-10-06 03:13:53
+user_5215,carrito_abandonado,Flip,25,11.9,mobile,Safari,Chihuahua,2023-07-03 11:04:06
+user_2030,compra_completada,SuperFaro,17,23.6,desktop,Firefox,Hidalgo,2026-05-01 08:50:27
+user_7397,click_producto,084 Campeón,22,21.3,desktop,Safari,Chihuahua,2022-05-08 08:47:28
+user_9491,agregar_carrito,Panam Alfa,26,25.1,mobile,Samsung Internet,CDMX,2025-09-29 05:26:23
+user_6428,agregar_carrito,Gran Prix,26,29.1,mobile,Safari,Hidalgo,2025-07-11 13:46:58
+user_3320,wishlist,Panam Alfa,26,7.7,mobile,Safari,Chihuahua,2022-10-30 03:06:11
+user_8584,agregar_carrito,Barracuda,27,15.2,mobile,Safari,Coahuila,2025-03-11 05:54:50
+user_1039,busqueda,RL15,16,6.6,desktop,Safari,CDMX,2023-11-05 07:29:29
+user_4851,busqueda,Caimán,26,25.0,desktop,Edge,Hidalgo,2022-09-25 10:01:20
+user_6033,click_producto,Vaivén,15,22.5,mobile,Edge,EdoMex,2021-09-08 11:43:12
+user_2012,busqueda,Barracuda,26,7.3,desktop,Edge,Morelos,2023-10-26 16:07:43
+user_7412,compra_completada,Caimán,16,11.7,mobile,Samsung Internet,Morelos,2024-03-02 10:55:31
+user_6109,carrito_abandonado,084 Clásico,26,19.3,mobile,Edge,Chihuahua,2024-12-23 14:12:05
+user_7799,busqueda,Flip,22,29.6,tablet,Samsung Internet,Hidalgo,2022-04-13 12:42:55
+user_5991,compra_completada,Gran Prix,26,21.7,mobile,Edge,Chihuahua,2022-08-31 17:13:38
+user_6645,busqueda,Vaivén,24,22.5,mobile,Safari,Puebla,2022-01-01 10:57:00
+user_8606,carrito_abandonado,Panam Alfa,26,23.4,desktop,Edge,Morelos,2023-01-16 10:28:47
+user_6249,busqueda,Barracuda,18,25.9,desktop,Firefox,Morelos,2025-06-13 18:12:45
+user_6002,click_producto,Ultra,26,6.1,desktop,Chrome,Coahuila,2025-06-26 12:01:30
+user_2640,carrito_abandonado,Vital,25,10.1,desktop,Samsung Internet,Hidalgo,2023-06-20 12:45:13
+user_6883,compra_completada,Urbano,23,16.8,tablet,Safari,Coahuila,2021-05-25 11:15:02
+user_5076,click_producto,Flip,28,6.9,mobile,Samsung Internet,Coahuila,2024-08-23 02:14:31
+user_3170,carrito_abandonado,Caimán,25,23.2,desktop,Firefox,Quintana,2022-11-07 13:23:37
+user_3437,agregar_carrito,Vital,25,18.6,mobile,Safari,EdoMex,2024-07-21 05:02:13
+user_8646,agregar_carrito,084 Clásico,27,2.8,mobile,Edge,Nuevo,2021-09-21 02:19:12
+user_1131,busqueda,Barracuda,23,3.9,mobile,Samsung Internet,Chihuahua,2023-12-02 22:09:58
+user_7233,carrito_abandonado,Urbano,17,7.7,mobile,Samsung Internet,Chihuahua,2022-11-26 08:13:51
+user_2853,click_producto,Perestroika,25,27.6,mobile,Samsung Internet,Chihuahua,2023-04-01 22:23:13
+user_7166,busqueda,Perestroika,25,11.2,mobile,Edge,Quintana,2024-03-29 08:16:28
+user_3246,busqueda,Gran Prix,18,19.8,mobile,Chrome,CDMX,2026-04-24 20:54:21
+user_1498,agregar_carrito,Ultra,16,0.9,mobile,Edge,EdoMex,2025-07-18 13:42:25
+user_3266,carrito_abandonado,RL15,25,17.2,mobile,Edge,EdoMex,2023-04-18 10:19:12
+user_1139,carrito_abandonado,Vaivén,25,6.3,mobile,Edge,Nuevo,2025-02-17 07:31:03
+user_7835,carrito_abandonado,084 Diamante,20,7.8,desktop,Edge,Michoacan,2022-05-03 11:03:02
+user_4746,compra_completada,SuperFaro,28,8.7,mobile,Safari,Morelos,2022-03-19 05:59:18
+user_5781,busqueda,Vital,18,11.6,tablet,Firefox,Morelos,2022-09-30 15:49:16
+user_2835,busqueda,Urbano,27,6.5,desktop,Samsung Internet,Chihuahua,2022-07-14 06:41:14
+user_7767,click_producto,Panam Alfa,24,21.9,desktop,Firefox,CDMX,2022-06-21 21:20:45
+user_6828,click_producto,SuperFaro,21,17.0,mobile,Edge,Michoacan,2026-02-19 06:00:58
+user_3188,carrito_abandonado,SuperFaro,25,5.3,mobile,Samsung Internet,Nuevo,2021-07-20 08:21:42
+user_9899,busqueda,Barracuda,25,20.9,mobile,Firefox,Coahuila,2025-01-27 21:41:19
+user_3000,busqueda,084 Diamante,26,18.0,mobile,Chrome,Nuevo,2025-07-27 06:05:19
+user_8299,click_producto,Ultra,27,17.2,desktop,Chrome,Michoacan,2024-06-20 00:06:15
+user_8211,carrito_abandonado,RL15,25,4.3,desktop,Samsung Internet,Coahuila,2025-01-02 15:55:55
+user_4521,busqueda,Flip,22,27.8,desktop,Chrome,CDMX,2021-07-10 14:10:53
+user_3094,agregar_carrito,Gran Prix,26,18.0,desktop,Safari,Michoacan,2025-10-25 10:41:22
+user_7558,agregar_carrito,Perestroika,23,14.9,desktop,Chrome,Coahuila,2024-06-25 00:21:10
+user_6878,busqueda,Gran Prix,26,25.3,desktop,Chrome,EdoMex,2025-12-21 07:56:18
+user_2556,carrito_abandonado,084 Diamante,19,10.9,mobile,Safari,Michoacan,2022-04-03 03:11:07
+user_4213,click_producto,Barracuda,25,19.1,mobile,Chrome,Michoacan,2024-11-28 09:41:56
+user_8024,agregar_carrito,Barracuda,19,15.1,mobile,Chrome,Nuevo,2025-05-18 09:17:15
+user_2121,busqueda,Urbano,24,21.0,mobile,Samsung Internet,Chihuahua,2021-08-19 23:28:36
+user_1924,compra_completada,Ultra,27,23.3,tablet,Firefox,Morelos,2023-09-21 07:14:34
+user_3605,carrito_abandonado,SuperFaro,18,13.0,mobile,Safari,Chihuahua,2025-01-22 07:00:39
+user_8052,busqueda,Panam Alfa,17,18.2,mobile,Samsung Internet,Morelos,2026-02-02 04:42:42
+user_9741,agregar_carrito,SuperFaro,27,5.0,desktop,Edge,Michoacan,2024-12-09 16:25:10
+user_2685,click_producto,RL15,24,23.8,mobile,Samsung Internet,Nuevo,2021-12-01 18:05:13
+user_6795,busqueda,RL15,22,18.0,desktop,Safari,Puebla,2021-11-26 06:36:45
+user_6140,wishlist,RL15,23,17.2,mobile,Chrome,Morelos,2022-02-02 20:05:36
+user_5679,carrito_abandonado,Vital,20,23.1,mobile,Firefox,Morelos,2023-08-02 04:45:14
+user_9878,click_producto,084,18,22.6,mobile,Samsung Internet,CDMX,2024-05-22 22:33:04
+user_7441,carrito_abandonado,084,25,22.6,mobile,Safari,EdoMex,2025-05-21 09:25:50
+user_7051,carrito_abandonado,Flip,27,4.8,desktop,Edge,Michoacan,2024-10-05 15:53:41
+user_7536,busqueda,084 Campeón,26,22.2,mobile,Samsung Internet,Puebla,2025-08-30 07:54:53
+user_8172,busqueda,Barracuda,25,20.6,tablet,Firefox,EdoMex,2023-06-02 11:28:33
+user_1485,busqueda,Barracuda,24,24.5,desktop,Edge,Nuevo,2022-07-09 01:33:49
+user_8682,compra_completada,084 Diamante,23,9.2,mobile,Firefox,Chihuahua,2022-05-18 18:00:43
+user_9215,busqueda,RL15,15,22.9,desktop,Safari,EdoMex,2021-07-21 16:30:18
+user_8103,busqueda,Flip,25,10.9,desktop,Edge,Morelos,2022-09-23 02:02:01
+user_1913,click_producto,084 Campeón,17,27.2,mobile,Edge,Morelos,2022-01-31 03:33:44
+user_8007,click_producto,RL15,26,20.4,mobile,Firefox,Coahuila,2026-03-15 00:25:53
+user_7988,busqueda,084 Campeón,25,18.7,mobile,Safari,Coahuila,2022-12-09 02:54:44
+user_7315,carrito_abandonado,Ultra,23,26.0,mobile,Firefox,Chihuahua,2023-01-08 08:09:36
+user_3959,agregar_carrito,084,25,25.2,mobile,Edge,Puebla,2025-02-21 18:34:17
+user_5645,click_producto,Urbano,25,23.7,mobile,Chrome,CDMX,2025-12-28 21:27:00
+user_2101,agregar_carrito,Panam Alfa,18,15.7,mobile,Safari,Puebla,2024-07-10 15:18:35
+user_2994,agregar_carrito,Panam Alfa,25,17.2,mobile,Samsung Internet,EdoMex,2026-02-02 11:11:34
+user_2733,wishlist,SuperFaro,29,4.3,mobile,Chrome,Chihuahua,2023-08-02 21:59:11
+user_9597,wishlist,Perestroika,23,14.0,desktop,Chrome,Puebla,2025-05-31 12:05:00
+user_1524,wishlist,Caimán,23,20.7,mobile,Safari,Coahuila,2021-12-01 09:09:49
+user_7741,busqueda,084 Clásico,22,20.7,mobile,Safari,Puebla,2022-12-05 03:25:44
+user_2758,compra_completada,RL15,25,10.4,desktop,Edge,Nuevo,2026-04-20 08:50:18
+user_4291,busqueda,084 Clásico,22,23.1,mobile,Firefox,Quintana,2024-11-11 17:22:13
+user_5030,busqueda,Flip,18,29.2,desktop,Edge,Coahuila,2022-05-02 17:10:33
+user_6646,click_producto,Vital,25,13.0,mobile,Chrome,Puebla,2026-02-09 14:33:08
+user_3089,click_producto,Caimán,24,10.5,mobile,Samsung Internet,Chihuahua,2021-09-08 07:11:29
+user_8467,busqueda,084 Diamante,26,7.9,desktop,Edge,Coahuila,2023-04-29 08:28:30
+user_9765,busqueda,Urbano,18,7.4,mobile,Safari,EdoMex,2023-01-26 18:20:57
+user_5640,click_producto,SuperFaro,28,18.0,desktop,Samsung Internet,Nuevo,2022-08-08 16:46:32
+user_6337,click_producto,Barracuda,26,9.8,desktop,Samsung Internet,Coahuila,2023-11-26 21:59:31
+user_2882,click_producto,SuperFaro,17,29.4,desktop,Chrome,Coahuila,2022-06-25 16:00:14
+user_6405,compra_completada,SuperFaro,22,8.7,mobile,Firefox,CDMX,2024-09-02 16:13:05
+user_4570,carrito_abandonado,Flip,19,9.7,desktop,Firefox,CDMX,2021-06-11 13:26:37
+user_9936,carrito_abandonado,Caimán,27,12.8,mobile,Edge,EdoMex,2024-07-06 02:34:15
+user_9937,click_producto,Ultra,20,26.6,mobile,Firefox,Chihuahua,2021-11-10 04:15:45
+user_3708,click_producto,Vital,22,15.8,desktop,Safari,Hidalgo,2025-09-08 21:45:36
+user_2429,busqueda,Gran Prix,25,24.9,mobile,Samsung Internet,Nuevo,2021-06-14 13:54:24
+user_7907,carrito_abandonado,Gran Prix,26,5.1,desktop,Chrome,Morelos,2022-04-23 02:13:43
+user_9172,agregar_carrito,Vital,27,7.4,tablet,Edge,Nuevo,2025-10-23 13:02:53
+user_8440,busqueda,084 Diamante,19,22.2,tablet,Samsung Internet,Hidalgo,2023-08-11 20:47:50
+user_4325,agregar_carrito,084 Diamante,25,23.0,mobile,Chrome,CDMX,2026-05-01 02:15:48
+user_4569,agregar_carrito,Ultra,15,22.2,mobile,Samsung Internet,Coahuila,2025-11-11 01:10:24
+user_8820,carrito_abandonado,084 Diamante,25,14.8,desktop,Safari,CDMX,2021-06-04 07:14:58
+user_4459,busqueda,084,26,12.1,desktop,Firefox,Chihuahua,2023-12-06 05:45:56
+user_9217,compra_completada,SuperFaro,26,15.5,desktop,Samsung Internet,Nuevo,2022-07-07 14:51:18
+user_9617,click_producto,Barracuda,22,15.3,desktop,Edge,Quintana,2024-01-25 12:36:37
+user_6824,click_producto,SuperFaro,18,9.1,mobile,Edge,Quintana,2023-06-03 20:35:49
+user_5812,click_producto,084 Campeón,22,17.9,desktop,Safari,EdoMex,2025-06-08 07:11:57
+user_6805,busqueda,Urbano,25,23.0,desktop,Edge,Morelos,2023-03-02 07:03:12
+user_9523,compra_completada,Barracuda,15,1.1,mobile,Edge,Michoacan,2022-12-14 22:49:08
+user_1990,agregar_carrito,084 Campeón,22,27.5,mobile,Chrome,Hidalgo,2025-05-21 19:25:29
+user_3759,busqueda,Perestroika,28,11.5,mobile,Safari,EdoMex,2025-06-01 17:35:18
+user_6526,busqueda,Barracuda,23,14.6,mobile,Samsung Internet,Morelos,2025-06-03 03:48:27
+user_2157,wishlist,Ultra,24,28.3,desktop,Safari,Quintana,2023-03-04 00:55:01
+user_8829,busqueda,Flip,17,28.7,mobile,Edge,Chihuahua,2022-03-11 12:16:03
+user_3350,agregar_carrito,Perestroika,22,11.6,mobile,Safari,Michoacan,2022-10-25 11:12:09
+user_5915,agregar_carrito,RL15,26,29.8,desktop,Chrome,Michoacan,2024-08-24 19:32:27
+user_4233,compra_completada,Urbano,24,9.5,desktop,Samsung Internet,Quintana,2026-01-19 23:52:56
+user_6942,busqueda,084 Clásico,15,29.6,mobile,Samsung Internet,Michoacan,2025-12-14 20:42:27
+user_1697,click_producto,084,27,8.8,tablet,Edge,CDMX,2021-12-14 02:51:23
+user_4521,click_producto,Ultra,15,7.7,mobile,Safari,EdoMex,2022-08-04 17:42:59
+user_2271,busqueda,Panam Alfa,26,9.1,mobile,Chrome,Puebla,2022-06-06 05:16:52
+user_8902,compra_completada,RL15,18,2.7,mobile,Edge,Quintana,2025-09-07 21:17:33
+user_5822,carrito_abandonado,Vaivén,18,24.6,mobile,Edge,Hidalgo,2022-08-02 12:47:29
+user_9879,carrito_abandonado,084 Clásico,25,26.9,desktop,Firefox,CDMX,2021-12-05 00:47:18
+user_9033,agregar_carrito,Caimán,18,7.1,mobile,Chrome,Hidalgo,2025-05-30 21:48:55
+user_7381,carrito_abandonado,Caimán,22,29.2,mobile,Samsung Internet,Morelos,2025-09-18 19:30:58
+user_7425,busqueda,084 Clásico,16,14.8,tablet,Firefox,Puebla,2021-12-19 07:29:47
+user_8102,carrito_abandonado,Caimán,16,23.2,desktop,Edge,Puebla,2026-03-01 18:32:35
+user_7095,agregar_carrito,Perestroika,27,20.4,tablet,Chrome,Coahuila,2022-10-01 14:08:55
+user_2078,agregar_carrito,Urbano,25,19.8,mobile,Chrome,Nuevo,2023-06-14 09:29:55
+user_7220,carrito_abandonado,SuperFaro,18,25.9,tablet,Chrome,CDMX,2024-11-12 12:13:27
+user_3080,busqueda,Perestroika,28,13.0,mobile,Firefox,Hidalgo,2024-06-04 14:46:19
+user_6518,busqueda,Barracuda,22,0.5,tablet,Safari,Quintana,2023-04-07 21:30:27
+user_9930,click_producto,084 Campeón,28,23.6,mobile,Firefox,Quintana,2023-08-01 05:51:12
+user_6038,carrito_abandonado,084 Clásico,25,25.7,mobile,Firefox,Quintana,2024-10-21 09:31:51
+user_9375,click_producto,Ultra,24,6.2,mobile,Safari,Quintana,2021-11-09 04:19:46
+user_3313,busqueda,RL15,24,1.3,desktop,Edge,Michoacan,2025-01-08 13:25:32
+user_7097,wishlist,SuperFaro,24,23.7,mobile,Edge,Morelos,2021-09-18 02:18:24
+user_6313,busqueda,Panam Alfa,21,28.6,mobile,Chrome,Puebla,2024-01-28 12:04:22
+user_2828,busqueda,Panam Alfa,18,29.4,mobile,Firefox,Chihuahua,2024-09-14 20:26:45
+user_3263,busqueda,RL15,26,7.5,desktop,Chrome,Quintana,2021-08-01 17:39:24
+user_5607,carrito_abandonado,Flip,24,22.3,mobile,Safari,Chihuahua,2022-12-27 04:30:29
+user_5693,carrito_abandonado,Panam Alfa,25,13.0,mobile,Firefox,Nuevo,2024-07-11 18:33:14
+user_8182,click_producto,Urbano,27,5.0,desktop,Samsung Internet,CDMX,2024-09-02 21:10:28
+user_8885,wishlist,084 Campeón,20,8.0,mobile,Samsung Internet,Morelos,2025-03-05 08:25:08
+user_5470,busqueda,Perestroika,23,7.6,mobile,Edge,Quintana,2023-04-05 23:12:11
+user_8837,agregar_carrito,Vital,26,18.6,mobile,Samsung Internet,EdoMex,2022-06-07 08:55:40
+user_4209,click_producto,Caimán,25,6.7,desktop,Edge,Puebla,2025-06-05 02:53:29
+user_9672,busqueda,084 Diamante,26,6.7,desktop,Edge,Puebla,2025-09-06 21:23:10
+user_2679,compra_completada,RL15,24,22.4,mobile,Chrome,Nuevo,2024-10-21 19:59:50
+user_4860,click_producto,SuperFaro,21,19.1,mobile,Samsung Internet,Quintana,2022-09-08 10:48:58
+user_9565,busqueda,Ultra,25,18.1,mobile,Safari,EdoMex,2023-05-27 14:26:48
+user_5740,busqueda,Gran Prix,16,12.1,mobile,Safari,Morelos,2025-10-13 06:38:14
+user_8109,busqueda,084 Clásico,24,13.8,mobile,Edge,Puebla,2023-10-18 09:51:39
+user_7771,wishlist,Vital,27,14.7,mobile,Chrome,Quintana,2025-07-30 07:44:46
+user_1743,click_producto,Perestroika,19,13.2,desktop,Samsung Internet,Quintana,2021-12-26 23:19:26
+user_4730,busqueda,Gran Prix,18,14.8,mobile,Edge,Coahuila,2025-01-11 06:20:02
+user_5199,busqueda,084 Diamante,17,7.4,mobile,Samsung Internet,Nuevo,2021-08-11 19:54:09
+user_9160,busqueda,Gran Prix,19,16.3,desktop,Chrome,Quintana,2024-11-24 08:09:22
+user_9790,carrito_abandonado,RL15,16,4.7,mobile,Edge,EdoMex,2021-11-29 21:00:23
+user_6969,wishlist,Vaivén,16,12.4,mobile,Samsung Internet,Michoacan,2026-02-15 21:10:51
+user_8795,carrito_abandonado,RL15,30,15.9,mobile,Edge,Coahuila,2022-01-26 09:06:51
+user_5899,carrito_abandonado,Gran Prix,26,26.3,mobile,Samsung Internet,Quintana,2022-08-03 00:48:34
+user_9371,click_producto,Vaivén,25,29.3,mobile,Firefox,CDMX,2021-09-08 21:34:00
+user_6353,busqueda,Ultra,24,9.7,desktop,Safari,Michoacan,2024-06-28 20:16:46
+user_8991,click_producto,Vital,25,28.6,mobile,Edge,Hidalgo,2023-09-16 14:26:32
+user_7418,busqueda,084 Campeón,27,21.8,mobile,Edge,Nuevo,2024-09-10 14:55:32
+user_3333,busqueda,Panam Alfa,26,9.6,desktop,Chrome,Michoacan,2023-09-27 07:14:56
+user_4964,busqueda,084 Campeón,16,15.2,mobile,Firefox,CDMX,2025-04-19 22:56:46
+user_8802,carrito_abandonado,SuperFaro,24,20.9,desktop,Safari,Puebla,2024-04-02 17:34:39
+user_1634,compra_completada,084 Diamante,15,7.6,mobile,Samsung Internet,CDMX,2023-12-06 17:09:17
+user_2917,compra_completada,084 Clásico,18,28.7,mobile,Firefox,CDMX,2025-11-25 20:58:24
+user_1895,busqueda,084 Clásico,22,11.3,desktop,Firefox,Quintana,2024-02-18 00:13:06
+user_4588,compra_completada,Vaivén,22,26.1,mobile,Firefox,Morelos,2023-12-21 03:30:34
+user_6549,busqueda,Vaivén,18,9.5,tablet,Samsung Internet,Hidalgo,2025-05-06 17:57:24
+user_5581,carrito_abandonado,Urbano,22,23.3,mobile,Chrome,Nuevo,2025-09-12 18:30:51
+user_7586,agregar_carrito,Urbano,21,2.0,mobile,Firefox,Morelos,2025-07-01 06:51:35
+user_6359,agregar_carrito,084 Campeón,23,10.8,desktop,Edge,Quintana,2024-08-19 08:01:51
+user_7051,carrito_abandonado,084,26,24.8,mobile,Chrome,Chihuahua,2026-02-11 05:24:27
+user_3296,click_producto,SuperFaro,20,21.3,mobile,Chrome,Chihuahua,2026-03-26 02:26:33
+user_8428,carrito_abandonado,084,25,17.5,mobile,Samsung Internet,Coahuila,2022-07-08 06:10:54
+user_2134,busqueda,Panam Alfa,25,26.7,desktop,Samsung Internet,Quintana,2025-05-04 22:25:36
+user_7496,busqueda,Vital,16,19.4,mobile,Chrome,Michoacan,2024-03-20 00:56:23
+user_3367,busqueda,Gran Prix,15,11.8,mobile,Safari,Chihuahua,2022-02-14 11:19:15
+user_2572,busqueda,Caimán,17,21.2,mobile,Samsung Internet,Quintana,2025-07-07 03:38:28
+user_7898,click_producto,084 Clásico,25,8.5,tablet,Samsung Internet,EdoMex,2024-04-05 14:43:43
+user_9906,compra_completada,Caimán,25,9.6,mobile,Safari,Nuevo,2025-11-17 22:41:39
+user_1842,agregar_carrito,Gran Prix,16,14.0,mobile,Chrome,Michoacan,2025-09-30 00:55:14
+user_7539,click_producto,Vital,20,23.7,desktop,Firefox,Morelos,2021-11-19 07:30:49
+user_1111,agregar_carrito,Barracuda,15,12.0,mobile,Chrome,Chihuahua,2023-06-28 10:54:58
+user_3269,carrito_abandonado,Vital,26,2.1,mobile,Firefox,Morelos,2023-08-19 02:05:41
+user_8090,carrito_abandonado,Gran Prix,19,10.8,mobile,Samsung Internet,Michoacan,2023-08-28 12:44:32
+user_7104,agregar_carrito,Caimán,25,16.4,mobile,Edge,Quintana,2023-10-22 12:14:02
+user_5073,agregar_carrito,Barracuda,28,7.2,mobile,Samsung Internet,Quintana,2025-09-19 05:27:28
+user_1682,carrito_abandonado,Flip,26,2.9,desktop,Samsung Internet,Morelos,2023-04-15 15:56:06
+user_1299,agregar_carrito,084,20,13.0,desktop,Edge,Chihuahua,2024-01-05 09:36:29
+user_6054,busqueda,Vital,12,3.5,desktop,Samsung Internet,CDMX,2024-02-08 22:13:57
+user_3142,click_producto,Caimán,27,4.4,mobile,Safari,Puebla,2023-05-21 14:50:51
+user_2786,carrito_abandonado,Vital,19,27.2,mobile,Chrome,Hidalgo,2026-03-01 07:55:07
+user_7061,wishlist,Vital,26,27.7,desktop,Safari,Hidalgo,2022-12-23 00:39:24
+user_7322,busqueda,Urbano,26,5.8,mobile,Safari,Michoacan,2024-04-24 13:48:56
+user_7829,click_producto,RL15,24,16.2,desktop,Firefox,Puebla,2023-12-15 13:43:20
+user_1667,busqueda,Gran Prix,26,17.5,mobile,Safari,Puebla,2022-12-24 19:54:06
+user_2897,click_producto,Gran Prix,28,2.1,mobile,Firefox,Hidalgo,2024-03-13 14:05:03
+user_4618,agregar_carrito,Flip,22,3.6,mobile,Edge,Nuevo,2025-10-02 03:11:27
+user_5484,agregar_carrito,084 Diamante,27,26.5,tablet,Chrome,Michoacan,2024-11-06 09:22:38
+user_2870,wishlist,Ultra,25,3.2,mobile,Samsung Internet,Michoacan,2023-09-20 02:54:10
+user_5137,busqueda,084 Clásico,16,26.1,mobile,Firefox,Morelos,2023-08-05 17:21:13
+user_3318,compra_completada,RL15,23,16.8,mobile,Firefox,Michoacan,2024-12-14 15:11:34
+user_4849,carrito_abandonado,RL15,18,28.0,mobile,Edge,Michoacan,2022-12-13 23:23:17
+user_6770,agregar_carrito,084 Campeón,21,7.2,mobile,Safari,EdoMex,2022-07-14 12:04:58
+user_2675,carrito_abandonado,Vaivén,17,13.2,mobile,Firefox,Quintana,2023-11-10 08:43:19
+user_2764,click_producto,RL15,19,11.9,mobile,Samsung Internet,EdoMex,2022-12-18 23:40:56
+user_7617,busqueda,Flip,25,2.3,mobile,Safari,EdoMex,2024-06-03 21:12:23
+user_2420,agregar_carrito,084 Clásico,22,2.8,tablet,Firefox,Morelos,2025-12-19 03:05:34
+user_2862,carrito_abandonado,Perestroika,25,5.3,mobile,Edge,EdoMex,2026-01-19 14:14:14
+user_5867,click_producto,Urbano,24,22.6,mobile,Samsung Internet,Chihuahua,2024-01-30 12:54:23
+user_8906,carrito_abandonado,084 Clásico,23,29.2,mobile,Safari,Coahuila,2023-02-02 00:45:50
+user_6672,click_producto,Flip,24,15.9,desktop,Firefox,EdoMex,2025-04-14 07:29:09
+user_2968,busqueda,Flip,24,20.6,mobile,Samsung Internet,Nuevo,2026-04-19 05:08:18
+user_6037,click_producto,084,27,6.3,mobile,Samsung Internet,Morelos,2025-10-09 17:11:58
+user_2709,carrito_abandonado,Gran Prix,25,13.5,mobile,Chrome,Morelos,2022-10-28 13:35:32
+user_3043,click_producto,Vital,22,8.2,mobile,Chrome,Puebla,2022-05-06 22:39:17
+user_1615,agregar_carrito,Ultra,27,2.8,desktop,Safari,Hidalgo,2023-10-30 07:42:10
+user_2711,click_producto,Panam Alfa,26,13.2,mobile,Firefox,CDMX,2023-06-14 06:27:53
+user_2092,wishlist,084 Clásico,26,1.9,desktop,Edge,Hidalgo,2023-02-05 23:24:46
+user_2921,click_producto,Flip,19,7.7,desktop,Firefox,Coahuila,2024-03-20 23:04:17
+user_1328,busqueda,Gran Prix,25,3.3,mobile,Chrome,Morelos,2022-11-27 14:03:34
+user_5895,wishlist,Gran Prix,24,7.2,mobile,Samsung Internet,Hidalgo,2025-07-29 18:29:19
+user_1118,carrito_abandonado,084 Clásico,18,2.6,mobile,Chrome,CDMX,2024-07-15 20:42:39
+user_1094,click_producto,Gran Prix,26,3.5,tablet,Firefox,Chihuahua,2023-06-09 22:34:17
+user_6105,agregar_carrito,084 Diamante,18,25.8,desktop,Firefox,Puebla,2024-09-05 12:51:14
+user_4103,click_producto,Urbano,26,1.6,desktop,Safari,Quintana,2025-06-20 14:02:32
+user_7456,click_producto,084 Clásico,25,15.8,mobile,Safari,Puebla,2023-08-26 22:39:40
+user_9496,compra_completada,RL15,23,9.7,mobile,Edge,Coahuila,2026-03-08 02:03:29
+user_4201,agregar_carrito,084,24,18.3,mobile,Chrome,Hidalgo,2025-04-03 02:12:53
+user_7310,busqueda,Flip,20,1.1,mobile,Chrome,Hidalgo,2025-12-02 10:52:39
+user_6859,carrito_abandonado,084 Diamante,25,18.6,mobile,Samsung Internet,Nuevo,2024-04-02 11:22:26
+user_4780,busqueda,084,15,19.3,mobile,Safari,Nuevo,2022-08-05 10:40:55
+user_4003,busqueda,SuperFaro,15,13.1,desktop,Chrome,Hidalgo,2023-07-08 04:30:45
+user_4400,busqueda,RL15,23,10.3,mobile,Edge,EdoMex,2021-12-17 15:14:34
+user_6843,busqueda,Panam Alfa,19,22.8,desktop,Firefox,Hidalgo,2023-07-01 09:12:47
+user_4375,busqueda,Gran Prix,26,28.9,mobile,Safari,Hidalgo,2022-05-29 08:54:21
+user_7048,busqueda,Gran Prix,28,17.8,mobile,Edge,CDMX,2024-07-20 17:17:10
+user_7223,carrito_abandonado,084,26,18.9,mobile,Edge,Hidalgo,2026-01-12 16:43:07
+user_1181,carrito_abandonado,084 Clásico,19,21.1,mobile,Edge,Hidalgo,2024-09-10 01:01:41
+user_2493,carrito_abandonado,084 Clásico,29,13.3,mobile,Chrome,Coahuila,2021-05-17 22:23:51
+user_6909,compra_completada,Vaivén,23,1.7,mobile,Samsung Internet,Coahuila,2021-11-30 12:50:48
+user_3740,busqueda,Ultra,14,25.6,mobile,Samsung Internet,EdoMex,2022-12-15 18:17:09
+user_9810,agregar_carrito,Flip,26,9.4,desktop,Samsung Internet,Quintana,2023-07-08 10:51:41
+user_3739,busqueda,084 Clásico,25,8.7,mobile,Safari,Quintana,2025-07-23 20:48:30
+user_5436,agregar_carrito,Perestroika,26,11.3,mobile,Samsung Internet,Puebla,2025-03-20 16:11:31
+user_6457,wishlist,Urbano,27,13.1,mobile,Firefox,Nuevo,2026-01-12 13:47:36
+user_1954,busqueda,084,19,4.3,mobile,Safari,Puebla,2026-04-24 21:56:03
+user_9077,click_producto,Urbano,28,20.6,mobile,Chrome,Hidalgo,2023-09-15 16:14:19
+user_5706,carrito_abandonado,Urbano,23,10.4,desktop,Firefox,Nuevo,2025-09-11 18:32:16
+user_5727,agregar_carrito,Vital,27,26.6,tablet,Samsung Internet,Coahuila,2026-03-05 19:11:49
+user_6931,busqueda,Barracuda,16,18.9,mobile,Firefox,EdoMex,2024-12-04 05:01:56
+user_6564,busqueda,084 Clásico,28,15.0,desktop,Firefox,Morelos,2023-01-16 15:28:15
+user_7880,compra_completada,084,26,13.3,mobile,Samsung Internet,Quintana,2023-08-11 06:54:18
+user_3484,wishlist,Ultra,26,28.9,mobile,Firefox,Morelos,2021-10-13 05:06:12
+user_2726,busqueda,084 Campeón,24,2.8,desktop,Chrome,Coahuila,2024-12-26 14:57:16
+user_3941,compra_completada,Panam Alfa,16,10.5,mobile,Safari,Chihuahua,2025-07-06 18:59:45
+user_7840,agregar_carrito,Vital,18,5.0,mobile,Firefox,Chihuahua,2022-04-08 13:45:15
+user_5288,wishlist,Vaivén,28,7.3,mobile,Safari,Chihuahua,2025-05-26 19:22:16
+user_5832,busqueda,Urbano,28,3.6,mobile,Firefox,Michoacan,2025-01-25 00:42:40
+user_3042,carrito_abandonado,RL15,26,25.9,mobile,Samsung Internet,CDMX,2024-08-21 19:00:02
+user_2285,agregar_carrito,Gran Prix,24,3.5,mobile,Samsung Internet,Hidalgo,2024-01-05 16:20:43
+user_4050,busqueda,Vaivén,26,12.1,mobile,Firefox,Morelos,2022-05-13 21:14:06
+user_1665,busqueda,RL15,27,17.1,mobile,Chrome,Michoacan,2022-07-15 21:36:52
+user_8281,busqueda,Perestroika,18,6.4,mobile,Firefox,Hidalgo,2022-11-21 10:56:04
+user_6582,click_producto,Perestroika,24,28.2,desktop,Edge,Coahuila,2022-05-24 16:06:46
+user_7241,busqueda,Vaivén,26,10.2,mobile,Samsung Internet,EdoMex,2024-06-03 09:52:19
+user_1238,agregar_carrito,Caimán,25,29.4,mobile,Firefox,CDMX,2021-10-24 02:45:42
+user_8892,agregar_carrito,Caimán,24,17.3,mobile,Samsung Internet,Quintana,2021-09-12 06:32:57
+user_4560,agregar_carrito,084 Diamante,25,29.9,mobile,Samsung Internet,Hidalgo,2021-12-12 03:14:31
+user_8538,busqueda,084 Diamante,19,28.9,mobile,Chrome,CDMX,2023-09-16 11:57:03
+user_3326,busqueda,Gran Prix,25,15.1,desktop,Samsung Internet,Morelos,2022-04-06 15:42:23
+user_4567,compra_completada,Perestroika,17,6.5,mobile,Edge,CDMX,2026-01-05 21:13:03
+user_3139,click_producto,RL15,25,13.3,mobile,Samsung Internet,Michoacan,2025-11-25 15:52:46
+user_9836,carrito_abandonado,Ultra,17,3.1,mobile,Chrome,CDMX,2023-08-19 17:12:26
+user_7637,click_producto,084 Clásico,28,18.7,desktop,Safari,Quintana,2022-06-07 16:04:05
+user_7595,carrito_abandonado,Barracuda,28,2.8,mobile,Edge,Nuevo,2022-03-01 16:54:36
+user_2087,agregar_carrito,Urbano,24,29.9,desktop,Edge,Michoacan,2024-12-12 19:37:46
+user_7788,busqueda,Flip,24,18.5,mobile,Firefox,Puebla,2023-02-03 08:41:50
+user_5905,busqueda,Vaivén,17,8.2,mobile,Firefox,Coahuila,2021-09-08 20:44:02
+user_2661,busqueda,Caimán,18,4.6,tablet,Chrome,Quintana,2026-03-03 01:06:36
+user_9391,busqueda,084 Campeón,25,1.9,mobile,Samsung Internet,Quintana,2021-11-09 19:45:18
+user_2891,click_producto,Barracuda,23,9.1,mobile,Chrome,Puebla,2021-06-07 09:42:39
+user_6712,busqueda,084 Clásico,25,20.4,mobile,Firefox,Coahuila,2022-04-18 23:45:43
+user_7578,compra_completada,Caimán,18,26.7,mobile,Edge,Hidalgo,2024-03-21 16:30:23
+user_8409,busqueda,Ultra,27,21.1,desktop,Safari,Hidalgo,2023-09-15 22:21:49
+user_6579,busqueda,RL15,21,9.0,mobile,Samsung Internet,Chihuahua,2023-10-07 17:23:16
+user_8430,busqueda,Ultra,17,20.3,desktop,Edge,Puebla,2025-01-02 03:11:42
+user_6528,carrito_abandonado,Vaivén,24,24.5,tablet,Samsung Internet,Coahuila,2023-05-25 13:12:31
+user_1313,agregar_carrito,084 Diamante,17,9.5,tablet,Edge,Morelos,2023-04-23 21:14:34
+user_3014,compra_completada,Vaivén,23,16.3,mobile,Edge,CDMX,2023-03-23 15:48:22
+user_3644,busqueda,Perestroika,24,1.0,mobile,Safari,Michoacan,2026-03-15 15:04:53
+user_2663,carrito_abandonado,Flip,24,2.7,mobile,Safari,EdoMex,2023-08-14 12:02:52
+user_2921,click_producto,Panam Alfa,26,10.8,mobile,Edge,Quintana,2026-01-18 16:48:26
+user_8765,busqueda,RL15,16,27.0,mobile,Edge,Michoacan,2024-05-10 05:29:33
+user_8549,busqueda,Gran Prix,19,3.0,mobile,Chrome,Michoacan,2023-05-12 03:14:23
+user_4775,busqueda,084,20,27.8,mobile,Edge,Quintana,2022-08-22 02:34:29
+user_7811,busqueda,Ultra,23,2.5,desktop,Safari,Chihuahua,2021-07-18 02:21:57
+user_2644,click_producto,Caimán,23,18.5,tablet,Firefox,Coahuila,2026-01-22 02:24:56
+user_3310,click_producto,Caimán,16,11.4,desktop,Chrome,Quintana,2026-04-26 13:55:53
+user_1480,wishlist,Barracuda,24,4.0,mobile,Edge,Michoacan,2024-01-16 18:58:37
+user_4211,compra_completada,RL15,27,3.1,mobile,Edge,EdoMex,2023-03-21 21:39:16
+user_6385,busqueda,Barracuda,25,5.9,desktop,Safari,EdoMex,2022-10-23 16:16:48
+user_3280,compra_completada,Urbano,26,15.6,mobile,Safari,Quintana,2024-08-10 13:37:06
+user_8321,carrito_abandonado,Urbano,26,18.1,mobile,Edge,Nuevo,2023-01-28 22:05:35
+user_6165,click_producto,Vital,23,4.0,mobile,Chrome,Morelos,2025-12-15 19:42:25
+user_5820,busqueda,Caimán,17,4.7,desktop,Chrome,Michoacan,2021-06-30 23:15:00
+user_5602,busqueda,Barracuda,17,14.1,mobile,Edge,Michoacan,2022-09-18 02:45:48
+user_1238,busqueda,Urbano,18,19.2,tablet,Firefox,Quintana,2022-02-15 01:29:33
+user_2884,busqueda,084,22,4.2,desktop,Edge,EdoMex,2026-03-17 13:32:55
+user_7773,compra_completada,Vaivén,24,5.0,mobile,Edge,Hidalgo,2023-08-23 19:15:01
+user_6132,compra_completada,Urbano,25,12.8,mobile,Edge,Quintana,2025-06-26 12:44:34
+user_8102,click_producto,Barracuda,24,19.1,desktop,Edge,Quintana,2022-05-29 18:53:54
+user_9418,click_producto,Urbano,15,23.7,desktop,Safari,EdoMex,2022-03-01 01:28:40
+user_3172,click_producto,Panam Alfa,24,25.0,mobile,Edge,Nuevo,2023-06-11 16:15:50
+user_2976,agregar_carrito,RL15,15,25.8,mobile,Chrome,Puebla,2024-10-21 10:19:53
+user_6764,busqueda,Perestroika,27,28.6,tablet,Chrome,EdoMex,2023-03-25 07:45:52
+user_9924,busqueda,Flip,24,4.9,mobile,Edge,Puebla,2023-05-29 17:26:31
+user_4013,carrito_abandonado,Perestroika,25,21.5,mobile,Chrome,CDMX,2025-04-04 10:05:00
+user_7231,click_producto,Gran Prix,23,18.8,mobile,Firefox,Nuevo,2022-10-04 09:59:27
+user_9647,agregar_carrito,Flip,25,1.8,mobile,Safari,CDMX,2022-10-28 23:05:56
+user_4646,busqueda,SuperFaro,26,24.6,tablet,Chrome,Chihuahua,2023-03-23 08:38:55
+user_4014,busqueda,SuperFaro,16,25.0,mobile,Safari,Puebla,2023-09-23 01:37:53
+user_6941,agregar_carrito,Flip,23,24.7,desktop,Safari,Quintana,2022-04-06 10:08:07
+user_3524,wishlist,084 Campeón,24,4.8,mobile,Safari,EdoMex,2021-05-17 15:02:13
+user_7089,carrito_abandonado,Panam Alfa,15,17.5,mobile,Firefox,Chihuahua,2023-05-19 14:49:25
+user_2729,agregar_carrito,Vital,26,29.8,mobile,Edge,EdoMex,2023-12-22 05:47:04
+user_9864,carrito_abandonado,Perestroika,26,13.5,tablet,Edge,Nuevo,2025-01-18 21:09:00
+user_9740,carrito_abandonado,Vital,22,19.2,desktop,Safari,Coahuila,2026-04-12 15:41:48
+user_7278,carrito_abandonado,Caimán,27,9.5,desktop,Samsung Internet,Morelos,2024-08-21 05:28:27
+user_6551,click_producto,Urbano,19,12.4,desktop,Edge,Puebla,2025-02-21 23:16:33
+user_2058,click_producto,Barracuda,22,18.6,mobile,Samsung Internet,Nuevo,2023-03-01 18:08:08
+user_3313,busqueda,084 Clásico,15,0.8,mobile,Firefox,EdoMex,2023-04-29 03:26:13
+user_4579,agregar_carrito,Barracuda,24,17.6,mobile,Chrome,Nuevo,2022-03-15 14:39:49
+user_7720,busqueda,Urbano,19,10.5,mobile,Edge,Hidalgo,2022-01-17 12:56:11
+user_6566,busqueda,Barracuda,18,25.5,mobile,Chrome,Quintana,2024-10-28 01:20:07
+user_3721,agregar_carrito,084,16,15.8,tablet,Firefox,Chihuahua,2025-02-15 15:44:56
+user_7706,busqueda,RL15,28,29.4,tablet,Safari,Hidalgo,2025-02-10 16:02:00
+user_1953,click_producto,Flip,24,3.9,desktop,Edge,EdoMex,2022-08-18 00:20:41
+user_3174,busqueda,084 Diamante,16,0.9,desktop,Firefox,Nuevo,2024-08-14 07:21:33
+user_5821,busqueda,Vital,23,27.9,mobile,Firefox,Quintana,2024-07-31 21:46:03
+user_5386,busqueda,Flip,17,28.0,desktop,Safari,Puebla,2021-07-18 07:46:25
+user_6733,busqueda,Caimán,19,15.0,mobile,Chrome,Morelos,2025-12-14 10:24:08
+user_5634,carrito_abandonado,Ultra,23,12.6,mobile,Edge,Chihuahua,2023-08-29 23:56:41
+user_4114,busqueda,084 Campeón,25,3.5,mobile,Safari,Quintana,2023-02-04 02:17:45
+user_2654,compra_completada,Flip,25,25.3,mobile,Samsung Internet,Chihuahua,2025-07-12 21:09:42
+user_2978,carrito_abandonado,084 Campeón,17,11.8,mobile,Firefox,EdoMex,2025-01-23 09:47:32
+user_6535,agregar_carrito,RL15,26,15.6,mobile,Firefox,CDMX,2025-10-21 14:14:25
+user_9812,busqueda,Panam Alfa,27,10.4,mobile,Chrome,Morelos,2024-04-05 05:41:06
+user_9113,carrito_abandonado,RL15,18,13.9,mobile,Samsung Internet,Coahuila,2024-02-02 10:48:49
+user_8588,click_producto,Ultra,27,15.6,desktop,Edge,Chihuahua,2021-07-11 03:28:10
+user_9933,busqueda,Urbano,23,16.2,mobile,Edge,CDMX,2025-08-05 05:19:15
+user_6703,wishlist,084,24,23.0,desktop,Edge,EdoMex,2025-08-31 17:09:13
+user_1027,wishlist,084,15,15.8,desktop,Safari,Chihuahua,2024-08-24 22:45:25
+user_2288,agregar_carrito,Vaivén,26,26.6,mobile,Firefox,EdoMex,2025-02-09 14:49:25
+user_1342,busqueda,Barracuda,27,17.2,mobile,Samsung Internet,Hidalgo,2023-02-05 03:42:33
+user_3403,carrito_abandonado,Caimán,17,17.6,desktop,Chrome,CDMX,2024-07-09 12:46:43
+user_2498,agregar_carrito,Caimán,26,22.0,mobile,Firefox,Michoacan,2022-07-30 18:39:40
+user_1118,busqueda,084 Diamante,22,3.1,mobile,Chrome,EdoMex,2022-01-03 02:56:21
+user_1431,click_producto,RL15,25,2.6,mobile,Chrome,Morelos,2024-07-24 03:28:33
+user_7585,agregar_carrito,Ultra,22,9.7,desktop,Safari,CDMX,2022-10-12 22:13:58
+user_9555,click_producto,Barracuda,25,27.6,desktop,Samsung Internet,Chihuahua,2024-10-13 23:40:52
+user_9758,click_producto,RL15,22,7.2,mobile,Firefox,CDMX,2023-02-10 07:35:13
+user_6350,click_producto,Panam Alfa,28,9.6,desktop,Safari,Chihuahua,2023-03-15 20:42:12
+user_4644,carrito_abandonado,Caimán,25,19.7,mobile,Chrome,Quintana,2024-01-09 00:06:56
+user_2218,click_producto,Ultra,25,27.7,tablet,Edge,Coahuila,2024-05-09 08:10:15
+user_4173,busqueda,084,21,2.1,desktop,Edge,Puebla,2024-10-17 09:24:10
+user_7158,busqueda,Perestroika,18,21.1,desktop,Samsung Internet,Quintana,2023-09-06 12:16:43
+user_4530,carrito_abandonado,Ultra,22,27.7,desktop,Firefox,Nuevo,2023-06-19 16:05:56
+user_1645,carrito_abandonado,Gran Prix,24,3.1,desktop,Safari,Morelos,2023-10-27 21:22:12
+user_6204,click_producto,Gran Prix,29,27.3,mobile,Edge,Michoacan,2023-04-25 03:36:06
+user_7472,click_producto,Perestroika,16,14.0,desktop,Chrome,Chihuahua,2024-07-29 16:11:11
+user_2947,busqueda,SuperFaro,17,15.9,desktop,Firefox,Puebla,2025-05-06 03:07:42
+user_4141,carrito_abandonado,Caimán,28,17.9,mobile,Edge,Coahuila,2021-07-22 04:56:06
+user_6923,carrito_abandonado,Flip,16,14.1,mobile,Chrome,EdoMex,2026-02-20 22:09:32
+user_4072,click_producto,Ultra,25,25.3,mobile,Samsung Internet,Morelos,2023-06-05 02:10:52
+user_9462,carrito_abandonado,Urbano,27,24.7,mobile,Safari,Coahuila,2021-11-24 18:47:33
+user_9126,click_producto,Urbano,16,26.1,desktop,Chrome,Chihuahua,2025-03-12 20:40:41
+user_4939,busqueda,Urbano,16,0.9,mobile,Safari,Nuevo,2021-07-14 18:13:36
+user_7887,click_producto,Barracuda,22,27.6,desktop,Chrome,Chihuahua,2024-08-27 23:01:35
+user_5981,busqueda,Flip,23,22.2,mobile,Firefox,Nuevo,2026-03-18 20:35:10
+user_9982,click_producto,084 Campeón,23,18.5,mobile,Edge,Quintana,2024-04-14 05:34:58
+user_1113,busqueda,Urbano,24,25.8,desktop,Samsung Internet,Chihuahua,2024-05-28 18:35:02
+user_9459,carrito_abandonado,Caimán,26,16.2,mobile,Edge,Coahuila,2024-08-03 10:02:19
+user_7693,agregar_carrito,Caimán,17,21.2,mobile,Edge,Nuevo,2021-07-10 10:56:21
+user_2089,click_producto,Perestroika,23,18.1,desktop,Samsung Internet,Hidalgo,2025-07-11 03:13:45
+user_3947,agregar_carrito,084 Diamante,27,8.5,mobile,Samsung Internet,Nuevo,2025-01-22 07:03:54
+user_9845,click_producto,084 Clásico,23,8.3,desktop,Firefox,Michoacan,2025-02-19 08:48:58
+user_3684,carrito_abandonado,SuperFaro,21,1.6,mobile,Edge,Michoacan,2024-12-15 12:47:41
+user_6537,busqueda,Caimán,18,9.2,desktop,Chrome,Puebla,2022-02-09 17:28:32
+user_9792,click_producto,RL15,27,28.8,desktop,Chrome,Chihuahua,2025-01-25 14:53:14
+user_4698,compra_completada,084 Diamante,26,6.4,mobile,Edge,Hidalgo,2023-07-08 19:25:37
+user_2322,busqueda,Vaivén,21,7.6,desktop,Samsung Internet,Hidalgo,2024-04-23 16:42:05
+user_4470,agregar_carrito,Vaivén,25,23.0,mobile,Firefox,CDMX,2023-04-17 21:13:12
+user_5799,click_producto,Barracuda,25,13.4,desktop,Firefox,Nuevo,2023-08-21 21:57:03
+user_4030,busqueda,Vaivén,26,7.2,mobile,Samsung Internet,CDMX,2024-06-19 18:04:21
+user_4963,click_producto,Barracuda,25,19.8,mobile,Safari,Coahuila,2023-07-24 03:17:06
+user_2029,wishlist,084 Campeón,26,18.0,mobile,Samsung Internet,Morelos,2025-06-02 12:37:34
+user_7858,busqueda,Perestroika,28,20.1,mobile,Edge,Quintana,2022-09-10 23:26:35
+user_1048,agregar_carrito,084 Clásico,22,21.8,mobile,Samsung Internet,Hidalgo,2022-10-13 10:09:50
+user_7501,click_producto,084 Clásico,25,18.1,mobile,Chrome,CDMX,2023-03-19 14:48:32
+user_4528,carrito_abandonado,Gran Prix,29,29.1,mobile,Edge,Coahuila,2026-04-30 20:25:38
+user_2129,busqueda,084 Campeón,17,1.3,mobile,Samsung Internet,Michoacan,2025-09-30 13:45:42
+user_7121,busqueda,084 Campeón,27,9.3,mobile,Edge,Morelos,2025-11-12 08:17:09
+user_4903,busqueda,Gran Prix,27,26.9,mobile,Edge,Coahuila,2023-01-05 20:08:53
+user_4070,busqueda,084 Diamante,22,16.4,mobile,Samsung Internet,EdoMex,2021-08-28 13:00:42
+user_1358,click_producto,Perestroika,18,22.5,mobile,Edge,CDMX,2024-08-04 21:19:09
+user_8477,busqueda,Urbano,18,22.1,mobile,Samsung Internet,EdoMex,2024-06-13 11:14:02
+user_3306,busqueda,Perestroika,30,14.7,mobile,Edge,Nuevo,2021-10-03 20:19:30
+user_5439,compra_completada,RL15,22,10.1,desktop,Firefox,Chihuahua,2023-04-17 22:57:40
+user_5809,click_producto,Panam Alfa,22,29.3,mobile,Samsung Internet,CDMX,2022-02-11 07:37:21
+user_8974,click_producto,SuperFaro,25,28.1,mobile,Firefox,Puebla,2022-09-13 00:19:07
+user_6550,agregar_carrito,Perestroika,24,12.1,mobile,Chrome,Quintana,2022-02-18 18:53:56
+user_3940,busqueda,Perestroika,23,8.3,mobile,Safari,Quintana,2026-01-19 08:20:02
+user_6950,busqueda,Gran Prix,16,20.2,mobile,Safari,Michoacan,2021-10-10 07:54:33
+user_2767,busqueda,Perestroika,26,12.1,mobile,Chrome,Hidalgo,2023-06-24 17:18:08
+user_5663,agregar_carrito,SuperFaro,23,13.5,mobile,Edge,EdoMex,2022-01-09 00:29:42
+user_8303,agregar_carrito,084 Clásico,24,29.9,mobile,Samsung Internet,Puebla,2025-10-25 16:33:13
+user_8189,compra_completada,Vaivén,27,26.3,desktop,Chrome,Morelos,2023-07-09 11:48:05
+user_9836,click_producto,RL15,27,21.6,mobile,Safari,CDMX,2025-03-15 12:26:02
+user_6415,agregar_carrito,084,24,25.3,mobile,Firefox,Morelos,2022-08-13 19:13:12
+user_3874,busqueda,084 Clásico,22,8.2,mobile,Chrome,Puebla,2023-11-04 13:50:41
+user_7630,compra_completada,084 Diamante,27,3.0,mobile,Chrome,EdoMex,2022-07-21 19:47:09
+user_9540,busqueda,SuperFaro,23,16.2,desktop,Edge,Puebla,2025-01-21 01:22:56
+user_7999,click_producto,084 Diamante,27,8.0,desktop,Chrome,Chihuahua,2023-09-20 02:15:20
+user_9096,busqueda,Gran Prix,26,18.6,mobile,Chrome,Michoacan,2022-12-06 17:26:55
+user_7055,agregar_carrito,Vaivén,17,9.6,desktop,Firefox,Morelos,2023-04-19 12:52:34
+user_7128,click_producto,Gran Prix,26,17.1,tablet,Safari,Michoacan,2024-10-30 22:39:49
+user_2879,click_producto,Vital,14,28.3,mobile,Edge,Chihuahua,2023-12-31 21:14:37
+user_2352,busqueda,084 Clásico,28,2.3,mobile,Firefox,Quintana,2022-10-07 11:31:49
+user_9500,busqueda,Ultra,25,20.7,desktop,Firefox,Michoacan,2025-10-10 22:40:28
+user_8317,agregar_carrito,Vital,18,19.5,mobile,Safari,EdoMex,2021-12-01 06:10:58
+user_2118,busqueda,084 Clásico,24,24.8,mobile,Edge,Quintana,2023-04-28 00:12:48
+user_5303,agregar_carrito,Vital,25,15.6,mobile,Firefox,Morelos,2022-02-18 11:00:36
+user_9453,carrito_abandonado,SuperFaro,21,17.5,desktop,Firefox,Puebla,2021-10-16 19:06:52
+user_5470,carrito_abandonado,Caimán,17,3.7,mobile,Edge,CDMX,2026-03-21 19:36:44
+user_3353,busqueda,Barracuda,24,18.5,mobile,Samsung Internet,Puebla,2022-11-05 10:07:02
+user_1476,agregar_carrito,RL15,26,24.5,mobile,Edge,Puebla,2023-10-20 07:44:31
+user_4251,wishlist,Caimán,18,25.4,mobile,Firefox,Puebla,2026-01-04 04:02:47
+user_9714,compra_completada,SuperFaro,21,8.4,desktop,Edge,EdoMex,2025-05-07 19:02:46
+user_2345,busqueda,Ultra,22,20.8,mobile,Safari,Nuevo,2024-12-12 19:38:20
+user_6008,agregar_carrito,084 Campeón,24,3.2,mobile,Safari,CDMX,2022-10-11 12:16:23
+user_3976,wishlist,084 Clásico,22,3.3,mobile,Samsung Internet,Michoacan,2023-05-11 18:30:27
+user_2282,busqueda,Ultra,20,9.1,mobile,Edge,Michoacan,2021-06-30 03:57:20
+user_3706,wishlist,SuperFaro,15,23.1,desktop,Edge,Nuevo,2023-01-04 19:44:55
+user_8800,click_producto,084 Campeón,26,6.6,mobile,Edge,CDMX,2022-01-02 03:51:46
+user_8795,busqueda,Perestroika,23,9.0,mobile,Edge,Hidalgo,2021-12-03 03:09:37
+user_9715,click_producto,Ultra,24,7.0,desktop,Safari,Coahuila,2022-03-19 03:56:37
+user_4576,wishlist,Gran Prix,23,7.7,desktop,Edge,EdoMex,2023-08-21 16:10:16
+user_1903,carrito_abandonado,Flip,25,2.8,mobile,Firefox,Michoacan,2022-11-14 01:54:22
+user_7874,click_producto,Panam Alfa,21,3.2,mobile,Chrome,Coahuila,2025-11-21 17:13:57
+user_6828,wishlist,Gran Prix,22,15.3,mobile,Samsung Internet,Coahuila,2022-05-28 11:07:59
+user_4375,busqueda,084 Diamante,15,4.3,desktop,Firefox,Nuevo,2025-04-13 20:03:17
+user_1339,agregar_carrito,Perestroika,26,14.0,desktop,Safari,Hidalgo,2026-01-21 06:09:50
+user_5155,compra_completada,Flip,25,24.9,mobile,Samsung Internet,Nuevo,2024-06-27 00:14:43
+user_2137,busqueda,084 Diamante,23,22.8,tablet,Samsung Internet,Nuevo,2022-11-14 16:19:34
+user_4455,busqueda,084 Campeón,17,5.1,desktop,Firefox,Quintana,2022-08-25 06:18:42
+user_8032,compra_completada,Ultra,22,16.1,mobile,Safari,Chihuahua,2025-11-20 19:09:44
+user_1205,carrito_abandonado,084,17,10.7,desktop,Samsung Internet,Nuevo,2022-12-09 04:06:17
+user_3215,click_producto,Vaivén,23,14.5,mobile,Safari,Nuevo,2023-06-09 23:31:14
+user_2162,agregar_carrito,RL15,26,3.8,mobile,Safari,Puebla,2021-06-03 22:58:21
+user_8190,carrito_abandonado,084,26,13.3,mobile,Firefox,Quintana,2024-02-13 00:10:29
+user_9087,busqueda,Flip,22,18.8,desktop,Chrome,Quintana,2022-10-23 12:42:59
+user_7630,agregar_carrito,Ultra,18,20.0,desktop,Firefox,Morelos,2023-08-31 21:44:20
+user_3351,busqueda,Flip,22,5.6,desktop,Chrome,Puebla,2025-09-18 09:10:31
+user_8726,busqueda,084 Campeón,25,1.7,desktop,Safari,Coahuila,2021-07-11 03:37:47
+user_1902,click_producto,Panam Alfa,28,1.8,mobile,Samsung Internet,Michoacan,2025-08-11 01:34:25
+user_7282,wishlist,084 Campeón,24,16.1,mobile,Edge,Chihuahua,2025-08-22 05:45:36
+user_8323,busqueda,084,25,8.9,desktop,Safari,Hidalgo,2021-10-31 09:50:08
+user_8631,carrito_abandonado,084 Diamante,26,27.2,mobile,Chrome,Morelos,2024-09-12 07:04:00
+user_7860,click_producto,RL15,26,19.1,mobile,Edge,Morelos,2022-07-01 01:19:18
+user_1634,busqueda,Urbano,19,1.1,desktop,Firefox,CDMX,2022-10-08 15:18:14
+user_3518,agregar_carrito,Flip,18,24.8,tablet,Safari,Nuevo,2021-10-04 23:36:42
+user_1996,compra_completada,Gran Prix,16,27.3,desktop,Edge,Quintana,2025-05-04 02:56:58
+user_5213,carrito_abandonado,Flip,26,9.3,mobile,Edge,Nuevo,2022-09-04 04:14:06
+user_7497,carrito_abandonado,Ultra,28,25.8,mobile,Safari,Puebla,2022-06-22 19:07:04
+user_5997,busqueda,084,26,25.1,desktop,Chrome,EdoMex,2023-05-29 10:03:51
+user_8267,busqueda,Perestroika,25,14.9,mobile,Edge,EdoMex,2024-06-21 14:31:15
+user_9317,carrito_abandonado,Urbano,22,4.8,desktop,Samsung Internet,EdoMex,2026-03-25 17:13:32
+user_4656,click_producto,Vaivén,23,4.7,tablet,Safari,Hidalgo,2023-09-22 11:11:36
+user_6398,busqueda,Flip,16,14.4,mobile,Edge,Puebla,2025-04-13 10:13:07
+user_7906,wishlist,Caimán,15,21.1,mobile,Chrome,Michoacan,2023-06-10 10:08:14
+user_2413,compra_completada,084 Diamante,25,11.7,mobile,Firefox,Nuevo,2025-03-21 05:52:56
+user_4911,agregar_carrito,Urbano,23,15.5,mobile,Firefox,CDMX,2022-11-02 22:32:41
+user_3103,click_producto,RL15,27,26.9,mobile,Firefox,Michoacan,2022-04-14 03:44:55
+user_6750,agregar_carrito,084 Campeón,24,15.3,mobile,Firefox,Nuevo,2023-06-17 23:01:26
+user_6382,busqueda,Urbano,15,27.9,mobile,Samsung Internet,Coahuila,2022-09-23 08:51:44
+user_4155,click_producto,Ultra,16,12.0,desktop,Firefox,CDMX,2021-09-16 02:55:50
+user_2726,agregar_carrito,084 Clásico,18,11.3,tablet,Firefox,Chihuahua,2021-12-02 04:11:19
+user_9997,compra_completada,Vaivén,24,5.2,mobile,Firefox,Michoacan,2024-07-23 09:38:32
+user_8431,busqueda,SuperFaro,25,28.8,tablet,Safari,EdoMex,2022-07-04 00:32:33
+user_8981,agregar_carrito,084 Clásico,17,11.2,mobile,Firefox,Hidalgo,2021-05-09 13:32:31
+user_8969,busqueda,SuperFaro,28,2.8,mobile,Safari,Morelos,2023-10-17 02:09:25
+user_3703,agregar_carrito,SuperFaro,27,12.8,desktop,Samsung Internet,Quintana,2025-04-08 08:29:23
+user_1004,click_producto,084,23,15.4,mobile,Edge,CDMX,2025-11-05 23:54:40
+user_6888,click_producto,084 Diamante,14,22.2,mobile,Samsung Internet,Quintana,2025-07-08 00:35:34
+user_3124,compra_completada,084,24,9.7,mobile,Safari,Michoacan,2024-09-16 01:22:59
+user_4890,busqueda,SuperFaro,23,29.7,desktop,Safari,Chihuahua,2026-01-11 13:18:12
+user_5290,agregar_carrito,Panam Alfa,22,18.0,tablet,Chrome,Puebla,2025-12-15 01:38:18
+user_7623,busqueda,SuperFaro,26,12.1,mobile,Firefox,Michoacan,2024-10-13 15:38:20
+user_5503,carrito_abandonado,RL15,25,20.2,mobile,Chrome,Morelos,2025-10-25 01:24:39
+user_3509,click_producto,Flip,27,7.6,mobile,Firefox,Puebla,2025-04-26 12:30:41
+user_1967,agregar_carrito,Perestroika,25,19.0,tablet,Firefox,Hidalgo,2025-10-08 07:09:28
+user_2587,carrito_abandonado,084 Campeón,25,10.8,mobile,Samsung Internet,Puebla,2024-05-11 10:07:46
+user_4932,compra_completada,Vaivén,23,29.7,desktop,Edge,Puebla,2026-04-05 22:12:39
+user_4435,busqueda,SuperFaro,24,20.7,desktop,Safari,Puebla,2024-10-17 16:35:08
+user_2294,compra_completada,084 Clásico,22,14.5,desktop,Edge,Nuevo,2023-06-27 22:45:09
+user_2536,busqueda,Vital,20,5.6,tablet,Edge,EdoMex,2025-10-20 03:34:12
+user_8155,busqueda,Barracuda,23,22.8,mobile,Edge,Quintana,2024-10-25 09:29:01
+user_2087,click_producto,084,18,2.3,desktop,Chrome,EdoMex,2022-10-08 07:25:10
+user_4912,busqueda,Vaivén,25,8.7,mobile,Chrome,Hidalgo,2025-08-18 00:33:36
+user_1131,busqueda,Vital,26,23.2,mobile,Chrome,Michoacan,2025-08-07 09:06:37
+user_2278,agregar_carrito,Perestroika,25,28.2,mobile,Safari,Nuevo,2022-06-03 23:54:42
+user_7889,wishlist,Flip,23,15.8,desktop,Firefox,Morelos,2021-08-28 22:12:40
+user_2616,click_producto,Urbano,17,12.2,mobile,Edge,Hidalgo,2023-02-09 13:50:54
+user_8985,compra_completada,084 Diamante,20,14.1,tablet,Chrome,Quintana,2021-12-21 21:09:37
+user_4033,agregar_carrito,084,24,23.8,mobile,Samsung Internet,Coahuila,2024-06-22 13:40:02
+user_7158,click_producto,084 Diamante,27,16.3,desktop,Samsung Internet,Morelos,2023-11-21 00:14:55
+user_9903,compra_completada,Panam Alfa,26,12.6,mobile,Chrome,Morelos,2022-05-01 17:47:24
+user_3585,carrito_abandonado,Perestroika,25,20.4,desktop,Samsung Internet,Morelos,2024-11-09 02:31:46
+user_7173,click_producto,Barracuda,24,22.1,mobile,Samsung Internet,Nuevo,2024-08-08 09:26:38
+user_8246,agregar_carrito,Flip,25,27.3,mobile,Edge,EdoMex,2024-07-18 19:13:11
+user_9306,busqueda,Perestroika,24,22.1,mobile,Safari,EdoMex,2023-11-24 08:27:54
+user_5066,carrito_abandonado,Vital,27,7.1,mobile,Edge,Hidalgo,2024-07-11 14:10:06
+user_2529,compra_completada,Vaivén,23,17.1,mobile,Firefox,Nuevo,2021-07-20 23:05:57
+user_1855,click_producto,Gran Prix,18,12.4,desktop,Firefox,Coahuila,2024-01-10 00:58:31
+user_2332,wishlist,Urbano,18,7.8,mobile,Firefox,Puebla,2025-06-29 12:39:43
+user_8189,agregar_carrito,Vaivén,26,15.5,desktop,Safari,Coahuila,2023-01-15 03:08:42
+user_6677,click_producto,SuperFaro,26,22.8,mobile,Samsung Internet,Puebla,2021-06-26 14:55:52
+user_4527,click_producto,084 Campeón,23,22.1,desktop,Samsung Internet,CDMX,2023-03-08 12:53:00
+user_7839,busqueda,084 Clásico,23,8.8,desktop,Firefox,Quintana,2025-01-19 22:49:10
+user_2290,agregar_carrito,SuperFaro,25,25.6,mobile,Samsung Internet,Hidalgo,2022-08-08 00:35:24
+user_9867,carrito_abandonado,SuperFaro,19,21.2,desktop,Safari,Hidalgo,2025-03-05 16:46:38
+user_9657,agregar_carrito,RL15,17,6.5,mobile,Chrome,Quintana,2022-07-16 06:23:40
+user_5106,busqueda,Panam Alfa,28,23.5,desktop,Edge,Coahuila,2023-12-01 23:27:42
+user_5358,busqueda,RL15,17,20.1,mobile,Safari,Coahuila,2024-09-20 05:35:17
+user_2655,click_producto,RL15,24,2.3,desktop,Samsung Internet,Chihuahua,2023-06-06 09:24:56
+user_9369,click_producto,Perestroika,18,8.4,mobile,Samsung Internet,Quintana,2022-07-23 22:35:13
+user_3600,carrito_abandonado,084 Campeón,24,2.8,mobile,Samsung Internet,Puebla,2021-06-27 16:01:19
+user_1366,busqueda,084 Clásico,16,29.8,mobile,Edge,CDMX,2023-04-13 06:27:50
+user_6131,busqueda,Barracuda,25,26.1,mobile,Edge,EdoMex,2025-01-30 18:56:28
+user_5839,busqueda,SuperFaro,27,8.1,mobile,Edge,Michoacan,2023-07-02 13:51:55
+user_6967,click_producto,084 Clásico,26,5.9,mobile,Safari,Michoacan,2025-06-28 03:25:26
+user_6966,agregar_carrito,Caimán,25,22.8,desktop,Chrome,Michoacan,2024-09-29 04:13:06
+user_7728,click_producto,084,28,11.8,mobile,Edge,Hidalgo,2025-04-25 16:17:32
+user_9338,click_producto,084,19,28.1,mobile,Firefox,Coahuila,2025-04-22 02:57:49
+user_6194,carrito_abandonado,084,17,17.2,mobile,Safari,Morelos,2024-07-05 04:50:21
+user_5254,click_producto,RL15,27,18.6,desktop,Edge,Nuevo,2023-02-02 17:45:36
+user_9311,agregar_carrito,Urbano,17,9.6,mobile,Firefox,Hidalgo,2025-04-16 04:53:14
+user_9971,compra_completada,Ultra,26,2.4,desktop,Safari,Michoacan,2022-06-16 23:10:04
+user_1401,agregar_carrito,Ultra,19,10.9,desktop,Samsung Internet,Hidalgo,2024-11-19 15:05:01
+user_1643,compra_completada,RL15,25,18.2,mobile,Firefox,Morelos,2021-10-14 07:26:28
+user_6963,busqueda,Urbano,16,13.9,mobile,Firefox,Quintana,2023-06-09 02:36:07
+user_2699,compra_completada,Caimán,25,29.8,desktop,Safari,Puebla,2022-08-02 22:50:49
+user_5346,carrito_abandonado,084,24,17.0,mobile,Safari,CDMX,2022-03-18 11:07:56
+user_6937,busqueda,084 Diamante,25,25.8,mobile,Safari,EdoMex,2023-11-11 14:45:21
+user_7406,busqueda,Vital,18,16.8,mobile,Chrome,Chihuahua,2024-07-12 20:54:21
+user_3766,carrito_abandonado,084 Diamante,14,23.2,desktop,Safari,CDMX,2021-10-19 19:39:08
+user_1435,click_producto,Vital,26,3.8,mobile,Samsung Internet,Coahuila,2024-04-30 22:04:13
+user_5395,click_producto,Caimán,30,3.1,mobile,Chrome,Quintana,2025-04-21 18:22:02
+user_8155,busqueda,084 Clásico,17,4.6,desktop,Safari,EdoMex,2024-08-20 18:33:16
+user_4742,compra_completada,Flip,27,7.8,mobile,Safari,Chihuahua,2025-01-13 06:06:58
+user_7116,busqueda,Caimán,19,22.8,desktop,Safari,Hidalgo,2022-01-05 12:05:43
+user_6800,agregar_carrito,084,22,21.7,tablet,Chrome,Quintana,2023-11-07 01:21:54
+user_5156,busqueda,Perestroika,26,3.2,desktop,Samsung Internet,Coahuila,2024-05-14 00:40:56
+user_9713,agregar_carrito,Vaivén,16,19.7,mobile,Edge,Puebla,2025-09-16 06:08:33
+user_3638,carrito_abandonado,084 Diamante,25,11.6,mobile,Chrome,EdoMex,2026-01-15 13:33:55
+user_9571,click_producto,Barracuda,22,21.0,tablet,Edge,EdoMex,2025-05-29 02:32:44
+user_3318,wishlist,Vaivén,18,4.6,mobile,Safari,Morelos,2021-09-10 16:30:22
+user_4276,click_producto,Urbano,24,22.5,mobile,Firefox,Chihuahua,2025-06-05 09:48:17
+user_5810,click_producto,Panam Alfa,27,23.4,desktop,Samsung Internet,Hidalgo,2021-12-04 07:00:53
+user_8812,click_producto,084,15,14.2,desktop,Edge,Morelos,2024-05-06 21:46:55
+user_6114,busqueda,Ultra,19,10.7,mobile,Chrome,Morelos,2024-03-02 13:40:02
+user_6271,busqueda,Gran Prix,18,17.6,mobile,Firefox,Hidalgo,2022-12-29 21:38:57
+user_5401,agregar_carrito,Vital,16,11.5,mobile,Samsung Internet,Michoacan,2023-12-27 23:32:48
+user_6230,compra_completada,Perestroika,22,27.7,mobile,Safari,Puebla,2025-08-29 02:23:11
+user_2980,carrito_abandonado,Perestroika,17,13.1,mobile,Chrome,Chihuahua,2022-10-05 08:34:22
+user_8025,compra_completada,Vaivén,18,6.3,desktop,Edge,Chihuahua,2021-06-11 03:11:43
+user_5244,agregar_carrito,Barracuda,23,14.5,mobile,Firefox,Quintana,2022-03-18 12:27:58
+user_3118,click_producto,Gran Prix,16,15.8,desktop,Safari,CDMX,2022-08-04 04:47:22
+user_6287,carrito_abandonado,Panam Alfa,27,25.9,mobile,Chrome,Puebla,2026-02-15 13:58:50
+user_3876,busqueda,SuperFaro,24,25.7,mobile,Samsung Internet,Coahuila,2023-08-23 10:15:43
+user_3802,wishlist,Panam Alfa,26,19.0,mobile,Samsung Internet,Hidalgo,2021-11-09 20:16:57
+user_3362,busqueda,Gran Prix,27,15.0,mobile,Chrome,Coahuila,2021-07-23 11:19:22
+user_9026,compra_completada,Panam Alfa,24,28.8,mobile,Firefox,Chihuahua,2025-09-06 18:21:38
+user_1372,busqueda,Vaivén,15,18.1,desktop,Safari,Michoacan,2023-03-18 05:46:42
+user_8595,agregar_carrito,Vital,27,18.6,desktop,Firefox,EdoMex,2025-10-12 18:09:01
+user_3766,click_producto,084 Campeón,17,25.3,mobile,Samsung Internet,CDMX,2024-07-04 06:25:08
+user_8664,click_producto,084 Campeón,17,14.7,mobile,Edge,Chihuahua,2021-07-21 18:47:04
+user_6687,busqueda,RL15,28,4.9,mobile,Samsung Internet,Puebla,2025-02-28 18:49:53
+user_7048,carrito_abandonado,Vaivén,25,2.0,mobile,Firefox,Chihuahua,2024-10-12 03:22:12
+user_4060,busqueda,Caimán,25,28.9,mobile,Samsung Internet,Quintana,2024-03-10 14:41:02
+user_8482,wishlist,Barracuda,22,27.6,mobile,Edge,Chihuahua,2025-04-06 20:34:10
+user_7115,wishlist,084 Campeón,17,9.2,desktop,Edge,EdoMex,2024-04-19 15:26:43
+user_8720,busqueda,Gran Prix,23,24.2,desktop,Chrome,Coahuila,2024-02-16 07:43:20
+user_6178,agregar_carrito,Caimán,24,15.9,mobile,Safari,Coahuila,2023-10-10 00:29:48
+user_8234,click_producto,Caimán,24,2.7,mobile,Safari,Quintana,2024-06-24 00:26:06
+user_6566,agregar_carrito,Flip,27,2.9,mobile,Edge,Nuevo,2021-10-12 23:23:06
+user_1845,busqueda,084 Clásico,24,3.0,mobile,Chrome,EdoMex,2025-09-30 00:54:57
+user_7004,busqueda,RL15,24,27.1,mobile,Chrome,Nuevo,2026-05-01 05:51:58
+user_3941,busqueda,084,28,22.7,mobile,Firefox,Puebla,2022-05-25 20:32:12
+user_9901,agregar_carrito,Caimán,24,24.6,mobile,Firefox,EdoMex,2025-01-28 20:05:57
+user_9879,click_producto,RL15,16,10.6,mobile,Chrome,Chihuahua,2025-06-30 10:40:34
+user_9551,carrito_abandonado,Flip,27,18.1,desktop,Samsung Internet,Coahuila,2025-01-13 08:02:34
+user_7330,click_producto,Flip,18,6.6,mobile,Edge,Morelos,2025-09-20 15:17:25
+user_6004,click_producto,Ultra,18,6.9,mobile,Firefox,CDMX,2021-08-28 02:46:04
+user_1010,agregar_carrito,084 Campeón,26,24.9,mobile,Edge,EdoMex,2026-01-04 07:51:49
+user_3697,busqueda,Ultra,20,11.8,desktop,Samsung Internet,Michoacan,2026-03-02 08:56:47
+user_2315,agregar_carrito,084 Diamante,23,14.9,desktop,Firefox,Michoacan,2025-08-26 16:59:05
+user_2065,wishlist,084 Diamante,27,26.2,mobile,Samsung Internet,CDMX,2021-12-02 20:13:53
+user_4498,busqueda,Ultra,22,18.0,mobile,Firefox,Quintana,2022-08-27 03:54:02
+user_5469,busqueda,084 Campeón,24,2.5,tablet,Edge,Quintana,2024-07-24 22:55:00
+user_6339,click_producto,084 Clásico,23,21.2,mobile,Safari,Chihuahua,2024-02-27 12:42:31
+user_7513,click_producto,Vaivén,25,11.9,mobile,Safari,CDMX,2025-02-02 09:14:04
+user_8322,click_producto,Flip,24,17.5,mobile,Edge,Hidalgo,2023-08-15 15:38:34
+user_1337,click_producto,084 Campeón,27,3.8,mobile,Edge,Quintana,2022-07-29 00:35:13
+user_7157,click_producto,084,26,29.8,mobile,Chrome,Puebla,2022-07-23 14:49:31
+user_7266,click_producto,SuperFaro,17,8.5,desktop,Samsung Internet,EdoMex,2023-01-07 18:31:46
+user_4083,busqueda,Gran Prix,23,22.1,mobile,Firefox,Hidalgo,2022-02-21 07:30:26
+user_5026,busqueda,Perestroika,28,3.6,mobile,Edge,Puebla,2024-08-12 11:39:56
+user_9983,click_producto,084 Diamante,18,19.0,desktop,Samsung Internet,Morelos,2023-09-11 12:55:48
+user_4904,busqueda,084 Clásico,25,1.7,desktop,Chrome,Nuevo,2024-09-14 03:20:18
+user_9605,busqueda,Caimán,17,29.0,mobile,Firefox,Puebla,2023-03-23 00:53:19
+user_9917,busqueda,084 Diamante,17,13.5,mobile,Firefox,Chihuahua,2021-09-14 22:27:17
+user_9937,busqueda,Ultra,27,8.3,mobile,Chrome,CDMX,2021-09-21 12:39:56
+user_5160,compra_completada,Panam Alfa,27,10.7,mobile,Edge,Michoacan,2023-12-04 21:24:55
+user_9142,busqueda,Flip,16,26.3,mobile,Edge,Quintana,2021-06-14 10:07:35
+user_6781,busqueda,RL15,16,17.4,desktop,Chrome,Chihuahua,2022-06-24 19:39:45
+user_5335,busqueda,084,24,28.0,mobile,Samsung Internet,Morelos,2023-01-02 01:16:09
+user_3784,agregar_carrito,Gran Prix,18,3.7,mobile,Samsung Internet,Quintana,2024-11-27 15:09:11
+user_8483,carrito_abandonado,Urbano,27,29.3,desktop,Chrome,Nuevo,2026-03-11 12:29:24
+user_7614,click_producto,RL15,23,21.2,desktop,Firefox,Coahuila,2022-12-30 11:26:26
+user_1231,wishlist,Vital,15,29.3,mobile,Samsung Internet,Quintana,2024-11-25 04:29:00
+user_9090,busqueda,Gran Prix,24,2.4,tablet,Firefox,Michoacan,2022-08-21 22:21:57
+user_1956,carrito_abandonado,Perestroika,26,13.3,mobile,Samsung Internet,Morelos,2024-12-24 03:36:54
+user_9381,busqueda,084 Diamante,23,29.8,mobile,Edge,Morelos,2026-01-01 10:14:12
+user_3806,busqueda,Vital,24,27.2,mobile,Edge,Nuevo,2026-03-08 01:52:04
+user_3840,compra_completada,Flip,24,2.5,desktop,Safari,Morelos,2023-07-09 11:59:30
+user_2615,busqueda,Ultra,26,24.8,desktop,Chrome,Chihuahua,2023-02-21 03:27:11
+user_3097,busqueda,Panam Alfa,25,27.3,mobile,Firefox,EdoMex,2021-05-09 13:03:50
+user_1705,busqueda,RL15,24,9.6,desktop,Chrome,Puebla,2021-11-29 13:07:27
+user_7098,busqueda,084 Diamante,23,10.5,mobile,Samsung Internet,EdoMex,2022-09-27 10:08:07
+user_6304,compra_completada,Vaivén,24,28.2,mobile,Edge,Michoacan,2021-09-01 04:04:51
+user_4167,agregar_carrito,Ultra,25,28.0,mobile,Edge,Hidalgo,2023-08-10 16:28:29
+user_3468,busqueda,Panam Alfa,27,26.2,mobile,Firefox,Michoacan,2025-06-15 08:51:57
+user_9534,click_producto,084 Clásico,27,6.2,mobile,Chrome,EdoMex,2021-11-29 02:44:44
+user_3172,busqueda,Caimán,23,16.8,desktop,Chrome,Nuevo,2023-03-19 11:39:12
+user_1051,busqueda,Panam Alfa,27,3.0,desktop,Firefox,Michoacan,2025-05-01 18:15:31
+user_9017,busqueda,084 Clásico,26,28.5,desktop,Chrome,Coahuila,2022-10-04 07:06:39
+user_2701,click_producto,Urbano,24,20.9,mobile,Chrome,Nuevo,2025-07-18 23:29:22
+user_2185,agregar_carrito,Barracuda,19,21.1,mobile,Firefox,Nuevo,2022-04-27 16:54:59
+user_8159,carrito_abandonado,RL15,16,6.4,mobile,Chrome,Chihuahua,2022-01-11 05:44:49
+user_8954,busqueda,Panam Alfa,18,9.5,mobile,Edge,Hidalgo,2025-04-04 17:30:54
+user_3001,agregar_carrito,Perestroika,29,10.7,desktop,Samsung Internet,Coahuila,2024-04-06 15:07:11
+user_4410,wishlist,084 Campeón,25,6.0,tablet,Safari,EdoMex,2024-07-06 21:47:43
+user_8374,busqueda,RL15,24,29.6,desktop,Safari,Michoacan,2025-05-03 16:27:57
+user_2384,carrito_abandonado,Perestroika,23,5.2,mobile,Chrome,Michoacan,2023-07-18 14:52:38
+user_3187,wishlist,Vaivén,25,25.4,desktop,Samsung Internet,Quintana,2026-04-04 14:15:55
+user_4478,carrito_abandonado,Caimán,27,13.2,mobile,Chrome,Chihuahua,2026-02-06 04:40:45
+user_2530,click_producto,Vital,16,2.8,mobile,Chrome,CDMX,2026-01-04 03:03:45
+user_5299,click_producto,084 Campeón,26,6.0,desktop,Firefox,Quintana,2024-02-28 22:05:58
+user_6577,carrito_abandonado,Caimán,25,12.3,mobile,Chrome,EdoMex,2024-02-16 06:51:26
+user_9983,carrito_abandonado,Gran Prix,17,20.7,mobile,Edge,Puebla,2025-10-30 05:04:05
+user_4769,carrito_abandonado,Vaivén,26,0.7,mobile,Safari,Coahuila,2022-09-03 05:02:20
+user_6038,busqueda,084,22,29.9,mobile,Edge,Michoacan,2025-10-09 12:23:50
+user_8580,click_producto,RL15,25,6.8,mobile,Samsung Internet,Coahuila,2023-09-21 11:53:46
+user_2638,busqueda,Vital,27,5.4,desktop,Firefox,Michoacan,2023-06-08 21:25:21
+user_4874,busqueda,Ultra,25,20.6,desktop,Chrome,Chihuahua,2023-04-10 13:23:55
+user_7655,busqueda,Ultra,25,14.2,desktop,Chrome,Puebla,2021-07-15 20:01:03
+user_3590,busqueda,Urbano,25,8.4,mobile,Samsung Internet,Hidalgo,2025-01-14 18:43:47
+user_5561,click_producto,Barracuda,28,16.0,desktop,Edge,Quintana,2025-06-17 15:24:10
+user_6085,click_producto,Flip,18,8.2,mobile,Firefox,Nuevo,2023-08-31 10:38:06
+user_3301,agregar_carrito,084 Clásico,15,11.7,mobile,Chrome,EdoMex,2024-02-21 07:41:40
+user_4325,carrito_abandonado,084 Clásico,16,27.2,mobile,Edge,Hidalgo,2025-09-04 16:16:35
+user_7497,busqueda,Panam Alfa,18,18.2,mobile,Firefox,Coahuila,2023-11-27 14:49:55
+user_6489,carrito_abandonado,084 Diamante,27,13.5,desktop,Chrome,Morelos,2025-08-04 17:33:22
+user_8677,click_producto,Urbano,19,18.8,desktop,Samsung Internet,CDMX,2024-10-16 04:05:02
+user_4951,compra_completada,Urbano,19,17.0,mobile,Edge,Michoacan,2021-10-14 02:59:25
+user_4475,agregar_carrito,084 Clásico,23,23.6,mobile,Safari,Puebla,2023-11-26 21:56:46
+user_3591,click_producto,084 Clásico,26,21.8,desktop,Firefox,CDMX,2023-07-17 05:59:16
+user_8248,busqueda,Barracuda,24,28.2,mobile,Firefox,CDMX,2022-04-03 15:45:50
+user_7409,click_producto,Gran Prix,17,3.1,mobile,Edge,Puebla,2022-08-10 12:22:35
+user_6466,click_producto,Caimán,19,14.3,desktop,Edge,Coahuila,2026-01-26 03:38:12
+user_8570,compra_completada,Vaivén,24,24.6,desktop,Firefox,Hidalgo,2023-04-02 13:29:28
+user_6940,click_producto,Gran Prix,15,25.5,mobile,Samsung Internet,Nuevo,2023-03-19 01:04:21
+user_6618,busqueda,084 Campeón,17,8.2,desktop,Safari,Puebla,2023-06-19 14:02:16
+user_5286,click_producto,Barracuda,25,0.6,mobile,Safari,Coahuila,2025-04-19 11:03:06
+user_2202,compra_completada,Barracuda,26,6.5,mobile,Chrome,Michoacan,2022-08-26 22:33:01
+user_5014,busqueda,Vital,16,17.2,mobile,Safari,Coahuila,2022-03-10 02:43:46
+user_1648,busqueda,Barracuda,24,24.4,mobile,Samsung Internet,Nuevo,2025-12-17 08:50:26
+user_1747,carrito_abandonado,RL15,25,6.4,mobile,Samsung Internet,Coahuila,2025-08-26 09:13:25
+user_7195,carrito_abandonado,Perestroika,19,20.7,mobile,Chrome,Quintana,2024-06-08 13:29:59
+user_8878,click_producto,Flip,25,9.2,desktop,Safari,Michoacan,2024-11-09 19:49:48
+user_6735,agregar_carrito,084 Diamante,17,6.9,mobile,Safari,CDMX,2024-10-01 01:48:59
+user_2936,busqueda,Vital,16,29.9,mobile,Firefox,Morelos,2024-11-30 11:25:46
+user_8037,agregar_carrito,Perestroika,19,14.5,mobile,Edge,Hidalgo,2026-03-03 01:31:19
+user_5759,busqueda,084 Clásico,20,5.7,mobile,Samsung Internet,Hidalgo,2024-03-01 19:49:42
+user_6414,wishlist,SuperFaro,16,26.7,mobile,Firefox,EdoMex,2023-11-23 00:08:45
+user_3666,busqueda,Flip,24,10.9,mobile,Edge,Quintana,2022-01-14 20:13:07
+user_5671,carrito_abandonado,084,26,15.9,mobile,Edge,CDMX,2023-05-31 04:27:51
+user_8578,busqueda,Barracuda,25,17.5,tablet,Samsung Internet,Coahuila,2022-09-24 11:35:58
+user_9717,agregar_carrito,Caimán,26,15.4,mobile,Chrome,CDMX,2025-06-10 17:41:46
+user_7552,agregar_carrito,Flip,25,26.7,desktop,Samsung Internet,Michoacan,2021-11-29 20:00:32
+user_5671,wishlist,Urbano,18,5.7,mobile,Edge,Chihuahua,2024-01-08 05:07:03
+user_5171,compra_completada,084 Diamante,24,23.7,tablet,Edge,CDMX,2021-10-31 13:47:06
+user_8544,agregar_carrito,SuperFaro,22,21.3,desktop,Chrome,Michoacan,2025-01-20 05:13:25
+user_1867,busqueda,Barracuda,25,0.6,desktop,Samsung Internet,Quintana,2024-10-19 22:43:35
+user_4715,agregar_carrito,Perestroika,26,17.0,desktop,Chrome,Hidalgo,2025-01-09 11:32:50
+user_9320,click_producto,084 Diamante,26,23.3,mobile,Firefox,Hidalgo,2022-08-29 09:17:05
+user_3796,compra_completada,Barracuda,24,13.7,mobile,Chrome,Hidalgo,2024-11-14 17:29:05
+user_2716,carrito_abandonado,SuperFaro,24,8.2,desktop,Samsung Internet,Nuevo,2025-05-16 21:12:28
+user_8994,carrito_abandonado,Gran Prix,29,2.8,desktop,Edge,Quintana,2021-08-10 20:09:14
+user_3631,busqueda,084 Diamante,26,6.4,mobile,Samsung Internet,CDMX,2024-03-09 19:39:49
+user_2033,click_producto,Barracuda,22,9.6,mobile,Edge,EdoMex,2024-07-01 12:19:44
+user_4764,busqueda,Barracuda,24,19.4,mobile,Chrome,Michoacan,2022-05-10 02:23:12

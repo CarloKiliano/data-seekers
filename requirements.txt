@@ -1,0 +1,37 @@
+# ============================================================
+# Data Seekers – Panam NoSQL Project
+# requirements.txt — Dependencias con versiones fijas
+# Python 3.10+ recomendado | Probado en 3.10 y 3.11
+# ============================================================
+
+# ── Bases de Datos ──────────────────────────────────────────
+pymongo==4.7.2                  # Driver MongoDB oficial
+cassandra-driver==3.29.1        # Driver Apache Cassandra oficial
+
+# ── API REST (FastAPI) ──────────────────────────────────────
+fastapi==0.111.0                # Framework web moderno y rápido
+uvicorn[standard]==0.30.0       # Servidor ASGI que ejecuta FastAPI
+pydantic==2.7.4                 # Validación de datos (FastAPI lo usa internamente)
+
+# ── Generación de Datos ─────────────────────────────────────
+Faker==25.2.0                   # Datos ficticios realistas
+
+# ── ETL & Procesamiento de Datos ────────────────────────────
+pandas==2.2.2                   # Manipulación de DataFrames
+numpy==2.1.0                   # Operaciones numéricas
+
+# ── Visualización ───────────────────────────────────────────
+matplotlib==3.9.0               # Gráficas base
+seaborn==0.13.2                 # Heatmaps y visualizaciones estadísticas
+
+# ── Jupyter ─────────────────────────────────────────────────
+jupyter==1.0.0                  # Entorno de notebooks
+notebook==7.2.0                 # Jupyter Notebook clásico
+ipykernel==6.29.4               # Kernel de Python para Jupyter
+
+# ── Configuración y Entorno ─────────────────────────────────
+python-dotenv==1.0.1            # Leer variables de .env
+PyYAML==6.0.1                   # Leer archivos config.yaml
+
+# ── Utilidades ──────────────────────────────────────────────
+tqdm==4.66.4                    # Barras de progreso en carga de datos

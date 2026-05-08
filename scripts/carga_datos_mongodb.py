@@ -109,7 +109,7 @@ def cargar_resenas(db, data_path: Path) -> int:
     except BulkWriteError as e:
         print(f"\n   ⚠️  Error parcial en inserción: {len(e.details['writeErrors'])} documentos fallaron")
         total_insertados = e.details['nInserted']
-    
+    """
     # Crear índices para optimizar consultas
     print(f"\n🔍 Creando índices...")
     
@@ -128,6 +128,7 @@ def cargar_resenas(db, data_path: Path) -> int:
     # Índice compuesto para consultas frecuentes
     collection.create_index([('modelo', 1), ('sentimiento_calculado', 1)])
     print(f"   ✅ Índice compuesto creado en 'modelo' + 'sentimiento_calculado'")
+    """
     
     # Verificación final
     count = collection.count_documents({})
