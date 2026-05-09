@@ -70,3 +70,9 @@ htmlcov/
 *.tmp
 *.bak
 *.orig
+
+# Datos masivos generados (se regeneran con scripts/generar_datos_masivos.py)
+data/ventas.csv
+data/resenas.csv
+data/inventario.csv
+data/eventos.csv
