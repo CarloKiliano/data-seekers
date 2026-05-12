@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PANAM · Intelligence Hub</title>
+
+  <!-- Fuentes -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400;12..96,600;12..96,800&family=Inter+Tight:wght@400;500;600;700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+
+  <!-- Estilos propios -->
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+<main>
+  <!-- HERO -->
+  <header class="hero">
+    <div class="logo">
+      <!-- Logo Panam (cae a "P" gradient si no existe la imagen) -->
+      <img src="img/panam_logo.png" alt="Panam" onerror="this.style.display='none';this.parentNode.classList.add('logo-fallback');this.parentNode.textContent='P';">
+    </div>
+    <div class="hero-text">
+      <h1 class="hero-title">PANAM<span class="accent">.</span> Intelligence Hub</h1>
+      <div class="hero-sub">DATOS_OPERACIONALES_EN_TIEMPO_REAL · v2.0 · 2026</div>
+    </div>
+    <div class="hero-meta">
+      <span class="pulse"></span><strong>LIVE</strong><br>
+      <span id="meta-records"></span><br>
+      <span id="meta-range"></span>
+    </div>
+  </header>
+
+  <!-- FILTROS -->
+  <section class="filters">
+    <div class="filter">
+      <label class="filter-label">RANGO TEMPORAL</label>
+      <div class="filter-range-wrap">
+        <input type="date" id="f-date-from" class="filter-input">
+        <input type="date" id="f-date-to" class="filter-input">
+      </div>
+    </div>
+    <div class="filter">
+      <label class="filter-label">ESTADOS</label>
+      <div class="multi-select-wrap">
+        <button class="multi-select-btn" id="btn-estados">Todos los estados</button>
+        <div class="multi-select-panel" id="panel-estados"></div>
+      </div>
+    </div>
+    <div class="filter">
+      <label class="filter-label">MODELOS</label>
+      <div class="multi-select-wrap">
+        <button class="multi-select-btn" id="btn-modelos">Todos los modelos</button>
+        <div class="multi-select-panel" id="panel-modelos"></div>
+      </div>
+    </div>
+    <button class="btn-reset" id="btn-reset">RESET</button>
+  </section>
+
+  <!-- CROSS-FILTER CHIP -->
+  <div class="active-filter-chip" id="active-chip">
+    <span id="active-chip-text"></span>
+    <button class="clear" id="active-chip-clear">✕ Limpiar</button>
+  </div>
+
+  <!-- KPIs -->
+  <section class="kpis">
+    <article class="kpi">
+      <div class="kpi-glow"></div>
+      <div class="kpi-label">Ingresos Totales</div>
+      <div class="kpi-value" id="kpi-ingresos">—</div>
+      <div class="kpi-trend" id="kpi-ingresos-trend">—</div>
+    </article>
+    <article class="kpi">
+      <div class="kpi-glow"></div>
+      <div class="kpi-label">Unidades Vendidas</div>
+      <div class="kpi-value" id="kpi-unidades">—</div>
+      <div class="kpi-trend" id="kpi-unidades-trend">—</div>
+    </article>
+    <article class="kpi">
+      <div class="kpi-glow"></div>
+      <div class="kpi-label">Ticket Promedio</div>
+      <div class="kpi-value" id="kpi-ticket">—</div>
+      <div class="kpi-trend" id="kpi-ticket-trend">—</div>
+    </article>
+    <article class="kpi">
+      <div class="kpi-glow"></div>
+      <div class="kpi-label">Calificación</div>
+      <div class="kpi-value" id="kpi-calif">—</div>
+      <div class="kpi-trend" id="kpi-calif-trend">—</div>
+    </article>
+  </section>
+
+  <!-- CHARTS GRID -->
+  <section class="charts-grid">
+    <article class="card card-trend">
+      <div class="card-header">
+        <h2 class="card-title">Evolución mensual de ingresos</h2>
+        <span class="card-subtitle">MXN · click un punto para filtrar</span>
+      </div>
+      <div class="chart-wrap"><canvas id="ch-trend"></canvas></div>
+    </article>
+
+    <article class="card card-top">
+      <div class="card-header">
+        <h2 class="card-title">Ranking de modelos</h2>
+        <span class="card-subtitle">Click para filtrar</span>
+      </div>
+      <div class="chart-wrap"><canvas id="ch-modelos"></canvas></div>
+    </article>
+
+
+    <article class="card card-regional">
+      <div class="card-header">
+        <h2 class="card-title">Penetración regional</h2>
+        <span class="card-subtitle">UNIDADES x ESTADO</span>
+      </div>
+      <div class="chart-wrap"><canvas id="ch-estados"></canvas></div>
+    </article>
+
+    <article class="card card-tallas">
+      <div class="card-header">
+        <h2 class="card-title">Demanda por talla</h2>
+        <span class="card-subtitle">INFANTIL · ADULTO</span>
+      </div>
+      <div class="chart-wrap"><canvas id="ch-tallas"></canvas></div>
+    </article>
+
+    <article class="card card-sentiment">
+      <div class="card-header">
+        <h2 class="card-title">Sentimiento del cliente</h2>
+        <span class="card-subtitle">CALIFICACIÓN MENSUAL</span>
+      </div>
+      <div class="chart-wrap"><canvas id="ch-sentiment"></canvas></div>
+    </article>
+
+    <article class="card card-table">
+      <div class="card-header">
+        <h2 class="card-title">Desempeño detallado por modelo</h2>
+        <span class="card-subtitle">Click columna para ordenar · click fila para filtrar</span>
+      </div>
+      <table class="tbl" id="tabla-modelo">
+        <thead>
+          <tr>
+            <th data-sort="modelo">Modelo</th>
+            <th class="num" data-sort="unidades">Unidades</th>
+            <th class="num sort-active" data-sort="ingresos">Ingresos ▼</th>
+            <th class="num" data-sort="ticket">Ticket Prom.</th>
+            <th class="num" data-sort="cal">Calificación</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </article>
+  </section>
+
+  <footer class="footer">
+    PANAM Intelligence Hub · Data Seekers Team · 2026 · Datos sintéticos · Chart.js + D3
+  </footer>
+</main>
+
+<!-- Librerías externas -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/d3@7.8.5/dist/d3.min.js"></script>
+
+<!-- Módulos propios (orden importa: utils → state → módulos → main) -->
+<script src="js/utils.js"></script>
+<script src="js/state.js"></script>
+<script src="js/filters.js"></script>
+<script src="js/charts.js"></script>
+<script src="js/table.js"></script>
+<script src="js/kpis.js"></script>
+<script src="js/main.js"></script>
+
+</body>
+</html>
