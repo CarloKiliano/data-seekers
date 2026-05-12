@@ -76,3 +76,13 @@ data/ventas.csv
 data/resenas.csv
 data/inventario.csv
 data/eventos.csv
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Tableau versiones viejas (solo se sube la final)
+dashboards/Book1.twb
+dashboards/panam_dashboard_v1.twbx
+dashboards/panam_dashboard_v2.twbx
+dashboards/panam_dashboard_v3.twbx
