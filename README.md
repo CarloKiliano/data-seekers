@@ -260,18 +260,6 @@ Panam procesa tus datos a velocidad production:
 
 ---
 
-## 📚 Documentación Completa
-
-Panam viene con documentación exhaustiva:
-
-| Documento                | Para quién           | Qué aprenderás                                      |
-| ------------------------ | -------------------- | --------------------------------------------------- |
-| **docs/SETUP_README.md** | DevOps / IT          | Instalación, variables de entorno, troubleshooting  |
-| **docs/GUIA_FASTAPI.md** | Desarrolladores      | Cómo funciona el API, arquitectura, extensión       |
-| **docs/GUIA_POWERBI.md** | Analistas / Gerentes | Crear dashboard, visualizaciones, filtros dinámicos |
-
----
-
 ## 🎁 Includes
 
 Tu Panam incluye:
@@ -333,16 +321,13 @@ Tu Panam incluye:
 1. **Descarga Panam** — Clone el repositorio
 2. **Ejecuta setup.sh** — 30 segundos, todo instalado
 3. **Carga tus datos** — O usa los datos de ejemplo
-4. **Abre Power BI** — Conecta a `http://localhost:8000/api/v1/...`
+4. **Abre Dashboards** — Conecta a los links de los dashboards
 5. **Crea tu dashboard** — 5 gráficas + 4 KPIs = negocio inteligente
 
 ---
 
 ## 📞 ¿Preguntas?
 
-- **¿Cómo instalo?** → Ver `docs/SETUP_README.md`
-- **¿Cómo uso el API?** → Ver `docs/GUIA_FASTAPI.md`
-- **¿Cómo hago el dashboard?** → Ver `docs/GUIA_POWERBI.md`
 - **¿Cómo integro mis datos?** → Los scripts de carga se adaptan a cualquier fuente
 
 ---
