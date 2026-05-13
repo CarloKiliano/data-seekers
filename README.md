@@ -208,7 +208,7 @@ docker ps
 
 # Paso 3: Ejecutar notebooks
 00_setup_inicial.ipynb          ← Verifica conexiones a BD
-01_generacion_datos.ipynb       ← Genera los 8,800 registros
+python generar_datos_masivos.py ← Genera registros masivos
 02_etl_transformaciones.ipynb   ← ETL + análisis de sentimiento
 
 # Paso 4: Cargar datos históricos
@@ -220,8 +220,7 @@ python carga_datos_cassandra.py
 04_cassandra_consultas.ipynb    ← Carga y queries Cassandra
 
 # Paso 4: Encender el dashboard
-python run_api.py
-# Abre Power BI → Conecta a http://localhost:8000/api/v1/...
+# Abre la carpeta Docs→ Conecta los links del txt
 ```
 
 ### Listo para producción
